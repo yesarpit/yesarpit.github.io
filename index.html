@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+
+	<title>Test for Music Group</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<noscript>
+  <!-- anchor linking to external file -->
+  <a href="http://www.mozilla.com/">External Link</a>
+</noscript>
+<p>Rocks!</p>
+	<h2>Table with Drag &amp; Drop Capability</h2>
+
+
+	<table>
+		<tr>
+			<th>Brand</th>
+			<th>Main Category</th>
+			<th>Sub Category</th>
+			<th>Product Name</th>
+		</tr>
+		<tr>
+			<td rowspan="9" class="brands">Brand</td>
+			<td rowspan="3" class="category" draggable="true" ondragstart="dragstart_handler(event);" ondrop="drop_handler(event);" ondragover="dragover_handler(event);" id="mc1">Main Category 1</td>
+			<td class="subcategory" rowspan="2" draggable="true" ondragstart="dragstart_handler(event);" ondrop="drop_handler(event);" ondragover="dragover_handler(event);" id="sc1">Sub Category 1</td>
+			<td class="product" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="pn1">Product Name 1</td>
+		</tr>
+		<tr>
+			<td class="product" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="pn2">Product Name 2</td>
+		</tr>
+		<tr>
+			<td class="subcategory" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="sc2">Sub Category 2</td>
+			<td class="product" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="pn3">Product Name 3</td>
+		</tr>
+		<tr>
+
+			<td rowspan="6" class="category" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="mc2">Main Category 2</td>
+			<td class="subcategory" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="sc3">Sub Category 3</td>
+			<td class="product" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="pn4">Product Name 4</td>
+		</tr>
+		<tr>
+			<td class="subcategory" rowspan="2" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="sc4">Sub Category 4</td>
+			<td class="product" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="pn5">Product Name 5</td>
+		</tr>
+		<tr>
+			<td class="product" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="pn6">Product Name 6</td>
+		</tr>
+		<tr>
+			<td class="subcategory" rowspan="3" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="sc5">Sub Category 5</td>
+			<td class="product" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="pn7">Product Name 7</td>
+		</tr>
+		<tr>
+			<td class="product" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="pn8">Product Name 8</td>
+		</tr>
+		<tr>
+			<td class="product" draggable="true" ondrop="drop_handler(event);" ondragstart="dragstart_handler(event);" ondragover="dragover_handler(event);" id="pn9">Product Name 9</td>
+		</tr>
+	</table>
+
+	
+</body>
+
+<script>
+
+<!--
+document.write("<h1>THis is generated from js</h1>");
+//-->
+	window.onload = function () {
+		var sourceEvent,
+		parentRow,
+		pickedEvent,
+		incoming_class,
+		outgoing_class,
+		classMap = {
+			"product" : "subcategory",
+			"subcategory" : "category",
+			"category":"brands"
+
+		};
+		dragstart_handler = function(source_event){
+			
+			console.log("SourceEvent is ",source_event);
+			source_event.target.style['background-color']="#EBECEE";
+			source_event.dataTransfer.setData("text/html", "");
+			source_event.dataTransfer.setData("text/plain", "")
+			source_event.dataTransfer.setData("application/node type", this);
+			sourceEvent = source_event;
+			
+		}
+
+		dragover_handler = function(event){
+			event.preventDefault();
+		}
+
+		drop_handler = function(target_event){
+
+			if(checkRegion(target_event)){
+				target_event.preventDefault();
+				var a=document.getElementById(sourceEvent.target.id);
+				var b=document.getElementById(target_event.target.id);
+
+				if(a.hasAttribute("rowspan")||b.hasAttribute("rowspan")){
+					console.log("rowspan found");
+				}
+				var aAttr,bAttr;
+				var breset;
+				if(a.getAttribute("rowspan")){
+					aAttr = a.attributes.rowspan.value;
+				}else{
+					breset=1;
+				}
+				
+				if(b.getAttribute("rowspan")){
+					bAttr = b.attributes.rowspan.value;
+				}else{
+					a.removeAttribute("rowspan")
+				}
+
+				if(breset){
+					b.removeAttribute("rowspan")
+				}
+				if(aAttr){
+					b.setAttribute("rowspan", aAttr)
+				}
+				if(bAttr){
+					a.setAttribute("rowspan", bAttr)
+				}
+				
+				var aParent = a.parentElement;
+				var nextNode = a.nextElementSibling;
+				var replacedNode = b.parentElement.replaceChild(a, b);
+				aParent.insertBefore(replacedNode, nextNode)
+
+
+			}
+			sourceEvent.target.removeAttribute("style");
+			
+		}
+
+
+		checkRegion = function(target_event){
+			incoming_class = sourceEvent.target.className;
+			outgoing_class = target_event.target.className;
+
+			if(incoming_class===outgoing_class){
+				if(checkColoumn(target_event)){
+					return true;
+				};
+			}
+		}
+
+
+		checkColoumn = function(target_event){
+			
+			var sourceRowIndex=sourceEvent.target.parentElement.rowIndex;
+			var targetRowIndex=target_event.target.parentElement.rowIndex;
+			
+
+			allowedSpan = function() {
+
+				for (var i = sourceRowIndex; i >= 1; i--) {
+
+					parentRow = document.getElementsByTagName("tr").item(i).getElementsByClassName(classMap[incoming_class])[0];
+
+					var parentRowSpan = parentRow ? parentRow.rowSpan : 0;
+
+					if(parentRowSpan){
+						console.log("Parent row Span is "+parentRowSpan);
+						return parentRowSpan;
+
+					}
+
+
+				};
+
+			};
+
+			allowedSpan();
+
+
+			function checkBound() {
+				var UpperBound=(parentRow.parentElement.rowIndex)+allowedSpan()-1;
+				var lowerBound=(parentRow.parentElement.rowIndex);
+				
+				if(lowerBound<=targetRowIndex && targetRowIndex<=UpperBound){
+					return true;
+				}
+			}
+
+			
+			if(checkBound()){return true;}
+		}
+
+
+
+	}
+
+
+</script>
+</html>
