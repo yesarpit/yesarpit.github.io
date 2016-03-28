@@ -39,3 +39,29 @@ body, html {
     padding: 5px 10px 5px 10px;
     border-radius: 27px;
 }
+
+
+
+
+
+
+.home{
+    background-color: #D9DDD0;
+}
+
+footer{
+
+    text-align: center;
+}
+
+footer a{
+    padding-right:5%; 
+    color: #B2477E;
+    font-size: 1em;
+}
+footer a:first-child{
+    margin-left: 30%;
+        margin-left: 6%;
+
+
+}
