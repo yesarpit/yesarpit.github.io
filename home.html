@@ -3,106 +3,138 @@
 <head>
 	<title>Blog</title>
 	<link rel="stylesheet" type="text/css" href="assets/style.css">
-	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <!-- commenting cdn, using cutom minified	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"> -->
+  <link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css">
 </head>
 <body>
-<div class="container">
-	<div class="row">
-        <div class="profile-header-container">   
-    		<div class="profile-header-img">
-                <img class="img-circle" src="assets/images/myimage.jpg" />
-                <!-- badge -->
-                <div class="rank-label-container">
-                    <span class="label label-default rank-label">Arpit Sharma</span>
-                </div>
-            </div>
-        </div> 
+  <div class="container">
+   <div class="row">
+    <div class="profile-header-container">   
+      <div class="profile-header-img">
+        <img class="img-circle" src="assets/images/myimage.jpg" />
+        <!-- badge -->
+        <div class="rank-label-container">
+          <span class="label label-default rank-label">Arpit Sharma</span>
+        </div>
+      </div>
+    </div> 
 
 
+    <section>
+
+      <article>
+     <div class="page-header">
+          <h1>Difference between article and section</h1>
+          <p class="date-holder">Posted 05<sup>th</sup>April 2016</p>
 
 
+      <h3>Beginner's Trouble</h3>
+      <p>
+        Being a UI Developer is not an easy job, it often makes you wonder if you should follow the best practices or stay with whatever gets your job done quickly. 
+
+        While marking up this Blog I was faced with a challenge of using semantics over traditional div's. I decided to go with semantics. 
+        </br>
+        </br>
+        Now, to follow semantics, I thought W3C HTML5 specs would help me. But, Its an overdose of information for a regular UI developer like me. I then moved to WHATWG's live standard, though it's better than W3C but its still a lot of information to digest.</p>
+
+        <em> Do you understand this:</em>
+
+          <div class="quote-container">
+            <q class="quote-text"><i>The section element represents a generic section of a document or application. A section, in this context, is a thematic grouping of content. The theme of each section should be identified, typically by including a heading (h1-h6 element) as a child of the section element.</i></q>
+          </div>
+
+      <p>
+        Frankly above dint made much sense to me. I need either a one liner explanation or a real world example. Thankfully I found an article on iandevlin's blog which has a nice analogy of newspaper section and articles.
+
+        A newspaper has many sections like Politics, Finance , Editorial - which I avoid reading.
+        A section may contain  a few articles like "Minister A said xxx to Minister B" and "Minister B found roaming with A's wife" etc.  
+
+        A section can contain many articles and now the weired part: article may contain more sections followed by more articles. 
+        </br>
+        </br>
+        Nevertheless the newspaper analogy gives us a clear picture and easy to understand pattern for our use.
+
+        Below is how I arranged my sections :
+        </p>
+
+        <div class="image-container">
+          <img src="assets/images/sectionArticle.jpg" class="img-responsive">
+        </div>
+      <br>
+      <br>
+      Hope it helps.
+          
+      </div>
+      </article>
+      <div class="article-divider"></div>
+      <article>
         <div class="page-header">
-  <h1>Difference between HTML4 & HTML5</h1>
-  <p>28th December 2015<p>
-
-  
-
- <h3>1. HTML5 Is a Work in Progress </h3>
-<p>
-As cool as it is to see what HTML5 can do for you, it hasn&#39;t been standardized like HTML4. You don&#39;t have to worry about updating pages built using HTML4. It&#39;s more than ten years old and it&#39;s a set standard.
-
-If you jump into HTML5 with both feet, you&#39;re going to be making updates. Elements and attributes are added and modified several times a year. Of course, this is dependent how much you depend on rich elements, but it&#39;s certainly a risk you must take into consideration when using a fluid language.
-
-Build with HTML4, play with HTML5.
-</p>
-<h3>2. Simplified Syntax </h3>
-
-The simpler doctype declaration is just one of the many novelties in HTML5. Now you need to write only: <!doctype html> and this is it. The syntax of HTML5 is compatible with HTML4 and XHTML1, but not with SGML.
-
-<h3>3. The New &lt;canvas&gt; Element </h3>
-
-This is what killed Flash.
-
-Although it isn&#39;t as … uh … flashy … most assume that it will eventually make Flash obsolete.
-
-Only time will tell.
-
-<h3>4. The &lt;header&gt; and &lt;footer&gt; Elements </h3>
-
-For good or bad, HTML5 has acknowledged the new web anatomy. With HTML5, &lt;header&gt; and &lt;footer&gt; are specifically marked for such. Because of this, it is unnecessary to identify these two elements with a &lt;div&gt; tag.
-
-<h3>5. New &lt;section&gt; and &lt;article&gt; Elements </h3>
-
-Again, HTML5 has adopted the popular web standard. &lt;section&gt; and &lt;article&gt; allows you to mark specific areas of your layout as such, and should have a positive effect on on your SEO in the end.
-
-<h3>6. New &lt;menu&gt; and &lt;figure&gt; Elements </h3>
-
-&lt;menu&lt; can be used for your main menu, but it can also be used for toolbars and context menus. The &lt;figure&gt; element is another way to arrange text and images.
-
-<h3>7. New &lt;audio&gt; and &lt;video&gt; Elements </h3>
-
-Embedind audio and video has never been easier.
-
-There are also some new multimedia elements and attributes, such as &lt;track&gt;, that provides text tracks for the video element. With these additions HTML5 is definitely getting more and more Web 2.0-friendly. The problem is that by the time HTML5 becomes widely accepted, Web 2.0 might be old news.
-
-<h3>8. New Forms</h3>
-
-The new &lt;form&gt; and &lt;forminput&gt; elements are looking good. If you do much with forms, you may want to take a look at what these have to offer. 
-
-<h3>9. Kiss &lt;b&gt; and &lt;font&gt; Goodbye!</h3>
-
-CSS, all the time.
-
-All the time, CSS.
-<br>
-<small>
-<a href="http://churchm.ag/differences-between-html4-html5/" style="color: inherit;">Reference</small>
-
-
-</div>
-
-	</div>
-</div>
+          <h1>Difference between HTML4 & HTML5</h1>
+          <p class="date-holder">Posted 28<sup>th</sup>December 2015</p>
 
 
 
+           <h3>1. HTML5 Is a Work in Progress </h3>
+           <p>
+            As cool as it is to see what HTML5 can do for you, it hasn&#39;t been standardized like HTML4. You don&#39;t have to worry about updating pages built using HTML4. It&#39;s more than ten years old and it&#39;s a set standard.
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            If you jump into HTML5 with both feet, you&#39;re going to be making updates. Elements and attributes are added and modified several times a year. Of course, this is dependent how much you depend on rich elements, but it&#39;s certainly a risk you must take into consideration when using a fluid language.
 
-  ga('create', 'UA-73298730-1', 'auto');
-  ga('send', 'pageview');
+            Build with HTML4, play with HTML5.
+          </p>
+          <h3>2. Simplified Syntax </h3>
 
-</script>
+          The simpler doctype declaration is just one of the many novelties in HTML5. Now you need to write only: <!doctype html> and this is it. The syntax of HTML5 is compatible with HTML4 and XHTML1, but not with SGML.
+
+          <h3>3. The New &lt;canvas&gt; Element </h3>
+
+          This is what killed Flash.
+
+          Although it isn&#39;t as … uh … flashy … most assume that it will eventually make Flash obsolete.
+
+          Only time will tell.
+
+          <h3>4. The &lt;header&gt; and &lt;footer&gt; Elements </h3>
+
+          For good or bad, HTML5 has acknowledged the new web anatomy. With HTML5, &lt;header&gt; and &lt;footer&gt; are specifically marked for such. Because of this, it is unnecessary to identify these two elements with a &lt;div&gt; tag.
+
+          <h3>5. New &lt;section&gt; and &lt;article&gt; Elements </h3>
+
+          Again, HTML5 has adopted the popular web standard. &lt;section&gt; and &lt;article&gt; allows you to mark specific areas of your layout as such, and should have a positive effect on on your SEO in the end.
+
+          <h3>6. New &lt;menu&gt; and &lt;figure&gt; Elements </h3>
+
+          &lt;menu&lt; can be used for your main menu, but it can also be used for toolbars and context menus. The &lt;figure&gt; element is another way to arrange text and images.
+
+          <h3>7. New &lt;audio&gt; and &lt;video&gt; Elements </h3>
+
+          Embedind audio and video has never been easier.
+
+          There are also some new multimedia elements and attributes, such as &lt;track&gt;, that provides text tracks for the video element. With these additions HTML5 is definitely getting more and more Web 2.0-friendly. The problem is that by the time HTML5 becomes widely accepted, Web 2.0 might be old news.
+
+          <h3>8. New Forms</h3>
+
+          The new &lt;form&gt; and &lt;forminput&gt; elements are looking good. If you do much with forms, you may want to take a look at what these have to offer. 
+
+          <h3>9. Kiss &lt;b&gt; and &lt;font&gt; Goodbye!</h3>
+
+          CSS, all the time.
+
+          All the time, CSS.
+          <br>
+          <small>
+            <a href="http://churchm.ag/differences-between-html4-html5/" style="color: inherit;">Reference</small>
 
 
+            </div>
+
+          </div>
+        </div>
+      </article>
+
+    </section>
 
 
+  </body>
 
-
-</body>
-
-</html>
+  </html>
