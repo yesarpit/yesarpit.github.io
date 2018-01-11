@@ -24,6 +24,33 @@
             <section>
                 <article>
                     <div class="page-header">
+                        <h1>The SVG grid system considers top left as its default position</h1>
+                        <p class="date-holder">Posted 11<sup>th</sup>January 2018</p>
+                        <h3>Is that a big deal? </h3>
+                        <p>
+                            Yes? Because since kids we were taught that 0,0 starts at bottom left and that is how we draw graphs all over. But cruel
+                            HTML engines draws its page starting from top left as 0,0 and then calculates pixels accordingly.
+                        </p>
+                        As per <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Positions">mdn</a>:
+                        <div class="quote-container">
+                            <q class="quote-text"><i>
+                                For all elements, SVG uses a coordinate system or grid system..That is, the top left corner of the document is considered to be the point (0,0), or point of origin
+                                </i>
+                        </q>
+
+                        </div>
+                        <div>
+                            <img src="https://mdn.mozillademos.org/files/224/Canvas_default_grid.png" alt="image" class="img-responsive"  >
+                        </div>
+                        <p>
+                            Did that change your perception a bit? I did mine. I spent couple of hours figuring out why my d3 was plotting graphs from top left.
+                            wish I had know this before.
+                        </p>  
+                    </div>
+                </article>
+                <div class="article-divider"></div>
+                <article>
+                    <div class="page-header">
                         <h1>Use of Static in Javascript</h1>
                         <p class="date-holder">Posted 8<sup>th</sup>January 2018</p>
                         <h3>Static Keyword ?? What exactly? </h3>
