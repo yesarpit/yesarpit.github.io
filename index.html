@@ -21,7 +21,7 @@
     <div class="container-fluid">
         <div class="row home">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                <img src="assets/images/pf.png" class="img-responsive" style="margin:auto;" />
+                <img src="assets/images/pf-1.jpg" class="img-responsive" style="margin:auto;" />
                 <footer>
                     <a href="https://in.linkedin.com/in/yesarpit">LinkedIn</a>
                     <a href="blog.html">Github</a>
@@ -31,50 +31,51 @@
         </div>
     </div>
     <div align='center' style="display: none">
-        <a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM4NDA0OA==' border='0' alt='Visitor Counter'></a>
+        <a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM4NDA0OA==' border='0'
+                alt='Visitor Counter'></a>
         <BR><a href='http://www.hit-counts.com'>Visitor Counter</a></div>
     <script>
- /*   (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        /*   (function(i, s, o, g, r, a, m) {
+               i['GoogleAnalyticsObject'] = r;
+               i[r] = i[r] || function() {
+                   (i[r].q = i[r].q || []).push(arguments)
+               }, i[r].l = 1 * new Date();
+               a = s.createElement(o),
+                   m = s.getElementsByTagName(o)[0];
+               a.async = 1;
+               a.src = g;
+               m.parentNode.insertBefore(a, m)
+           })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+       
+           ga('create', 'UA-73298730-1', 'auto');
+           ga('send', 'pageview');*/
 
-    ga('create', 'UA-73298730-1', 'auto');
-    ga('send', 'pageview');*/
+        var httpRequest;
+        setTimeout(function () {
+            xhrCall('GET', 'https://ipinfo.io/json?token=bd51c9afe0c8ba', fetchlocation)
+        }, 2000)
 
-    var httpRequest;
-    setTimeout(function() {
-        xhrCall('GET', 'https://ipinfo.io/json?token=bd51c9afe0c8ba', fetchlocation)
-    }, 2000)
-
-    function fetchlocation() {
-        if (httpRequest.readyState === XMLHttpRequest.DONE) {
-            if (httpRequest.status === 200) {
-                sendIpToBackend(httpRequest.responseText);
-            } else {
-                console.log('There was a problem with the request.');
+        function fetchlocation() {
+            if (httpRequest.readyState === XMLHttpRequest.DONE) {
+                if (httpRequest.status === 200) {
+                    sendIpToBackend(httpRequest.responseText);
+                } else {
+                    console.log('There was a problem with the request.');
+                }
             }
         }
-    }
 
-    function sendIpToBackend(data) {
-        xhrCall('POST', 'http://trafficflow-yesarpit.rhcloud.com/postEntry', '', data)
-    }
+        function sendIpToBackend(data) {
+            // xhrCall('POST', 'http://trafficflow-yesarpit.rhcloud.com/postEntry', '', data)
+        }
 
-    function xhrCall(method, url, callback, data) {
-        httpRequest = new XMLHttpRequest();
-        httpRequest.onreadystatechange = callback;
-        httpRequest.open(method, url);
-        httpRequest.setRequestHeader("Content-Type", "application/json");
-        data ? httpRequest.send(data) : httpRequest.send();
-    }
+        function xhrCall(method, url, callback, data) {
+            httpRequest = new XMLHttpRequest();
+            httpRequest.onreadystatechange = callback;
+            httpRequest.open(method, url);
+            httpRequest.setRequestHeader("Content-Type", "application/json");
+            data ? httpRequest.send(data) : httpRequest.send();
+        }
     </script>
 </body>
 

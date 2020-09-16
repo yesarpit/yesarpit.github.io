@@ -1,0 +1,853 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"roo",
+				"rootEle"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"COMMENTLIST",
+				"commentlist"
+			],
+			[
+				"r",
+				"rcc\tClass Component"
+			],
+			[
+				"name",
+				"namespace\tkeyword"
+			],
+			[
+				"cl",
+				"class\tclass …"
+			],
+			[
+				"imp",
+				"import\timports a module …"
+			],
+			[
+				"promise",
+				"PromiseConstructorLike\ttype"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"num",
+				"Number\tinterface"
+			],
+			[
+				"$sc",
+				"$scope\tAngularJS"
+			],
+			[
+				"filter",
+				"$filter\tAngularJS"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ng-re",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"con",
+				"continue;"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"pre",
+				"preventDefault()\tEvent"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"function",
+				"function without name"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"stop",
+				"stopPropagation()\tEvent"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"func",
+				"function without name"
+			],
+			[
+				"getEle",
+				"getElementsByClassName(names)\tElement"
+			],
+			[
+				"Att",
+				"setAttribute(name, value)\tElement"
+			],
+			[
+				"getEl",
+				"getElementsByTagName(name)\tElement"
+			],
+			[
+				"tart",
+				"target\tEvent"
+			],
+			[
+				"remove",
+				"removeAttribute(attrName)\tElement"
+			],
+			[
+				"has",
+				"hasAttribute(attrName)\tElement"
+			],
+			[
+				"att",
+				"hasAttributes()\tNode"
+			],
+			[
+				"inse",
+				"insertBefore(newElement, referenceElement)\tNode"
+			],
+			[
+				"Pare",
+				"parentNode\tNode"
+			],
+			[
+				"pare",
+				"parentNode()\tTreeWalker"
+			],
+			[
+				"repl",
+				"replaceChild(newChild, oldChild)\tNode"
+			],
+			[
+				"parent",
+				"parentNode\tNode"
+			],
+			[
+				"getE",
+				"getElementById(id)\tElement"
+			],
+			[
+				"ta",
+				"targetNode"
+			],
+			[
+				"so",
+				"sourceNode"
+			],
+			[
+				"pi",
+				"pickedNode"
+			],
+			[
+				"row",
+				"rowspan"
+			],
+			[
+				"allo",
+				"allowed_span"
+			],
+			[
+				"ro",
+				"rowIndex"
+			],
+			[
+				"pa",
+				"parentNode"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"sou",
+				"source_text"
+			],
+			[
+				"data",
+				"dataTransfer"
+			],
+			[
+				"Class",
+				"className"
+			],
+			[
+				"tag",
+				"target_data"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 543.0,
+		"history":
+		[
+			"#!/usr/bin/python",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Arpit/Documents/Mine/Docs/Imp docs/Annual Tax Statement/2015-16 TRACES _ Form 26AS.html",
+		"/C/Users/Arpit/Documents/Mine/Docs/Imp docs/Annual Tax Statement/2016-17 TRACES _ Form 26AS.html",
+		"/C/blog/my infographic/Infographic – LaurYn Holden.html",
+		"/C/Dev/practise/react/TicTacToe/webpack.config.js",
+		"/C/Dev/practise/react/TicTacToe/index.html",
+		"/C/Dev/practise/react/TicTacToe/server.js",
+		"/C/Dev/practise/react/TicTacToe/package.json",
+		"/C/Dev/practise/react/TicTacGameApp/.babelrc",
+		"/C/Dev/practise/react/TicTacGameApp/bundle/app.bundle.js",
+		"/C/Dev/practise/react/TicTacGameApp/src/main.jsx",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/C/Dev/practise/react/TicTacGameApp/src/app.jsx",
+		"/C/Dev/practise/react/TicTacGameApp/server.js",
+		"/C/Dev/practise/react/TicTacGameApp/webpack.config.js",
+		"/C/Dev/practise/react/react-hot-boilerplate/package.json",
+		"/C/Dev/practise/react/TicTacGameApp/src/app.js",
+		"/C/Dev/practise/react/TicTacGameApp/src/server.js",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/AutoSpell/AutoSpell.sublime-settings",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/User/AutoSpell.sublime-settings",
+		"/C/Dev/practise/react/TicTacGameApp/package.json",
+		"/C/Dev/practise/react/TicTacGameApp/src/app.css",
+		"/C/Dev/practise/r/package.json",
+		"/C/Dev/practise/react/TicTacGameApp/bundle/app.bundle.css",
+		"/C/Dev/practise/react/TicTacGameApp/node_modules/webpack-dev-server/client/style.css",
+		"/C/Dev/practise/r/webpack.config.js",
+		"/C/Dev/practise/redux/index.html",
+		"/C/Dev/practise/redux1/package.json",
+		"/C/Dev/practise/redux/npm-debug.log",
+		"/C/Users/Arpit/Downloads/SA-Demo/index.html",
+		"/C/Users/Arpit/Desktop/SA-Demo/js/app.js",
+		"/C/Users/Arpit/Desktop/SA-Demo/data/cart.json",
+		"/C/Users/Arpit/Desktop/SA-Demo/index.html",
+		"/C/Users/Arpit/Desktop/SA-Demo/js/angular.min.js",
+		"/C/Dev/practise/react/react-ts/webpack.config.js",
+		"/C/Dev/practise/react/react-ts/tsconfig.json",
+		"/C/Dev/practise/react/react-ts/typings/globals/react/index.d.ts",
+		"/C/Dev/practise/react/react-ts/package.json",
+		"/C/Dev/practise/react/react-ts/index.html",
+		"/C/Dev/practise/react/react-ts/index.tsx",
+		"/C/Dev/practise/react/practise/index.html",
+		"/C/Dev/practise/react/CommentBoxApp/app/package.json",
+		"/C/Dev/practise/react/CommentBoxApp/backend/comments.json",
+		"/C/Dev/practise/typescript/intance.ts",
+		"/C/Dev/practise/typescript/dist/bundle.js",
+		"/C/Dev/practise/typescript/webpack.config.js",
+		"/C/Dev/practise/typescript/greeter.ts",
+		"/C/Dev/practise/fibonacci/app.js",
+		"/C/Dev/practise/fibonacci/src.js",
+		"/C/Dev/practise/fibonacci/intance.js",
+		"/C/Dev/practise/fibonacci/built/local/tsc.js",
+		"/C/Dev/practise/fibonacci/src.ts",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/C/Dev/practise/fibonacci/intance.ts",
+		"/C/Dev/practise/fibonacci/app.ts",
+		"/C/Dev/practise/fibonacci/ZipCodeValidator.ts",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/C/Dev/my projects/FlightBooking/Demo/js/controllers/test.ts",
+		"/C/Dev/my projects/FlightBooking/Demo/js/controllers/test.js",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScriptReact.sublime-settings",
+		"/C/Dev/my projects/FlightBooking/Demo/js/filter/rangeFilter.js",
+		"/C/Dev/my projects/FlightBooking/Demo/js/services/dataService.js",
+		"/C/Dev/my projects/FlightBooking/Demo/css/custom.css",
+		"/C/Dev/my projects/FlightBooking/Demo/css/jquery-ui.css",
+		"/C/Dev/my projects/FlightBooking/Demo/js/angular.min.js",
+		"/C/Dev/my projects/FlightBooking/Demo/app.js",
+		"/C/Dev/my projects/FlightBooking/Demo/js/custom.js",
+		"/C/Dev/my projects/FlightBooking/UI Assignment.pdf",
+		"/C/Dev/my projects/FlightBooking/Demo/js/railwayAPIService.js",
+		"/C/Dev/my projects/QuizApp/controllers/setQuestionsController.js",
+		"/C/Dev/my projects/QuizApp/assets/css/style.css",
+		"/C/Dev/my projects/QuizApp/controllers/welcomeController.js",
+		"/C/Dev/my projects/QuizApp/controllers/registrationController.js",
+		"/C/Dev/my projects/QuizApp/partials/setQuestions.html",
+		"/C/Dev/my projects/QuizApp/partials/logout.html",
+		"/C/Dev/my projects/QuizApp/partials/unauthorized.html",
+		"/C/Dev/my projects/QuizApp/index.html",
+		"/C/Dev/my projects/QuizApp/controllers/loginController.js",
+		"/C/Dev/my projects/QuizApp/app.js",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Dev/my projects/QuizApp/controllers/dashboardController.js",
+		"/C/Dev/my projects/QuizApp/services/dataFactory.js",
+		"/C/Dev/my projects/QuizApp/partials/dashboard.html",
+		"/C/Dev/my projects/QuizApp/partials/login.html",
+		"/C/Dev/my projects/QuizApp/partials/register.html",
+		"/C/Dev/my projects/QuizApp/partials/profile.html",
+		"/C/Dev/my projects/QuizApp/partials/result.html",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/C/Dev/my projects/QuizApp/questions.json",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/JSLint/Default.sublime-keymap",
+		"/C/Dev/my projects/QuizApp/partials/overview.html",
+		"/C/Dev/my projects/QuizApp/partials/questionTemplate.html",
+		"/C/Dev/my projects/QuizApp/partials/begin.html",
+		"/C/Dev/my projects/QuizApp/controllers/resultController.js",
+		"/C/Dev/my projects/QuizApp/qs.json",
+		"/C/Users/Arpit/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Dev/my projects/TestEvaluation/index.html",
+		"/C/Dev/my projects/TestEvaluation/app.js",
+		"/C/Dev/my projects/TestEvaluation/controllers/registrationController.js",
+		"/C/Dev/my projects/TestEvaluation/controllers/loginController.js",
+		"/C/Dev/my projects/TestEvaluation/partials/register.html",
+		"/C/Dev/my projects/TestEvaluation/views/register.html",
+		"/C/Dev/my projects/TestEvaluation/partials/login.html",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/shared/services/utilities.service.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/shared/services/user.service.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/shared/services/constants.service.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/components/device/device_edit.view.html",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/components/order/order_view.view.html",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/components/device/viewOrder.controller.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/components/device/devices_list.view.html",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/build/app.min.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/Gruntfile.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/components/device/grid.controller.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/components/order/order.controller.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/components/order/order_review.view.html",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/shared/directives/ui-grid.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/index.html",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/package.json",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/shared/navbar_left.html",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/assets/css/main.css",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/app.module.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/app.run.js",
+		"/C/Users/Arpit/Desktop/fourthRestruct/dealer-template/app/app.constant.js",
+		"/C/Users/Arpit/Desktop/fourth all pages/dealer-template/assets/css/main.css",
+		"/C/Users/Arpit/Desktop/fourth all pages/dealer-template/index.html",
+		"/C/Users/Arpit/Desktop/fourth all pages/dealer-template/Gruntfile.js",
+		"/C/Users/Arpit/Desktop/fourth all pages/dealer-template/assets/js/controllers/gridController.js",
+		"/C/Users/Arpit/Desktop/fourth all pages/dealer-template/assets/js/directives/templates.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 126.0,
+		"where_history":
+		[
+			"<current file>",
+			"",
+			"C:\\Dev\\my projects\\QuizApp",
+			"C:\\Dev\\my projects\\QuizApp\\controllers",
+			"C:\\Dev\\my projects\\QuizApp",
+			"<current file>",
+			"C:\\Dev\\my projects\\QuizApp",
+			"<current file>",
+			"C:\\Users\\Arpit\\Desktop\\fourthRestruct\\dealer-template\\app",
+			"C:\\Users\\Arpit\\Desktop\\ValetParkingApp",
+			"<current file>",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer\\pages",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer\\assets\\css",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer\\assets\\css\\modules",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer\\pages",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer\\assets",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer",
+			"C:\\Users\\Arpit\\Desktop\\bridgera",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer\\pages",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer\\assets\\css",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer\\assets",
+			"C:\\Users\\Arpit\\Desktop\\bridgera\\omnicustomer\\assets\\css\\modules",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"publicPath",
+			"page-header",
+			"page-hea",
+			"br",
+			"\n\t",
+			"asd",
+			"}",
+			"publicPath",
+			"asaassd6",
+			"board",
+			"body",
+			"babelrc",
+			"\t\t\t\t\n",
+			"action",
+			".edit",
+			"edit",
+			"o",
+			"5266",
+			"shoppingBagData",
+			"createEl",
+			"key",
+			"id",
+			" {id: 1, author: \"Pete Hunt\", text: \"This is one comment\"},\n  {id: 2, author: \"Jordan Walke\", text: \"This is *another* comment\"}\n",
+			"ul",
+			"commentBox",
+			"@15.3.0",
+			"https://npmcdn.com",
+			"Arpit",
+			"intance",
+			"dothis",
+			"intance_1",
+			"function",
+			"run",
+			"var run = function() {",
+			"function",
+			"Apache",
+			"returnOn",
+			"name",
+			"name=\"",
+			"name='",
+			"hide",
+			" =",
+			"button",
+			"unauthorized",
+			"clearLS",
+			"ui-sref=\"login\"",
+			"welcome",
+			"state",
+			"unauthorized",
+			";\n",
+			"loginbtn",
+			"1",
+			"loginbtn",
+			"login",
+			"console",
+			"cons",
+			";\n",
+			"enableTest",
+			"Attempt",
+			"markedAnswers",
+			"A4",
+			"A3",
+			"A2",
+			"A1",
+			"currentCompletion",
+			"markedAnswers",
+			"cuurentState",
+			"page-header",
+			"<div class=\"input-group-addon\">$</div>",
+			"panel-default",
+			">\n",
+			"project",
+			"navback",
+			"arpit",
+			"checkDataLength",
+			"getPage",
+			"none",
+			"count",
+			"search",
+			"viewOrderController",
+			"view_order",
+			"ui-grid-header-cell",
+			"name",
+			"width",
+			"console",
+			"firstPage",
+			"flatEntityAccess",
+			"dataLoaded",
+			"byElement",
+			"byid",
+			"grid.api.core.raise.filterChanged",
+			"byId",
+			"blurone",
+			"clearfoc",
+			"gridUtil.focus",
+			"blurOnEnter",
+			"focus=false",
+			"blur",
+			"removeFilter",
+			"$templateCache",
+			"templateCache",
+			"blur",
+			"ng-model-options",
+			"currentCol",
+			"colFilter.term",
+			"constant",
+			"ui-grid",
+			"console.log",
+			"then",
+			"getDataDown",
+			"needLoadMoreData",
+			"getDataDown",
+			"devices",
+			"form\\\\\\",
+			"swal",
+			"alert",
+			"alert\\",
+			"alert(\"",
+			"alert",
+			"line",
+			"empty",
+			"registerd",
+			"user.vnum",
+			"checkAvailiblity",
+			"slotAvailable",
+			"getFirstData",
+			"restangular",
+			"node"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"id",
+			"key",
+			"ol",
+			"",
+			"node_modules",
+			"ui-sref=\"welcome\"",
+			"Unattempted",
+			"q4",
+			"q3",
+			"q2",
+			"q1",
+			"<div class=\"input-group-addon\">a</div>\n<div class=\"input-group-addon\">b</div>\n<div class=\"input-group-addon\">c</div>\n<div class=\"input-group-addon\">d</div>",
+			"panel-primary",
+			"swal(\"",
+			"swal",
+			"displayName",
+			"already",
+			"third_main_div_span2",
+			"third_main_div_span1",
+			"designed",
+			"omni-e",
+			"personal-prime",
+			"main-container",
+			"&#39;",
+			"checkRegion"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sty",
+				"node_modules\\webpack-dev-server\\client\\style.css"
+			],
+			[
+				"cust",
+				"Demo\\css\\custom.css"
+			],
+			[
+				".css",
+				"dealer-template\\app\\assets\\css\\main.css"
+			],
+			[
+				"",
+				"dealer-template\\assets\\js\\directives\\ui-grid.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"app.js",
+				"third\\dealer-template\\assets\\js\\app.js"
+			],
+			[
+				"maincon",
+				"assets\\js\\controllers\\mainController.js"
+			],
+			[
+				"use",
+				"assets\\js\\services\\user.js"
+			],
+			[
+				"agg",
+				"node_modules\\ag-grid\\dist\\ag-grid.js"
+			],
+			[
+				"grid",
+				"assets\\js\\controllers\\gridController.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"mainc",
+				"assets\\js\\controllers\\mainController.js"
+			],
+			[
+				"home",
+				"assets\\js\\controllers\\homeController.js"
+			],
+			[
+				"app",
+				"assets\\js\\app.js"
+			],
+			[
+				"main",
+				"omnicustomer\\assets\\js\\controllers\\mainController.js"
+			],
+			[
+				"registrationcontroller",
+				"omnicustomer\\assets\\js\\controllers\\registrationController.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Arpit\\Desktop\\bridgera\\Bridgera.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 126.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
