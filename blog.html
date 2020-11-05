@@ -26,12 +26,275 @@
 
 
                 <article>
-                    <h1><i>Please visit my Medium page for articles after 2018</i>
+
+
+                    <md-content>
+                        <h3 class="code-line" data-line-start=0 data-line-end=1><a id="DOM_0"></a>Let's Start with DOM</h3>
+                        <p class="has-line-data" data-line-start="2" data-line-end="4">window.document is same as
+                             DOM<br>
+                            so wherenever we do document.querySelector etc, we call DOM , so DOM is</p>
+                        <p class="has-line-data" data-line-start="5" data-line-end="7"><img
+                                src="https://i.ibb.co/FXmtdBk/image.png" alt="DOM"><br>
+                            <img src="https://img-a.udemycdn.com/redactor/raw/2019-12-13_13-15-34-c331ccfbabd800a116f50b34ffe8ad1f.png?tmxdEsPtW-MGhL1ksnSvvVgK4sc00I2zGZ0qEEXgf8JbY7HY7wH7UnpFO_x4D1b0lP_DG85bWKLAMBODlwWZIh5LjCDnH9dloX51tJP818ETqculjYtRa0rhktxkBVj2sVY071aBSlMYc96XF69hN-bsY6EwDQxEV3WgKH30jvRW0c0o"
+                                alt="What is DOM"></p>
+                        <h3 class="code-line" data-line-start=7 data-line-end=8><a
+                                id="BOM_Browser_object_model_7"></a>BOM Browser object model</h3>
+                        <pre><code>* Navigator
+* Location
+* History
+</code></pre>
+                        <h5 class="code-line" data-line-start=16 data-line-end=17><a id="DOM_vs_JavaScript_16"></a>DOM
+                            vs JavaScript</h5>
+                        <p class="has-line-data" data-line-start="17" data-line-end="18">The DOM and JavaScript are
+                            completely different. One way to think about it is that the DOM API gives us the bricks, and
+                            JavaScript is the concrete (or glue) that holds them all together.</p>
+                        <p class="has-line-data" data-line-start="19" data-line-end="20"><img
+                                src="https://i.ibb.co/TvJLQkn/image.png" alt="DOm vs JS"></p>
+                        <hr>
+                        <h3 class="code-line" data-line-start=23 data-line-end=24><a
+                                id="Execution_Context_23"></a>Execution Context</h3>
+                        <p class="has-line-data" data-line-start="25" data-line-end="26">Everything in JS happens inside
+                            execution context</p>
+                        <table class="table table-striped table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Memory</th>
+                                    <th>Code</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>all fun and variables set to undefined initially</td>
+                                    <td>execution context</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="has-line-data" data-line-start="31" data-line-end="32"><img
+                                src="https://lh3.googleusercontent.com/Nb96N2CRWR0uXOLUVIDZ8slQiRaskA1wuGmtK9kiSMuPnMa_HV9a8878oC4hQteCKFZ5Ql-MI44r72MZf_lQerZxU-l_Okj2UeDodCfhyRW8QWRgOj66n_Sc2XNQwZCtVy-mJLNQmA=w2400"
+                                alt="Execution Context"></p>
+                        <h3 class="code-line" data-line-start=33 data-line-end=34><a
+                                id="How_memory_is_allocated_in_JS_33"></a>How memory is allocated in JS?:</h3>
+                        <ul>
+                            <li class="has-line-data" data-line-start="35" data-line-end="36">1st phase : Memory
+                                creation ( it hoists all var and functions)</li>
+                            <li class="has-line-data" data-line-start="36" data-line-end="38">2nd phase : Call stack
+                                (Maintain order of execution)</li>
+                        </ul>
+                        <p class="has-line-data" data-line-start="38" data-line-end="39">So you can open a debugger and
+                            see how it works</p>
+                        <h3 class="code-line" data-line-start=40 data-line-end=41><a
+                                id="Get_name_context_created_in_call_stack_40"></a>Get name context created in call
+                            stack:</h3>
+                        <p class="has-line-data" data-line-start="41" data-line-end="42"><img
+                                src="https://lh3.googleusercontent.com/fNFbSUddByt7v7rleOqHF4AdDnvudCffFT96QS7nj6FBf_IvsMLsBqAss9QjMoqUQAE0x-aVEj9K3IX67CbSpLKCQdFWwOiA5UJn6RMdOOMLZHsPWychMKDpe_D62iYr9qfR9mXYPQ=w2400"
+                                alt="callstack screenshot"></p>
+                        <h3 class="code-line" data-line-start=43 data-line-end=44><a
+                                id="getName_context_removed_and_global_contextananomous_is_back_after_completing_previous_function_43"></a>getName
+                            context removed and global context(ananomous) is back after completing previous function
+                        </h3>
+                        <p class="has-line-data" data-line-start="44" data-line-end="45"><img
+                                src="https://lh3.googleusercontent.com/zy4g8WJ0jcRZnvixq_Z7f61yzdKSFrRN354UuNWsA-eeY4ACqP26PFf37t5Y8lhPgmYFLTGeKHEfD7ir7J_7hIC31S_eEpgk1-Tat3jzhcX5C0K1E5QI0N_asd0-1Z7lV9oXxgpGRw=w2400"
+                                alt="Global context"></p>
+                        <h2 class="code-line" data-line-start=49 data-line-end=50><a id="use_strict_49"></a>“use strict”
+                        </h2>
+                        <h5 class="code-line" data-line-start=50 data-line-end=51><a
+                                id="Strict_mode_can_be_defined_inside_function_function_scoped_instead_of_global_50"></a>Strict
+                            mode can be defined inside function (function scoped instead of global)</h5>
+                        <p class="has-line-data" data-line-start="51" data-line-end="52">Benifits of use strict:</p>
+                        <ol>
+                            <li class="has-line-data" data-line-start="52" data-line-end="56">
+                                <p class="has-line-data" data-line-start="52" data-line-end="55">without using strict
+                                    mode you can end up debugging code for undeclared variable<br>
+                                    use strict - helps preventing accidental global declaration<br>
+                                    <img src="https://i.ibb.co/hgmGQ00/image.png" alt="with use strict"></p>
+                            </li>
+                            <li class="has-line-data" data-line-start="56" data-line-end="57">
+                                <p class="has-line-data" data-line-start="56" data-line-end="57">Deletion not possible
+                                    of variables, functions and arguments when using strict mode</p>
+                            </li>
+                        </ol>
+                        <pre><code class="has-line-data" data-line-start="58" data-line-end="64" class="language-javascript"><span class="hljs-pi">"use strict"</span>
+<span class="hljs-keyword">var</span> foo =<span class="hljs-number">1</span>;
+<span class="hljs-built_in">console</span>.log(foo);
+<span class="hljs-keyword">delete</span> foo
+<span class="hljs-built_in">console</span>.log(foo);
+</code></pre>
+                        <pre><code class="has-line-data" data-line-start="65" data-line-end="67">Uncaught SyntaxError: Delete of an unqualified identifier in strict mode
+</code></pre>
+                        <ol start="3">
+                            <li class="has-line-data" data-line-start="68" data-line-end="70">
+                                <p class="has-line-data" data-line-start="68" data-line-end="69">eval is relatively safe
+                                    to use in strict mode - because it doesnt leak scope out of its execution context
+                                </p>
+                            </li>
+                            <li class="has-line-data" data-line-start="70" data-line-end="72">
+                                <p class="has-line-data" data-line-start="70" data-line-end="71">It blocks global this
+                                    usage</p>
+                            </li>
+                        </ol>
+                        <h3 class="code-line" data-line-start=72 data-line-end=73><a
+                                id="Does_javascript_pass_variables_by_reference_or_by_value_72"></a>Does javascript pass
+                            variables by reference or by value?</h3>
+                        <p class="has-line-data" data-line-start="73" data-line-end="75">primitives are passed by
+                            value<br>
+                            objects are by reference</p>
+                        <h3 class="code-line" data-line-start=76 data-line-end=77><a
+                                id="3_Rest_operator__as_the_name_suggest_it_is_rest_of_the_remaining_items_in_argument_so_should_be_in_the_last_if_it_is_the_only_argument_then_it_converts_everything_into_array_76"></a>3)
+                            …Rest operator : as the name suggest it is rest of the remaining items in argument, so
+                            should be in the last, if it is the only argument then it converts everything into array
+                        </h3>
+                        <h3 class="code-line" data-line-start=78 data-line-end=79><a id="4_Template_literal_78"></a>4)
+                            Template literal</h3>
+                        <ol>
+                            <li class="has-line-data" data-line-start="79" data-line-end="84">They provide power to
+                                tag<br>
+                                [ arpit`pass` ] arpit is a tag here<br>
+                                <code>arpit`pass` means function arpit('pass'){}</code></li>
+                            <li class="has-line-data" data-line-start="84" data-line-end="85">${any expression} can be
+                                used</li>
+                            <li class="has-line-data" data-line-start="85" data-line-end="87">multi line can be used
+                                literaly</li>
+                        </ol>
+                        <h3 class="code-line" data-line-start=87 data-line-end=88><a id="NaN_how_to_check_87"></a>NaN
+                            how to check?</h3>
+                        <p class="has-line-data" data-line-start="88" data-line-end="92">a!==a is the only way to
+                            check<br>
+                            we cannot rely on isNaN() coz<br>
+                            <code>isNaN(&quot;a&quot;)</code> // true : this is actully incorrect<br>
+                            <code>isNan(Number(&quot;a&quot;))</code> : this is what is happening internally because of
+                            which about seems true</p>
+                        <p class="has-line-data" data-line-start="93" data-line-end="95">so best way to check is<br>
+                            (a!==a)</p>
+                        <h3 class="code-line" data-line-start=97 data-line-end=98><a
+                                id="Scoping_of_var_let_and_const_97"></a>Scoping of <strong>var let and const</strong>
+                        </h3>
+                        <p class="has-line-data" data-line-start="98" data-line-end="100">var follows global scope<br>
+                            let &amp; const uses block scope</p>
+                        <p class="has-line-data" data-line-start="101" data-line-end="104">so when you do a<br>
+                            <code>for(var i=0;i+...)</code><br>
+                            this <code>i</code>is accessible outside for block, but when you use let const its not
+                            available</p>
+                        <pre><code class="has-line-data" data-line-start="105" data-line-end="110">for(let i = 0;i&lt;10;i++){
+// console.log(i)
+}
+console.log(i,'dd')//Uncaught ReferenceError: i is not defined
+</code></pre>
+                        <pre><code class="has-line-data" data-line-start="112" data-line-end="117">for(var i = 0;i&lt;10;i++){
+// console.log(i)
+}
+console.log(i,'dd')//10
+</code></pre>
+                        <h3 class="code-line" data-line-start=118 data-line-end=119><a
+                                id="Break_vs_Continue_118"></a>Break vs Continue</h3>
+                        <p class="has-line-data" data-line-start="119" data-line-end="122">In for loop<br>
+                            break : breaks entire loop<br>
+                            continue: conitnues to next iteration</p>
+                        <h3 class="code-line" data-line-start=123 data-line-end=124><a
+                                id="For_in__for_looping_on_objects___break__continue_doesnt_work_here_123"></a>For in :
+                            for looping on objects (break &amp; continue doesnt work here)</h3>
+                        <h3 class="code-line" data-line-start=124 data-line-end=125><a
+                                id="For_of__for_looping_on_arrays____break__con_works_here_124"></a>For of : for looping
+                            on arrays (break &amp; con works here)</h3>
+                        <h3 class="code-line" data-line-start=125 data-line-end=126><a
+                                id="arrayforEach__for_arrays_but_break_cont_doesnt_work__use_return_instead_125"></a>array.forEach
+                            : for arrays but break, cont doesnt work - use return instead</h3>
+                        <h3 class="code-line" data-line-start=127 data-line-end=128><a
+                                id="Bind_can_only_be_used_on_functions_after_they_have_been_created_and_assigned_to_a_variable_127"></a>Bind
+                            can only be used on functions after they have been created and assigned to a variable</h3>
+                        <hr>
+                        <h2 class="code-line" data-line-start=130 data-line-end=131><a id="Prototype_130"></a>Prototype
+                        </h2>
+                        <p class="has-line-data" data-line-start="131" data-line-end="132">Each object has a prototype
+                            which is denoted in es6 by _<strong>proto_</strong> property, earlier to es6 it was created
+                            by Object.create()</p>
+                        <pre><code class="has-line-data" data-line-start="133" data-line-end="135">var human = {  kind: 'homosapeins'}
+</code></pre>
+                        <p class="has-line-data" data-line-start="135" data-line-end="139"><strong>Create Proto
+                                via:</strong><br>
+                            <code>var arpit = Object.create(human,{type:{value:'shy'}})</code><br>
+                            <strong>OR</strong><br>
+                            <code>var arpit = {type:'shy'} ; arpit.__proto__ = human</code></p>
+                        <h3 class="code-line" data-line-start=142 data-line-end=143><a
+                                id="Prototypal_vs_Classical_inheritance_142"></a>Prototypal vs Classical inheritance
+                        </h3>
+                        <p class="has-line-data" data-line-start="143" data-line-end="144">All inheritance in js is
+                            protoypal , nothing is classical</p>
+                        <p class="has-line-data" data-line-start="145" data-line-end="146"><img
+                                src="https://i.ibb.co/0ChhqBt/image.png" alt="Diagram"></p>
+                        <ul>
+                            <li class="has-line-data" data-line-start="147" data-line-end="148">Functions have
+                                <em>prototype</em> property</li>
+                            <li class="has-line-data" data-line-start="148" data-line-end="149">Objects have
+                                _<em>proto_</em> property</li>
+                            <li class="has-line-data" data-line-start="149" data-line-end="151">Using Prototype always
+                                refer to same object, so it saves memory</li>
+                        </ul>
+                        <p class="has-line-data" data-line-start="151" data-line-end="153">protoytypical pattern =
+                            blabla.prototype.something = Object.create(jiska banana he)<br>
+                            constructor pattern = new Something()</p>
+                        <p class="has-line-data" data-line-start="154" data-line-end="155">Advantage with constructor
+                            pattern is that somewhat you can mimick private variables</p>
+                        <h3 class="code-line" data-line-start=156 data-line-end=157><a
+                                id="Promises_can_be_chained_or_forked_156"></a>Promises can be chained or forked</h3>
+                        <h4 class="code-line" data-line-start=157 data-line-end=158><a id="Chained_157"></a>Chained:
+                        </h4>
+                        <p class="has-line-data" data-line-start="158" data-line-end="159">
+                            <code>var a = Promise.resolve(&quot;ok&quot;).then(...)</code></p>
+                        <h4 class="code-line" data-line-start=160 data-line-end=161><a id="Forked_160"></a>Forked:</h4>
+                        <pre><code class="has-line-data" data-line-start="162" data-line-end="166">var a = Promise.resolve(&quot;ok&quot;)
+    a.then(&quot;do this&quot;)
+    a.this(&quot;amd this&quot;)
+</code></pre>
+                        <h3 class="code-line" data-line-start=167 data-line-end=168><a
+                                id="Diff_bw_asynawait_and_promised_167"></a>Diff bw asynawait and promised</h3>
+                        <ul>
+                            <li class="has-line-data" data-line-start="168" data-line-end="169">Await/async : block the
+                                code and wait for results</li>
+                            <li class="has-line-data" data-line-start="169" data-line-end="170">Promised: continue to go
+                                to next line and come back when its resolved</li>
+                        </ul>
+                        <p class="has-line-data" data-line-start="176" data-line-end="177">asd</p>
+                        <p class="has-line-data" data-line-start="179" data-line-end="180">windows.onerror : used to
+                            detect errors on ui and send data</p>
+                        <h3 class="code-line" data-line-start=182 data-line-end=183><a
+                                id="Event_Capture_vs_Event_Bubbling_182"></a>Event Capture vs Event Bubbling</h3>
+                        <p class="has-line-data" data-line-start="183" data-line-end="184"><img
+                                src="https://i.ibb.co/QFb0Cg4/image.png" alt="event"></p>
+                        <h3 class="code-line" data-line-start=185 data-line-end=186><a id="As_per_MDN_185"></a>As per
+                            MDN:</h3>
+                        <blockquote>
+                            <p class="has-line-data" data-line-start="186" data-line-end="192"><strong>In the capturing
+                                    phase:</strong><br>
+                                The browser checks to see if the element’s outer-most ancestor (&lt;html&gt;) has an
+                                onclick event handler registered on it for the capturing phase, and runs it if so.<br>
+                                Then it moves on to the next element inside &lt;html&gt; and does the same thing, then
+                                the next one, and so on until it reaches the element that was actually selected.<br>
+                                <strong>In the bubbling phase</strong>: the exact opposite occurs:<br>
+                                The browser checks to see if the element selected has an onclick event handler
+                                registered on it for the bubbling phase, and runs it if so.<br>
+                                Then it moves on to the next immediate ancestor element and does the same thing, then
+                                the next one, and so on until it reaches the &lt;html&gt; element.</p>
+                        </blockquote>
+                    </md-content>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                     </h1>
 
                     <div class="page-header">
-                        
+
                         <h1>Difference between SVG & CANVAS
 
                         </h1>
@@ -39,8 +302,10 @@
                             <sup>st</sup>July 2018</p>
                         <h3>When to use what?</h3>
                         <p>
-                            Often, I kept wondering if canvas should be used instead of svg. But I did not give much thought to it until I had to ask
-                            this question in an Interview. As per one of the stack overflow answer these are the major difference:
+                            Often, I kept wondering if canvas should be used instead of svg. But I did not give much
+                            thought to it until I had to ask
+                            this question in an Interview. As per one of the stack overflow answer these are the major
+                            difference:
                         </p>
                         <h2>
                             Canvas
@@ -48,10 +313,12 @@
 
                         <ul>
                             <li>Pixel based (Dynamic .png)</li>
-                            <li>Single HTML element.(Inspect element in Developer tool. You can see only canvas tag)</li>
+                            <li>Single HTML element.(Inspect element in Developer tool. You can see only canvas tag)
+                            </li>
                             <li>Modified through script only</li>
                             <li>Event model/user interaction is granular (x,y)</li>
-                            <li>Performance is better with smaller surface, a larger number of objects (>10k), or both</li>
+                            <li>Performance is better with smaller surface, a larger number of objects (>10k), or both
+                            </li>
                         </ul>
                         <h2>
                             SVG
@@ -67,10 +334,12 @@
                         </ul>
 
                         <p>
-                            Advantage of using SVG would be that resolution remains the same across platforms which lacks in Canvas. Google maps, earlie
+                            Advantage of using SVG would be that resolution remains the same across platforms which
+                            lacks in Canvas. Google maps, earlie
                             used to rely on svg, now they are canvas.
                         </p>
-                        <a href="https://stackoverflow.com/questions/4996374/what-is-the-difference-between-svg-and-html5-canvas" style="color: inherit;">Reference</small>
+                        <a href="https://stackoverflow.com/questions/4996374/what-is-the-difference-between-svg-and-html5-canvas"
+                            style="color: inherit;">Reference</small>
                     </div>
                 </article>
                 <div class="article-divider"></div>
@@ -81,25 +350,30 @@
                             <sup>th</sup>January 2018</p>
                         <h3>Is that a big deal? </h3>
                         <p>
-                            Yes? Because since kids we were taught that 0,0 starts at bottom left and that is how we draw graphs all over. But cruel
-                            HTML engines draws its page starting from top left as 0,0 and then calculates pixels accordingly.
+                            Yes? Because since kids we were taught that 0,0 starts at bottom left and that is how we
+                            draw graphs all over. But cruel
+                            HTML engines draws its page starting from top left as 0,0 and then calculates pixels
+                            accordingly.
                         </p>
                         As per
                         <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Positions">mdn</a>:
                         <div class="quote-container">
                             <q class="quote-text">
                                 <i>
-                                    For all elements, SVG uses a coordinate system or grid system..That is, the top left corner of the document is considered
+                                    For all elements, SVG uses a coordinate system or grid system..That is, the top left
+                                    corner of the document is considered
                                     to be the point (0,0), or point of origin
                                 </i>
                             </q>
 
                         </div>
                         <div>
-                            <img src="https://mdn.mozillademos.org/files/224/Canvas_default_grid.png" alt="image" class="img-responsive">
+                            <img src="https://mdn.mozillademos.org/files/224/Canvas_default_grid.png" alt="image"
+                                class="img-responsive">
                         </div>
                         <p>
-                            Did that change your perception a bit? I did mine. I spent couple of hours figuring out why my d3 was plotting graphs from
+                            Did that change your perception a bit? I did mine. I spent couple of hours figuring out why
+                            my d3 was plotting graphs from
                             top left. wish I had know this before.
                         </p>
                     </div>
@@ -112,7 +386,8 @@
                             <sup>th</sup>January 2018</p>
                         <h3>Static Keyword ?? What exactly? </h3>
                         <p>
-                            The keyword static is used , so that method could be directly accessible from class instead of its instance. if static keyword
+                            The keyword static is used , so that method could be directly accessible from class instead
+                            of its instance. if static keyword
                             is not used, method will only be accessible from instance. and vice-versa
                         </p>
                         <code>
@@ -145,34 +420,43 @@
                             <sup>th</sup>Dec 2016</p>
                         <h3>Why are we even talking about it?</h3>
                         <p>
-                            It’s 2016 and are we still discussing HTML5 new elements? Hell yes. Prime reason being I had this page of new elements in
-                            my age old notebook which I don't want to throw away hence putting this on Blog would save it
-                            from my family who always want to throw away my stationery. Now let me give you some lame reasons
+                            It’s 2016 and are we still discussing HTML5 new elements? Hell yes. Prime reason being I had
+                            this page of new elements in
+                            my age old notebook which I don't want to throw away hence putting this on Blog would save
+                            it
+                            from my family who always want to throw away my stationery. Now let me give you some lame
+                            reasons
                             why would this be of interest to anyone:
-                            <ol>
-                                <li> If you land up appearing for an Interview with big Indian IT
-                                    <del>labor factory</del> MNC, chances are that Interviewer would still be amazed with how
-                                    HTML5 changed the world and might ask you about a few new elements.</li>
-                                <li>If you are just starting with web development this would help you show off 😎 your knowledge
-                                    to clients, especially in a board room where instead of drawing layout you draw tag names
-                                    on board like
-                                    <code>
+                        <ol>
+                            <li> If you land up appearing for an Interview with big Indian IT
+                                <del>labor factory</del> MNC, chances are that Interviewer would still be amazed with
+                                how
+                                HTML5 changed the world and might ask you about a few new elements.</li>
+                            <li>If you are just starting with web development this would help you show off 😎 your
+                                knowledge
+                                to clients, especially in a board room where instead of drawing layout you draw tag
+                                names
+                                on board like
+                                <code>
                                         &lt;header&gt; &lt;video&gt; &lt;time&gt; &lt;keygen&gt; &lt;mark&gt;
                                     </code> etc.
-                                </li>
-                                <li> If someone really cares about semantic web and by any chance would want to follow what W3C
-                                    preaches.
-                                </li>
-                                <li>..(I can't find any more reasons)</li>
-                                <li>.(eom)</li>
-                            </ol>
-                            </br>
-                            As you can see there are five compelling reasons still someone would be interested in learning new HTML elements, so here
-                            I present the hidden treasure from my cheap old notebook :
-                            </br>
+                            </li>
+                            <li> If someone really cares about semantic web and by any chance would want to follow what
+                                W3C
+                                preaches.
+                            </li>
+                            <li>..(I can't find any more reasons)</li>
+                            <li>.(eom)</li>
+                        </ol>
+                        </br>
+                        As you can see there are five compelling reasons still someone would be interested in learning
+                        new HTML elements, so here
+                        I present the hidden treasure from my cheap old notebook :
+                        </br>
                         </p>
                         <div class="image-container">
-                            <img src="assets/images/newhtml5elements.jpg" width=500 height=910 class="img-responsive" style="margin:auto">
+                            <img src="assets/images/newhtml5elements.jpg" width=500 height=910 class="img-responsive"
+                                style="margin:auto">
                         </div>
                         <br>
                         <br> Hope it helps.
@@ -186,32 +470,41 @@
                             <sup>th</sup>April 2016</p>
                         <h3>Beginner's Trouble</h3>
                         <p>
-                            Being a UI Developer is not an easy job, it often makes you wonder if you should follow the best practices or stay with whatever
+                            Being a UI Developer is not an easy job, it often makes you wonder if you should follow the
+                            best practices or stay with whatever
                             gets your job done quickly. While marking up this Blog I was faced with a challenge of using
                             semantics over traditional div's. I decided to go with semantics. </p>
-                        <p>Now to follow semantics, I thought W3C HTML5 specs would help me. But, Its an overdose of information
-                            for a regular UI developer like me. I then moved to WHATWG's live standard, though it's better
+                        <p>Now to follow semantics, I thought W3C HTML5 specs would help me. But, Its an overdose of
+                            information
+                            for a regular UI developer like me. I then moved to WHATWG's live standard, though it's
+                            better
                             than W3C but its still a lot of information to digest.</p>
                         <em> Do you understand this:</em>
                         <div class="quote-container">
                             <q class="quote-text">
-                                <i>The section element represents a generic section of a document or application. A section,
+                                <i>The section element represents a generic section of a document or application. A
+                                    section,
                                     in this context, is a thematic grouping of content. The theme of each section should
-                                    be identified, typically by including a heading (h1-h6 element) as a child of the section
+                                    be identified, typically by including a heading (h1-h6 element) as a child of the
+                                    section
                                     element.
                                 </i>
                             </q>
                         </div>
                         <p>
-                            Frankly above dint made much sense to me. I need either a one liner explanation or a real world example. Thankfully I found
+                            Frankly above dint made much sense to me. I need either a one liner explanation or a real
+                            world example. Thankfully I found
                             an article on iandevlin's blog which has a nice analogy of newspaper section and articles. A
-                            newspaper has many sections like Politics, Finance , Editorial - which I avoid reading. A section
-                            may contain a few articles like "Minister A said xxx to Minister B" and "Minister B found roaming
+                            newspaper has many sections like Politics, Finance , Editorial - which I avoid reading. A
+                            section
+                            may contain a few articles like "Minister A said xxx to Minister B" and "Minister B found
+                            roaming
                             with A's wife" etc. A section can contain many articles and now the weired part: article may
                             contain more sections followed by more articles.
                             </br>
                             </br>
-                            Nevertheless the newspaper analogy gives us a clear picture and easy to understand pattern for our use. Below is how I arranged
+                            Nevertheless the newspaper analogy gives us a clear picture and easy to understand pattern
+                            for our use. Below is how I arranged
                             my sections :
                         </p>
                         <div class="image-container">
@@ -229,38 +522,56 @@
                             <sup>th</sup>December 2015</p>
                         <h3>1. HTML5 Is a Work in Progress </h3>
                         <p>
-                            As cool as it is to see what HTML5 can do for you, it hasn&#39;t been standardized like HTML4. You don&#39;t have to worry
-                            about updating pages built using HTML4. It&#39;s more than ten years old and it&#39;s a set standard.
-                            If you jump into HTML5 with both feet, you&#39;re going to be making updates. Elements and attributes
-                            are added and modified several times a year. Of course, this is dependent how much you depend
-                            on rich elements, but it&#39;s certainly a risk you must take into consideration when using a
+                            As cool as it is to see what HTML5 can do for you, it hasn&#39;t been standardized like
+                            HTML4. You don&#39;t have to worry
+                            about updating pages built using HTML4. It&#39;s more than ten years old and it&#39;s a set
+                            standard.
+                            If you jump into HTML5 with both feet, you&#39;re going to be making updates. Elements and
+                            attributes
+                            are added and modified several times a year. Of course, this is dependent how much you
+                            depend
+                            on rich elements, but it&#39;s certainly a risk you must take into consideration when using
+                            a
                             fluid language. Build with HTML4, play with HTML5.
                         </p>
-                        <h3>2. Simplified Syntax </h3> The simpler doctype declaration is just one of the many novelties in HTML5.
+                        <h3>2. Simplified Syntax </h3> The simpler doctype declaration is just one of the many novelties
+                        in HTML5.
                         Now you need to write only:
-                        <!doctype html> and this is it. The syntax of HTML5 is compatible with HTML4 and XHTML1, but not with SGML.
-                        <h3>3. The New &lt;canvas&gt; Element </h3> This is what killed Flash. Although it isn&#39;t as … uh
+                        <!doctype html> and this is it. The syntax of HTML5 is compatible with HTML4 and XHTML1, but not
+                        with SGML.
+                        <h3>3. The New &lt;canvas&gt; Element </h3> This is what killed Flash. Although it isn&#39;t as
+                        … uh
                         … flashy … most assume that it will eventually make Flash obsolete. Only time will tell.
-                        <h3>4. The &lt;header&gt; and &lt;footer&gt; Elements </h3> For good or bad, HTML5 has acknowledged the
+                        <h3>4. The &lt;header&gt; and &lt;footer&gt; Elements </h3> For good or bad, HTML5 has
+                        acknowledged the
                         new web anatomy. With HTML5, &lt;header&gt; and &lt;footer&gt; are specifically marked for such.
                         Because of this, it is unnecessary to identify these two elements with a &lt;div&gt; tag.
-                        <h3>5. New &lt;section&gt; and &lt;article&gt; Elements </h3> Again, HTML5 has adopted the popular web
-                        standard. &lt;section&gt; and &lt;article&gt; allows you to mark specific areas of your layout as
+                        <h3>5. New &lt;section&gt; and &lt;article&gt; Elements </h3> Again, HTML5 has adopted the
+                        popular web
+                        standard. &lt;section&gt; and &lt;article&gt; allows you to mark specific areas of your layout
+                        as
                         such, and should have a positive effect on on your SEO in the end.
-                        <h3>6. New &lt;menu&gt; and &lt;figure&gt; Elements </h3> &lt;menu&lt; can be used for your main menu,
-                        but it can also be used for toolbars and context menus. The &lt;figure&gt; element is another way
+                        <h3>6. New &lt;menu&gt; and &lt;figure&gt; Elements </h3> &lt;menu&lt; can be used for your main
+                        menu,
+                        but it can also be used for toolbars and context menus. The &lt;figure&gt; element is another
+                        way
                         to arrange text and images.
-                        <h3>7. New &lt;audio&gt; and &lt;video&gt; Elements </h3> Embedind audio and video has never been easier.
+                        <h3>7. New &lt;audio&gt; and &lt;video&gt; Elements </h3> Embedind audio and video has never
+                        been easier.
                         There are also some new multimedia elements and attributes, such as &lt;track&gt;, that provides
-                        text tracks for the video element. With these additions HTML5 is definitely getting more and more
-                        Web 2.0-friendly. The problem is that by the time HTML5 becomes widely accepted, Web 2.0 might be
+                        text tracks for the video element. With these additions HTML5 is definitely getting more and
+                        more
+                        Web 2.0-friendly. The problem is that by the time HTML5 becomes widely accepted, Web 2.0 might
+                        be
                         old news.
-                        <h3>8. New Forms</h3> The new &lt;form&gt; and &lt;forminput&gt; elements are looking good. If you do
+                        <h3>8. New Forms</h3> The new &lt;form&gt; and &lt;forminput&gt; elements are looking good. If
+                        you do
                         much with forms, you may want to take a look at what these have to offer.
                         <h3>9. Kiss &lt;b&gt; and &lt;font&gt; Goodbye!</h3> CSS, all the time. All the time, CSS.
                         <br>
                         <small>
-                            <a href="http://churchm.ag/differences-between-html4-html5/" style="color: inherit;">Reference</small>
+                            <a href="http://churchm.ag/differences-between-html4-html5/"
+                                style="color: inherit;">Reference</small>
                     </div>
         </div>
     </div>
