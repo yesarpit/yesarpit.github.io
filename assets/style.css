@@ -1,21 +1,24 @@
-body, html {
+body,
+html {
     height: 100%;
     background-repeat: no-repeat;
     background: #d9ddd0 !important;
 }
 
-
 section article {
     margin-top: 20vh;
 }
-section article:first-child{
+
+section article:first-child {
     margin-top: inherit
 }
+
 
 /**
  * Profile image component
  */
- .profile-header-container{
+
+.profile-header-container {
     margin: 0 auto;
     text-align: center;
 }
@@ -24,7 +27,7 @@ section article:first-child{
     padding: 54px;
 }
 
-.profile-header-img > img.img-circle {
+.profile-header-img>img.img-circle {
     width: 120px;
     height: 120px;
     border: 2px solid #51D2B7;
@@ -34,10 +37,12 @@ section article:first-child{
     margin-top: 43px;
 }
 
+
 /**
  * Ranking component
  */
- .rank-label-container {
+
+.rank-label-container {
     margin-top: -19px;
     /* z-index: 1000; */
     text-align: center;
@@ -49,40 +54,33 @@ section article:first-child{
     border-radius: 27px;
 }
 
-
-
-
-
-
-.home{
+.home {
     background-color: #D9DDD0;
 }
 
-footer{
-margin-bottom: 2em;
-text-align: center;
+footer {
+    text-align: center;
+    height: 25px;
 }
 
-footer a{
-
+footer a {
     color: #B2477E;
-    font-size: 1.5em;
-text-decoration: underline;
-
+    font-size: 6vw;
+    text-decoration: underline;
 }
 
-.article-divider{
+.article-divider {
     border: 1px solid gray;
     width: 70%;
     margin: auto;
     border-radius: 2em;
 }
 
-.date-holder{
+.date-holder {
     color: #666;
 }
 
-.quote-container{
+.quote-container {
     width: 60%;
     border: .5px dotted grey;
     padding: 2%;
@@ -91,14 +89,19 @@ text-decoration: underline;
     margin: 1%;
 }
 
-.quote-text{
-    font-size:.9em;
+.quote-text {
+    font-size: .9em;
 }
 
-.image-container{
+.image-container {
     margin: 1%;
 }
 
-article .page-header{
-    border-bottom:none;
+article .page-header {
+    border-bottom: none;
+}
+
+picture source,
+picture img {
+    width: 100vw;
 }
