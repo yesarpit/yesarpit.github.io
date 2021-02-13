@@ -60,12 +60,12 @@ section article:first-child {
 
 footer {
     text-align: center;
-    height: 25px;
+    height: 33px;
 }
 
 footer a {
     color: #B2477E;
-    font-size: 6vw;
+    font-size: 3vw;
     text-decoration: underline;
 }
 
@@ -101,7 +101,14 @@ article .page-header {
     border-bottom: none;
 }
 
-picture source,
-picture img {
-    width: 100vw;
+@media screen and (max-width: 600px) {
+    picture source,
+    picture img {
+        width: 100vw;
+    }
+    footer a {
+        color: #B2477E;
+        font-size: 4vw;
+        text-decoration: underline;
+    }
 }
