@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarpit_blog=self.webpackChunkarpit_blog||[]).push([[877],{1267:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/summary","name":"summary","count":1,"permalink":"/blog/tags/summary"}')}}]);
