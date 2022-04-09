@@ -1,7 +1,8 @@
 ---
-title: Finish - Book Summary
+title: 'Finish - Book Summary'
 authors: arpit
 tags: [book-summary]
+type: Journal
 ---
 
 ## FINISH : a practical guide to get rid of perfectionism trap
@@ -36,4 +37,4 @@ so
 2) enjoy journey
 3) get rid of intelligent excuses
 
-#learnings 
+#learnings
