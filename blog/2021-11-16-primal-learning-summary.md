@@ -23,22 +23,22 @@ Implicit:
 
 You learn more per hour if you space it out
 
-You become average of the 5 people you spend mpst time with
+You become average of the 5 people you spend most time with
 
-Exlpicit:
+Explicit:
 
-Excerise and Meditation helps
+Exercise and Meditation helps
 
 
 Do important things first
 
-Keep a distraction log- remember wjat distract you - becoming aware of what distracts you
+Keep a distraction log- remember what distract you - becoming aware of what distracts you
 
 
 Reference memory:
 
 
-Grren tea black tea and breath- alpha memory ( concentration )
+Green tea black tea and breath- alpha memory ( concentration )
 
 Theta memory - 2 to 5years child - extraordinary learning
 
@@ -70,9 +70,9 @@ Find out what you are afraid of and create strong emotional attachment
 4) create deadline
 5) get accountability partner
 6) get mad at fear
-Cotisol + noradrenaline they create uneasy feeling at start
+Cortisol + noradrenaline they create uneasy feeling at start
 
-The more something threatns your identity more you will avoid doing it
+The more something threatens your identity more you will avoid doing it
 
 2) release phase
      
@@ -110,7 +110,7 @@ Remember (passive Learning, bad approach)
 >>Behavioursm
 Surrounding yourself with talented and knowledgeable person
 
->>Conitivism
+>>Conitivismks
 Find connection between what you know and new learning helps strengthen neuro transmitters
 Develop your mindset, common people think they can't be good at maths, but its not correct
 Keep reading and learning makes you strong
