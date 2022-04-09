@@ -1,7 +1,6 @@
 ---
 title: Maturity Helps
-authors:
-  - key : arpit
+authors: ['{key: arpit}']
 tags: [book-summary]
 ---
 
@@ -35,3 +34,4 @@ So collecting the points from all over the internet on how to be mature?
 10. keep child within you alive do ask questions 
 
 #learnings 
+Ok
