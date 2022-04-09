@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yesarpit.github.io/blog</id>
     <title>Learnings Blog</title>
-    <updated>2021-11-16T00:00:00.000Z</updated>
+    <updated>2022-04-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yesarpit.github.io/blog"/>
     <subtitle>Learnings Blog</subtitle>
     <icon>https://yesarpit.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Maturity Helps]]></title>
+        <id>/2022/04/09/Own it like Matured</id>
+        <link href="https://yesarpit.github.io/blog/2022/04/09/Own it like Matured"/>
+        <updated>2022-04-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Who is Mature?]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="who-is-mature">Who is Mature?<a class="hash-link" href="#who-is-mature" title="Direct link to heading">​</a></h2><p>Mature person is the one who owns to his or other actions and tries to fix it rather complain about it.</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="why-to-be-mature">Why to be mature<a class="hash-link" href="#why-to-be-mature" title="Direct link to heading">​</a></h2><p>Understand this with an example
+I ordered a room cooler with online store croma.com, the cooler wasn't working hence i asked for replacement, the pick up man came and bluntly said they only pick packed boxex.
+The tone was so rude that I immediately replied him that I was not informed about this before, hence he left and i shut the door.</p><p>A week passed and still i was struggling to get my cooler pickedup.</p><p>If I had shown maturity at the time of first visit I could have enjoyed writing this blog sitting in front of Havells Tuono 18 Litres Personal Air Cooler (Thermal Overload Protection, GHRACBCW180, Mint Blue) </p><h2 class="anchor anchorWithStickyNavbar_mojV" id="how-to-be-mature">How to be mature?<a class="hash-link" href="#how-to-be-mature" title="Direct link to heading">​</a></h2><p>So collecting the points from all over the internet on how to be mature?</p><ol><li><p>Take responsibility</p></li><li><p>Never complaint</p></li><li><p>Don't gossip</p></li><li><p>list 5 weakness of your self </p></li><li><p>leave ego and fear - when you are young you always put your ego first,and as you grow you realize ego always did harm</p></li><li><p>never seek attention - when you do good work - automatically you get loads of praise</p></li><li><p>stop lying on small things</p></li><li><p>balance emotional+ rational mind</p></li><li><p>react calmly to rejection</p></li><li><p>keep child within you alive do ask questions </p></li></ol><p>#learnings</p>]]></content>
+        <author>
+            <name>Arpit Sharma</name>
+            <uri>https://yesarpit.github.io</uri>
+        </author>
+        <category label="book-summary" term="book-summary"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Primal Learning - How Brain learns]]></title>
         <id>primal-learning</id>
