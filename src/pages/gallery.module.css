@@ -1,0 +1,13 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+/* 
+ @import url('https://cdn.jsdelivr.net/npm/lightgallery@2.0.0-beta.4/css/lightgallery.css');
+ @import url('https://cdn.jsdelivr.net/npm/lightgallery@2.0.0-beta.4/css/lg-zoom.css');
+  */
+  /* eef1f7 is the border color provided by embedSocial, hence using it */
+  /* .body-color{
+    background-color: #eef1f7;   
+  }
+  */
