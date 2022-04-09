@@ -1,6 +1,6 @@
 ---
 title: Maturity Helps
-authors: [arpit]
+authors: '[arpit]'
 tags: [book-summary]
 ---
 
