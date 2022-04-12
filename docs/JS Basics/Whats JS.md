@@ -4,11 +4,11 @@ sidebar_position: 0
 
 ### Read This
 
-Computers doesnt understand english :astonished: (suprised ?)
+Computers doesnt understand english :astonished: (surprised ?)
 
-They understand binary langaguage like this '101010000101'
+They understand binary language like this '101010000101'
 
-But we don't understand binary langauage :neutral_face:
+But we don't understand binary language :neutral_face:
 
 So what do we do?
 
@@ -29,6 +29,6 @@ JS implementation is made up of below items:
 ` ` | ` ` | ` `
 ------------ | ------------- | -------------
 ECMAScript | DOM | BOM
-(Core JS) | (Document Object Model) | (Broweser Object Module)
+(Core JS) | (Document Object Model) | (Browser Object Module)
 
 

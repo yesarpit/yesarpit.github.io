@@ -1,4 +1,4 @@
-I think no one should ever start any langaguge with learning data types.
+I think no one should ever start any language with learning data types.
 They sound so silly and scarry , why the hell would I bore someone with JS data types.
 
 
@@ -13,10 +13,10 @@ JS is loaded in browser via the:
 
 Attribute |  What it does |  &nbsp;
 ---|---|---
-async | Load and Execute script immediately | Default async=true, example: ads, counters etc can download and run independendly
+async | Load and Execute script immediately | Default async=true, example: ads, counters etc can download and run independently
 defer | Load in order and Execute after the document is loaded | defer is used for scripts that need the whole DOM and/or their relative execution order is important.
 integrity | verification of Subresource Integrity (SRI) | useful for ensuring that a Content Delivery Network CDN is not serving malicious payloads
-type | Deprecaed- "text/javascript" & "text/ecmascript" Added - "module" |  JavaScript module. The processing of the script contents is not affected by the charset and defer attributes
+type | Deprecated- "text/javascript" & "text/ecmascript" Added - "module" |  JavaScript module. The processing of the script contents is not affected by the charset and defer attributes
 
 Summary:
 
@@ -43,7 +43,7 @@ Primitive values (immutable)
 6) String type
 7) Symbol type
 
-Non Primative:
+Non Primitive:
 
 8. Objects (collections of properties)
 
@@ -80,7 +80,7 @@ Everything in JS happens inside execution context
  
 ###  "use strict"
  ##### Strict mode can be defined inside function (function scoped instead of global)
- Benifits of use strict:
+ Benefits of use strict:
  1) without using strict mode you can end up debugging code for undeclared variable
  use strict - helps preventing accidental global declaration
  ![with use strict](https://i.ibb.co/hgmGQ00/image.png)
@@ -97,7 +97,7 @@ console.log(foo);
 Uncaught SyntaxError: Delete of an unqualified identifier in strict mode
 ````
  
- 3) eval is relatively safe to use in strict mode - because it doesnt leak scope out of its execution context
+ 3) eval is relatively safe to use in strict mode - because it doesn't leak scope out of its execution context
  
  4) It blocks global this usage
  
@@ -152,7 +152,7 @@ console.log(i,'dd')//10
  ### Break vs Continue
  In for loop
  break : breaks entire loop
- continue: conitnues to next iteration
+ continue: continuos to next iteration
  
  ### For in : for looping on objects   (break & continue doesnt work here)
  ### For of : for looping on arrays    (break & con works here)
@@ -174,7 +174,7 @@ __OR__
     
  
  ### Prototypal vs Classical inheritance
- All inheritance in js is protoypal , nothing is classical
+ All inheritance in js is prototypal , nothing is classical
  
  ![Diagram](https://i.ibb.co/0ChhqBt/image.png)
  
@@ -182,10 +182,10 @@ __OR__
  *  Objects have \__proto\__ property
  *  Using Prototype always refer to same object, so it saves memory
 
-protoytypical pattern  =  blabla.prototype.something = Object.create(jiska banana he)
+prototypical pattern  =  blabla.prototype.something = Object.create(jiska banana he)
 constructor pattern =  new Something()
 
-Advantage with constructor pattern is that somewhat you can mimick private variables 
+Advantage with constructor pattern is that somewhat you can mimic private variables 
 
 
 Answer below?
@@ -384,7 +384,7 @@ its goofing up, coz its more than number range,
 
 **4. BigInt**
 
-so for takling such probs, we have BigInt
+so for talking such probs, we have BigInt
 let alot = 9007199254740991n; // Notice n at the end
 console.log(alot + 1n); // 9007199254740992n
 console.log(alot + 2n); // 9007199254740993n
@@ -461,7 +461,7 @@ Same Value Equality: ```Object.is(a, b).```
 
 ##### 1. Special case NaN
 remember that NaN === NaN is always false
-so when you do unitntenal things like, below:
+so when you do unilateral things like, below:
 
 let width = 0 / 0; // NaN
 Further calculations with NaN will give you NaN again:
@@ -563,7 +563,7 @@ b. If it doesn’t exist, answer with the undefined value.
 #### Objects might appear “nested” in code, but in our universe each object is completely separate. An object cannot be “inside” of other object!
 
 
-8) how to support old broweser having no html5 capabilities:
+8) how to support old browser having no html5 capabilities:
 
 Answer:  if you put an unknown element into a web page, by default the browser will just treat it like a span, ie, an anonymous inline element.
 
@@ -582,7 +582,7 @@ article, section, aside, hgroup, nav, header, footer, figure, figcaption {
 
 
 
-Soutuion 2: use  HTML5 Shiv:
+Solution 2: use  HTML5 Shiv:
 HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
 --------->html5shiv.js : this will internally create element for you and other patches for ie6-9
 --------->html5shiv-printshiv.js : all above plus and additional styles for printing
@@ -656,8 +656,8 @@ Respond.js:polyfill for min/max-width CSS3 Media Queries (for IE 6-8) only this 
 ## Page loading:
 
 When page loading is complete that time you can know without jquery:
->>document.readyState---> this will return "complete" when finished loading all, "loading" when its still loading , "interatcive" when finished loading and the document has been parsed but sub-resources such as images, stylesheets and frames are still loading......and this is the state where DOMContentLoaded event is fired..
-so another appraoch is to listen for this event on body like:
+>>document.readyState---> this will return "complete" when finished loading all, "loading" when its still loading , "interactive" when finished loading and the document has been parsed but sub-resources such as images, stylesheets and frames are still loading......and this is the state where DOMContentLoaded event is fired..
+so another approach is to listen for this event on body like:
 
 ```
 <script>

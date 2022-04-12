@@ -21,14 +21,14 @@ Below is an screenshot
 
 ### *Functions are first class members in JS*
 #### Functions are plain JS objects with added superpowers : it can do allobject things +
-*   the code you write iniside fun sits in a special property called 'code' which is invocable - meaning  , will have an execution context
-*   when we call fun() -> it inovkes the code we have written
-*   it has an optional name property to distiguish from other functions
+*   the code you write inside fun sits in a special property called 'code' which is invocable - meaning  , will have an execution context
+*   when we call fun() -> it invokes the code we have written
+*   it has an optional name property to distinguish from other functions
 
 ![](https://i.ibb.co/X30RRRG/image.png)
 
 
-### Coersion
+### Coercion
 
 ![](https://i.ibb.co/gPRCQZ4/image.png)
 
@@ -36,7 +36,7 @@ Below is an screenshot
 Why?
  * Coz if you see above table it starts reading from ltr in case of < & >
  * so it meas it will be evaluated as `(3<2) <1` , 3<2 == false , so `false <1 `, 
- * Coersion takes place here meaning `Number(false) <1`=> 0 <1 ==> *True*
+ * Coercion takes place here meaning `Number(false) <1`=> 0 <1 ==> *True*
 
 ### Operator Precedence
 
@@ -47,8 +47,8 @@ Why?
 ![](https://i.ibb.co/XYGB2ZC/image.png)
 
 Answer: 4,4,4 
-This happens because of precendence. it goes from right to left.
-if precendence was from LtoR asnwer would be 2,2,2
+This happens because of precedence. it goes from right to left.
+if precedence was from LtoR answer would be 2,2,2
 
 ![](https://i.ibb.co/XpgCrTP/image.png)
 
@@ -63,7 +63,7 @@ if precendence was from LtoR asnwer would be 2,2,2
 ## Async Functioning
 ![Async Functioning](https://i.ibb.co/N3g5sWK/image.png)
 
-In the above code, when cliked immediatedly after page reload, result is below:
+In the above code, when clicked immediately after page reload, result is below:
 
 ![Async Functioning](https://i.ibb.co/h8241jK/image.png)
 

@@ -4,12 +4,12 @@ sidebar_position: 2
 
 Anyways this entire thing is about JS , so lets give a min to essentials when running JS in browser i.e DOM & BOM 
 
-Reading them is not neccessary but it will help , just saying :man_shrugging: 
+Reading them is not necessary but it will help , just saying :man_shrugging: 
 
 ### DOM Document object model
 
 **DOM = Window.document**
-so wherenever we do document.querySelector etc, we call DOM , so DOM is 
+so whenever we do document.querySelector etc, we call DOM , so DOM is 
 
 ![DOM](https://i.ibb.co/FXmtdBk/image.png)
 
