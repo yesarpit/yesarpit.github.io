@@ -32,7 +32,7 @@ Visually measure your progress is very effective. Habit tracking is important.
 
 Human brain like challenges but only those which are optimal for our capacity.
 Example: play tennis with 10yr kid - get bored
-Play with serena williams- loose motivaton
+Play with serena williams- loose motivation
 
 Hence we need to pick a lil more than our comfortable zone.
 

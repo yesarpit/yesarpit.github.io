@@ -102,7 +102,7 @@ School learning system is failing
 
 Creating - is the most efficient way to learn something followed by 
 Evaluating, 
-Analysing,
+Analyzing,
 Applying,
 Understanding
 Remember (passive Learning, bad approach)
