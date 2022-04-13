@@ -14,7 +14,7 @@ export default function Home() {
       <main>
         <section className={styles.features}>
           <div style={{ textAlign: "center", width: "100%" }}>
-            <img src="./img/pf.webp" alt="Portfolio Image" />
+            <img src="./img/pf.png" alt="Portfolio Image" />
           </div>
         </section>
       </main>
