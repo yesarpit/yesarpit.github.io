@@ -51,7 +51,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
+          { 
             type: 'doc',
             docId: 'intro',
             position: 'left',
@@ -59,6 +59,7 @@ const config = {
           },
           {to: '/gallery', label: 'Photoactive', position: 'right'},
           {to: '/blog', label: 'Blog', position: 'right'},
+          {to: '/fitness', label: 'Fitness', position: 'right'},
           {
             href: 'https://github.com/yesarpit',
             label: 'GitHub',
