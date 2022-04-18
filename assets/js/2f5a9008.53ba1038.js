@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarpit_blog=self.webpackChunkarpit_blog||[]).push([[805],{820:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/book-summary","name":"book-summary","count":6,"permalink":"/blog/tags/book-summary"}')}}]);
