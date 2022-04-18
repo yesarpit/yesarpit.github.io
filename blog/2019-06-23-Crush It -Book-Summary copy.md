@@ -16,7 +16,7 @@ Thanks to social media, anyone can now turn their passion into their profession.
 * Always be authentic in your content.
 
 
-Personal Brand is must in whatever you are doing for this centuary , its hard to see you survive in coming time if you are not a brand of what you do good.
+Personal Brand is must in whatever you are doing for this Century , its hard to see you survive in coming time if you are not a brand of what you do good.
 
 #learnings 
 
