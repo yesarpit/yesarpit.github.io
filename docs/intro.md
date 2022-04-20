@@ -4,10 +4,13 @@ sidebar_position: 0
 
 # Intro
 
-I haven't met anyone in life whose childhood dream was to become a software developer.
-But as we grow up we realize that this pays well.
+I haven't met anyone till date whose' childhood dream was to become a software developer.
+But as we grow up we realize this *pays* well.
 
-I am a Javascript fan. Why? Is that because I only know that language? No, I know Java too. Infact I am Oracle Certified Java developer. Is the reason its easy to learn? No python has much easier learning curve. Then why?  'Write once run anywhere'. - you would have heard this for Java right? Wrong - Java doest run in browser. javascript do. In browser and everywhere else.
+I am a Javascript fan. Why? Is that because it's fancy ? No, I know Java too. Infact I am Oracle Certified Java developer. Is the reason its easy to learn? No python has much easier learning curve. Then why? 
+
+'Write once run anywhere'. - you would have heard this for Java right? Wrong - Java doest run in browser. Javascript do. 
+In browser and everywhere else.
 
 Web, App, Server - all can host codebase in same language (JS) - bringing your development cost & headache down.
 

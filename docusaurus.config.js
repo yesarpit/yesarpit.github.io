@@ -82,8 +82,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/users/4519475/yesarpit',
+                label: 'Certifications',
+                href: 'https://www.credly.com/badges/f49d873f-2763-4bc2-b28b-4dbfd2875180/public_url',
               },
               {
                 label: 'Linked In',
@@ -97,6 +97,10 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+              {
+                label: 'Insta',
+                to: '/gallery',
               }
             ],
           },
