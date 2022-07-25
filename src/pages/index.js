@@ -8,8 +8,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`A Software Engineer built in with Management Skills`}
+      description="Arpit Sharma is a Software Engineer and Engineering Manager working with biggest companies in the world to deliver delightful digital products">
       {/* <HomepageHeader /> */}
       <main>
         <section className={styles.features}>
