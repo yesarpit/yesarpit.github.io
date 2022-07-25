@@ -9,6 +9,7 @@ But as we grow up we realize this *pays* well.
 
 I am a Javascript fan. Why? Is that because it's fancy ? No, I know Java too. Infact I am Oracle Certified Java developer. Is the reason its easy to learn? No python has much easier learning curve. Then why? 
 
+
 'Write once run anywhere'. - you would have heard this for Java right? Wrong - Java doest run in browser. Javascript do. 
 In browser and everywhere else.
 
@@ -54,4 +55,9 @@ npx docusaurus start
 
 Your site starts at `http://localhost:3000`.
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes. -->
+Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes. 
+-->
+
+Just for  comparisons
+
+![Java vs Js vs Python](./DSA/images/jsvsjava.png)
