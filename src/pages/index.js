@@ -8,8 +8,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Bold Engineer | Human First Manager | Ambitious Thinker`}
-      description="Arpit Sharma is a Software Engineer and Engineering Manager working with biggest companies to develop data-driven delightful digital experiences">
+      title={`Hands-on Engineer | Human First Manager | Ambitious Thinker`}
+      description="Arpit Sharma, a Software Engineering Manager, works with enterprises to create user-friendly digital experiences utilizing data.">
       {/* <HomepageHeader /> */}
       <main>
         <section className={styles.features}>
