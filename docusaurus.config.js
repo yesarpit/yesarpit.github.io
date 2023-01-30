@@ -57,7 +57,7 @@ const config = {
             position: 'left',
             label: 'Javascript',
           },
-          {to: '/gallery', label: 'Photoactive', position: 'right'},
+          // {to: '/gallery', label: 'Photoactive', position: 'right'},
           {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/yesarpit',
@@ -98,10 +98,10 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'Insta',
-                to: '/gallery',
-              }
+              // {
+              //   label: 'Insta',
+              //   to: '/gallery',
+              // }
             ],
           },
         ],
