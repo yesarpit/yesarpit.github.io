@@ -1,5 +1,5 @@
 ---
-title: 'Finish - Book Summary'
+title: 'Finish - No perfectionism trap'
 authors: arpit
 tags: [book-summary]
 type: Journal

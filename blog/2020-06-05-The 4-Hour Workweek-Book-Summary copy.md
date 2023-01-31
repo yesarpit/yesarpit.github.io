@@ -1,5 +1,5 @@
 ---
-title: The 4-Hour Workweek - Book Summary
+title: The 4-Hour Workweek
 authors: arpit
 tags: [book-summary]
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ego is the Enemy - Book Summary
+title: Ego is the Enemy
 authors: arpit
 tags: [book-summary]
 ---

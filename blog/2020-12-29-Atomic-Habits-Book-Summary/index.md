@@ -1,6 +1,6 @@
 ---
 slug: atomic-habits-summary
-title: Atomic Habits - Book Summary
+title: Atomic Habits
 authors: [arpit, jamesclear]
 tags: [book-summary]
 ---

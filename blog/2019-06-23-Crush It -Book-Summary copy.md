@@ -1,5 +1,5 @@
 ---
-title: Crush It - Book Summary
+title: Crush It
 authors:
   - name: Gary vaynerc 
     title: Author

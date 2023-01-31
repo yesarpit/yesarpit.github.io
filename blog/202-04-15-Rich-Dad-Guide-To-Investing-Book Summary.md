@@ -1,5 +1,5 @@
 ---
-title: RichDad Guide2Investing - Book Summary
+title: RichDad Guide2Investing
 authors:
   - name: Robert Kiyosaki
     title: Author

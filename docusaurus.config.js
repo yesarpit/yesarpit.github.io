@@ -29,7 +29,7 @@ const config = {
         blog: {
           showReadingTime: true,
           blogSidebarCount:"ALL",
-          blogSidebarTitle: 'All Posts',
+          blogSidebarTitle: 'Book Summaries',
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/main/website/blog/',
