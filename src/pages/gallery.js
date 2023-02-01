@@ -14,7 +14,7 @@ function Gallery() {
 
     <BrowserOnly fallback={<div>Loading...</div>}>
       {() => {
-        function getWindowDimensions() {
+          function getWindowDimensions() {
           const { innerWidth: width, innerHeight: height } = window
           return {
             width,
