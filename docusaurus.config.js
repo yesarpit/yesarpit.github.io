@@ -104,8 +104,21 @@ const config = {
               // }
             ],
           },
+          // {
+          //   title: 'CV',
+          //   items: [
+          //     {
+          //       label: 'CV',
+          //       href: '/CV',
+          //     },
+          //     // {
+          //     //   label: 'Insta',
+          //     //   to: '/gallery',
+          //     // }
+          //   ],
+          // }
         ],
-        copyright: `<b>No</b> Copyright © ${new Date().getFullYear()} Arpit Sharma @yesarpit, This is Built with Docusaurus.`,
+        copyright: `<b>No</b> Copyright © ${new Date().getFullYear()} Arpit Sharma @yesarpit`,
       },
       colorMode: {
         defaultMode: 'dark',
