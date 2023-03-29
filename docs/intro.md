@@ -4,29 +4,19 @@ sidebar_position: 0
 
 # Intro
 
-I haven't met anyone till date whose' childhood dream was to become a software developer.
-But as we grow up we realize this *pays* well.
+I haven't met anyone to date whose childhood dream was to become a software developer. But as we grow up, we realize that it pays well.
 
-I am a Javascript fan. Why? Is that because it's fancy ? No, I know Java too. Infact I am Oracle Certified Java developer. Is the reason its easy to learn? No python has much easier learning curve. Then why? 
+I am a JavaScript fan. Why? Is it because it's fancy? No, I know Java too. In fact, I am an Oracle Certified Java developer. Is the reason it's easy to learn? No, Python has a much easier learning curve. Then why?
 
+'Write once, run anywhere.' You may have heard this for Java, right? Wrong - Java doesn't run in the browser. JavaScript does. In the browser and everywhere else.
 
-'Write once run anywhere'. - you would have heard this for Java right? Wrong - Java doest run in browser. Javascript do. 
-In browser and everywhere else.
+Web, app, server - all can host the codebase in the same language (JS), bringing your development cost and headaches down.
 
-Web, App, Server - all can host codebase in same language (JS) - bringing your development cost & headache down.
+Remember the days of the 2000s when PCs used to have tons of software for different purposes like browsers, music players, video players, MS Office, Adobe Suite, etc.? All of these are comfortably knocked down by something like ChromeOS or just a laptop with Chrome on it.
 
-Remember those days of 2000's when PC used to have tons of softwares for different purposes like browser, music player, video player, ms office, adobe suite etc - all of these are comfortably knocked down by something like chromeos or just a laptop with chrome on it.
+Back to the present - aren't the mobile phones of today the same thing as the desktops of yesterday and apps the same things as old software? What do you think is going to happen next? History repeats itself. I already have the web version of Amazon, OYO, Myntra installed on my phone as apps, and they feel better than native apps.
 
-back to present - Aren't the mobile phones of today are same thing as desktops of yesterday and apps same things as old softwares , what do you think is gonna happen next. History repeats itself. I already have web version of Amazon, OYO , Myntra installed in my phone as apps, and they **feel** better than native apps.
-
-
-Web is powerful, Javascript is it's fuel.
-
-
-
-
-
-
+The web is powerful, and JavaScript is its fuel.
 
 <!-- 
 ## Start by reading topics on your left
