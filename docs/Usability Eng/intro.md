@@ -18,3 +18,4 @@
 10. **Accessibility**: Refers to the design of products or systems to make them usable by people with disabilities, such as visual or hearing impairments.
 
 
+These are some basics , but still many more to come
