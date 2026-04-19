@@ -1,16 +1,7 @@
 ---
 slug: primal-learning
 title: Primal Learning - How Brain learns
-authors:
-  - key : arpit
-  - name: Vegard Gjerde 
-    title: Ph.D. Physics Education Research; M.Sc. Nuclear Physics
-    image_url: https://img-b.udemycdn.com/user/200_H/11805206_c4a1.jpg
-    url: https://www.udemy.com/user/vegardgjerde/ 
-  - name: Mathias G
-    title: Software entrepreneur & engineer
-    image_url: https://img-b.udemycdn.com/user/200_H/9914004_1268_4.jpg
-    url: https://www.udemy.com/user/54a6106b68452/
+authors: [arpit, vegardgjerde, mathiasg]
 tags: [summary]
 ---
 

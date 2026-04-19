@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {themes} = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -12,9 +13,12 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    format: 'detect',
+  },
   favicon: 'img/favicon.ico',
-  organizationName: 'Arpit', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'yesarpit', // Usually your GitHub org/user name.
+  projectName: 'yesarpit.github.io', // Usually your repo name.
 
   presets: [
     [
@@ -24,7 +28,7 @@ const config = {
         docs: {
          sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          // editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/yesarpit/yesarpit.github.io/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -32,7 +36,7 @@ const config = {
           blogSidebarTitle: 'Book Summaries',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/yesarpit/yesarpit.github.io/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -55,7 +59,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Javascript',
+            label: 'Technical',
           },
           // {to: '/gallery', label: 'Photoactive', position: 'right'},
           {to: '/blog', label: 'Blog', position: 'left'},

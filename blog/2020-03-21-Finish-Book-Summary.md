@@ -1,40 +1,29 @@
 ---
-title: 'Finish - No perfectionism trap'
+title: "Finish: The Practical Guide to Killing Perfectionism"
 authors: arpit
-tags: [book-summary]
+tags: [book-summary, productivity]
 type: Journal
 ---
 
-## FINISH : a practical guide to get rid of perfectionism trap
+## FINISH: Why Done is Better Than Perfect
 
-"One goal at a time"
+Most people don't have a problem *starting*; they have a problem *finishing*. Jon Acuff argues that our biggest obstacle isn't laziness—it's **perfectionism**. Here is the blueprint to escape the perfectionism trap:
 
-1) Choose what to bomb
- write a not-to-do list of things that are distracting you from achieving this one goal 
+### 1. Cut Your Goal in Half
+Perfectionism tells you to "Go Big or Go Home." Acuff says to cut your goal in half. By making the goal achievable, you take the pressure off and actually build the momentum needed to cross the finish line.
 
-2) Make it fun if you want it done
-two things are important in achieving goals
-a. satisfaction
-b. performance success
+### 2. Choose What to Bomb
+You cannot be perfect at everything while chasing a new goal. Be intentional about what you are going to let slide (e.g., maybe your house won't be as clean while you're writing that book). Write a **"Not-to-Do"** list to stay focused.
 
-   To enjoy the process there are two motivatio
-> Reward motivation : jaise ki body banane pe gf milegi
-> Fear motivation : jaise ki mota hone pe health kharab hogi
+### 3. Make it Fun if You Want it Done
+Satisfaction and performance are linked. Identify what motivates you:
+*   **Reward Motivation**: "If I finish this, I get to enjoy a guilt-free movie."
+*   **Fear Motivation**: "If I don't finish this, I'll have to pay a fine or lose health."
+Use whichever works for you to keep the process enjoyable.
 
-Identify important factor which motivates you and use that to enjoy the process of achieving goals
+### 4. Leave Your "Hiding Places"
+A **Hiding Place** is an activity you focus on *instead* of your goal (e.g., organizing your desk when you should be coding). A **Noble Obstacle** is a rational-sounding excuse (e.g., "I can't start the YouTube channel because I don't have a 4K camera"). 
 
-3)  Leave your hiding places and ignore noble obstacles
-> hiding place - is an activity you focus on instead of your goal
-> noble obstacle - eg: i am waiting for good quality camera before start a shoot etc
-
-DONE IS BETTER THAN PERFECT
-Chase progress than perfection 
-
-What ever you want to do, publish first version - however bad it may be - and then keep improving it , but its really really required to get the first work done.
-
-so
-1) make not to do list
-2) enjoy journey
-3) get rid of intelligent excuses
+**The Bottom Line**: Chase progress, not perfection. Publish your "Version 1.0"—however bad it may be—and then iterate.
 
 #learnings

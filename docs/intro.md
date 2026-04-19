@@ -18,36 +18,6 @@ Back to the present - aren't the mobile phones of today the same thing as the de
 
 The web is powerful, and JavaScript is its fuel.
 
-<!-- 
-## Start by reading topics on your left
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes. 
--->
-
 Just for  comparisons
 
 ![Java vs Js vs Python](./DSA/images/jsvsjava.png)
