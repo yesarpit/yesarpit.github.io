@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkarpit_blog=globalThis.webpackChunkarpit_blog||[]).push([[2634],{192(t,a,l){l.r(a),l.d(a,{default:()=>o});l(6540);var r=l(6347),h=l(4848);function o(){return(0,h.jsx)(r.rd,{to:"/home.html"})}}}]);
