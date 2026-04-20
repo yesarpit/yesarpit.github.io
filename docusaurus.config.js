@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const {themes} = require('prism-react-renderer');
+const { themes } = require('prism-react-renderer');
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
@@ -20,19 +20,27 @@ const config = {
   organizationName: 'yesarpit', // Usually your GitHub org/user name.
   projectName: 'yesarpit.github.io', // Usually your repo name.
 
+  scripts: [
+    {
+      src: 'https://cloud.umami.is/script.js',
+      'data-website-id': '1a52d815-53ac-41de-a7ec-feea9daa1508', // Replace with your actual website-id
+      defer: true,
+    },
+  ],
+
   presets: [
     [
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-         sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/yesarpit/yesarpit.github.io/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          blogSidebarCount:"ALL",
+          blogSidebarCount: "ALL",
           blogSidebarTitle: 'Book Summaries',
           // Please change this to your repo.
           editUrl:
@@ -62,7 +70,7 @@ const config = {
             label: 'Technical',
           },
           // {to: '/gallery', label: 'Photoactive', position: 'right'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/yesarpit',
             label: 'GitHub',
@@ -135,19 +143,19 @@ const config = {
       },
     }),
 
-    
-    // plugins: [
-    //   [
-    //     '@docusaurus/plugin-content-docs',
-    //     {
-    //       id: 'Finance',
-    //       // path: 'Finance',
-    //       // routeBasePath: 'Finance',
-    //       sidebarPath: require.resolve('./sidebarsFinance.js'),
-    //       // ... other options
-    //     },
-    //   ],
-    // ]
+
+  // plugins: [
+  //   [
+  //     '@docusaurus/plugin-content-docs',
+  //     {
+  //       id: 'Finance',
+  //       // path: 'Finance',
+  //       // routeBasePath: 'Finance',
+  //       sidebarPath: require.resolve('./sidebarsFinance.js'),
+  //       // ... other options
+  //     },
+  //   ],
+  // ]
 };
 
 
