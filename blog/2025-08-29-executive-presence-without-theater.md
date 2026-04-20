@@ -3,6 +3,7 @@ slug: executive-presence-without-theater
 title: Executive Presence Without Theater
 authors: [arpit]
 tags: [leadership, executive-lessons, communication]
+description: "Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams."
 ---
 
 ### Read This

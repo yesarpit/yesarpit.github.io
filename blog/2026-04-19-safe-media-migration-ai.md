@@ -3,6 +3,7 @@ slug: safe-media-migration-ai
 title: "Reclaiming 50GB+ Mac Storage Safely: A Journey from 'Disk Full' to AI-Powered Deduping"
 authors: [arpit]
 tags: [productivity, macos, ai, python, storage]
+description: "Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams."
 ---
 
 We've all been there: the dreaded **"Your disk is almost full"** notification on macOS. This week, I hit the wall. A 52GB folder of mobile backups, photos, and videos was choking my internal SSD. 

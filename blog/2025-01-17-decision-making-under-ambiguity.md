@@ -3,6 +3,7 @@ slug: decision-making-under-ambiguity
 title: Decision Making Under Ambiguity
 authors: [arpit]
 tags: [leadership, management, executive-lessons]
+description: "Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams."
 ---
 
 ### Read This

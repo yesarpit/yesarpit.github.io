@@ -3,6 +3,7 @@ slug: lessons-i-am-trying-not-to-forget
 title: Lessons I Am Trying Not to Forget
 authors: [arpit]
 tags: [life-skills, leadership, executive-lessons]
+description: "Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams."
 ---
 
 ### Read This

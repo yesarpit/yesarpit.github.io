@@ -3,6 +3,7 @@ slug: memos-i-wish-more-leaders-wrote
 title: Memos I Wish More Leaders Wrote
 authors: [arpit]
 tags: [leadership, executive-lessons, communication]
+description: "Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams."
 ---
 
 ### Read This

@@ -3,6 +3,7 @@ slug: the-cost-of-being-the-smartest-person-in-the-room
 title: The Cost of Being the Smartest Person in the Room
 authors: [arpit]
 tags: [leadership, management, life-skills]
+description: "Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams."
 ---
 
 ### Read This

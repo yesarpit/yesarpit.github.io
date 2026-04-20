@@ -3,6 +3,7 @@ slug: career-decisions-compound-quietly
 title: Career Decisions Compound Quietly
 authors: [arpit]
 tags: [life-skills, career, leadership]
+description: "Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams."
 ---
 
 ### Read This
