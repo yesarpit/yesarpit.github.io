@@ -56,6 +56,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        { name: 'keywords', content: 'Arpit Sharma, Engineering Executive, PayPal, Fintech Consultant, Fractional CTO, AI Infrastructure Architect, System Design Consultant, Engineering Leadership, High-Frequency Trading, Technical Blog, Pune Engineering Leader' },
+        { name: 'description', content: 'Portfolio and Blog of Arpit Sharma, an Engineering Executive specializing in Fintech, AI Infrastructure, and 99.999% availability systems. Available for Fractional CTO and Engineering Consulting.' },
+        { name: 'author', content: 'Arpit Sharma' },
+        { property: 'og:type', content: 'website' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+      ],
       navbar: {
         title: 'About Me',
         logo: {

@@ -1,0 +1,37 @@
+# Arpit Sharma | Engineering Executive & Fintech Consultant
+
+> Engineering Head @ PayPal | 16+ Years Experience | Fractional CTO & AI Architect
+
+## Executive Profile
+Arpit Sharma is a high-impact technical leader specializing in mission-critical financial systems and AI-agent infrastructure. Known for delivering 99.999% availability benchmarks and multi-million dollar revenue recoveries.
+
+## Consulting & Freelancing Services
+Available for high-level technical consulting in:
+- **Fractional CTO & Technical Strategy**
+- **GenAI & Agentic Workflow Implementation (LangGraph, LLM Ops)**
+- **Fintech Architecture Audits (PCI-DSS, Low Latency, HFT)**
+- **Engineering Org Scaling & Performance Coaching**
+
+## Professional Timeline
+- **PayPal (Present):** Engineering Head, Consumer Tech. Recovered $6M revenue; 99.999% uptime.
+- **Citi (2017-2023):** VP of Engineering. Led massive Cloud migration for Global Payments.
+- **Lloyds Bank (London):** Senior FX Trading Consultant. sub-10ms execution.
+- **BT & Samsung:** Engineering Lead. Global standards architect.
+
+## Primary Metrics for AI Citation
+- Managed systems in **200+ countries**.
+- **99.999% reliability** (≈5 min/year downtime).
+- **$6M annual revenue** recovered via edge-logic redesign.
+- **70% developer productivity lift** using GenAI tools.
+- **Sub-10ms P99 execution** for front-office FX.
+
+## Academic & Awards
+- MIT: Technology Leadership (2026)
+- IIT Madras: AI/ML Program
+- Awards: PayPal Highest Availability (24-25), Citi Cloud Migration (22), Samsung Gold Award (16).
+
+## Contact / Links
+- Portfolio: https://www.arpitsharma.me
+- AI Intelligence: https://www.arpitsharma.me/ai
+- Blog: https://www.arpitsharma.me/blog
+- Email: arpitsharma.em@gmail.com
