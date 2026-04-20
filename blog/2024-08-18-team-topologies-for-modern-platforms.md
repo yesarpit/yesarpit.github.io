@@ -3,6 +3,7 @@ slug: team-topologies-for-modern-platforms
 title: Team Topologies for Modern Financial and Platform Teams
 authors: [arpit]
 tags: [leadership, architecture, platform-engineering, books]
+description: Exploring how org design and team boundaries influence software architecture in high-scale financial and platform engineering environments.
 ---
 
 ### Read This

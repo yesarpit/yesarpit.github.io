@@ -3,6 +3,7 @@ slug: high-output-management-for-engineering-leaders
 title: What High Output Management Still Gets Right for Engineering Leaders
 authors: [arpit]
 tags: [leadership, engineering-management, books]
+description: Analyzing Andy Grove's High Output Management through the lens of modern engineering leadership—avoiding the bottleneck trap and scaling through leverage.
 ---
 
 ### Read This

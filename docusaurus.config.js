@@ -86,6 +86,7 @@ const config = {
           },
         ],
       },
+      image: 'img/social-card.png',
       footer: {
         style: 'dark',
         links: [

@@ -3,6 +3,7 @@ slug: the-hard-thing-about-hard-things-in-engineering
 title: What The Hard Thing About Hard Things Taught Me About Leading Through Pressure
 authors: [arpit]
 tags: [leadership, engineering-management, books]
+description: A leadership framework for engineering executives on counterintuitive decision-making and leading through high-stakes pressure.
 ---
 
 ### Read This
