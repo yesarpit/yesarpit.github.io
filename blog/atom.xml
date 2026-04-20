@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yesarpit.github.io/blog</id>
+    <id>https://www.arpitsharma.me/blog</id>
     <title>Learnings Blog</title>
     <updated>2026-09-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yesarpit.github.io/blog"/>
+    <link rel="alternate" href="https://www.arpitsharma.me/blog"/>
     <subtitle>Learnings Blog</subtitle>
-    <icon>https://yesarpit.github.io/img/favicon.ico</icon>
+    <icon>https://www.arpitsharma.me/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Lessons I Am Trying Not to Forget]]></title>
-        <id>https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget</id>
-        <link href="https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget"/>
+        <id>https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget</id>
+        <link href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget"/>
         <updated>2026-09-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Not every post needs to be a framework.</p>
 <p>Some posts are better as reminders.</p>
 <p>This is one of those.</p>
 <p>A few things I keep relearning, and apparently keep needing to relearn.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-clarity-saves-more-energy-than-intensity">1) Clarity saves more energy than intensity<a href="https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget#1-clarity-saves-more-energy-than-intensity" class="hash-link" aria-label="Direct link to 1) Clarity saves more energy than intensity" title="Direct link to 1) Clarity saves more energy than intensity" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-clarity-saves-more-energy-than-intensity">1) Clarity saves more energy than intensity<a href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget#1-clarity-saves-more-energy-than-intensity" class="hash-link" aria-label="Direct link to 1) Clarity saves more energy than intensity" title="Direct link to 1) Clarity saves more energy than intensity" translate="no">​</a></h3>
 <p>When things get messy, people often respond with more urgency.</p>
 <p>Sometimes what is actually needed is more clarity.</p>
 <p>Intensity without clarity creates noise.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-smart-people-also-need-simple-communication">2) Smart people also need simple communication<a href="https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget#2-smart-people-also-need-simple-communication" class="hash-link" aria-label="Direct link to 2) Smart people also need simple communication" title="Direct link to 2) Smart people also need simple communication" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-smart-people-also-need-simple-communication">2) Smart people also need simple communication<a href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget#2-smart-people-also-need-simple-communication" class="hash-link" aria-label="Direct link to 2) Smart people also need simple communication" title="Direct link to 2) Smart people also need simple communication" translate="no">​</a></h3>
 <p>I used to think strong teams need more complexity because they can handle it.</p>
 <p>Not always.</p>
 <p>Strong teams move better when message is clean, not when it sounds sophisticated.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-some-problems-shrink-when-named-properly">3) Some problems shrink when named properly<a href="https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget#3-some-problems-shrink-when-named-properly" class="hash-link" aria-label="Direct link to 3) Some problems shrink when named properly" title="Direct link to 3) Some problems shrink when named properly" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-some-problems-shrink-when-named-properly">3) Some problems shrink when named properly<a href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget#3-some-problems-shrink-when-named-properly" class="hash-link" aria-label="Direct link to 3) Some problems shrink when named properly" title="Direct link to 3) Some problems shrink when named properly" translate="no">​</a></h3>
 <p>A lot of stress comes from vague discomfort.</p>
 <p>The moment you can say:</p>
 <p>this is an ownership issue<br>
@@ -39,27 +39,27 @@ this is a sequencing issue</p>
 <p>Naming does not solve the issue fully.
 But it reduces fog.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-you-can-outgrow-environments-quietly">4) You can outgrow environments quietly<a href="https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget#4-you-can-outgrow-environments-quietly" class="hash-link" aria-label="Direct link to 4) You can outgrow environments quietly" title="Direct link to 4) You can outgrow environments quietly" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-you-can-outgrow-environments-quietly">4) You can outgrow environments quietly<a href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget#4-you-can-outgrow-environments-quietly" class="hash-link" aria-label="Direct link to 4) You can outgrow environments quietly" title="Direct link to 4) You can outgrow environments quietly" translate="no">​</a></h3>
 <p>Not with drama.
 Not with anger.</p>
 <p>Sometimes a place simply stops stretching you.
 Or your values stop matching the way work is done.</p>
 <p>That is useful to notice early.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-what-feels-urgent-is-not-always-important">5) What feels urgent is not always important<a href="https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget#5-what-feels-urgent-is-not-always-important" class="hash-link" aria-label="Direct link to 5) What feels urgent is not always important" title="Direct link to 5) What feels urgent is not always important" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-what-feels-urgent-is-not-always-important">5) What feels urgent is not always important<a href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget#5-what-feels-urgent-is-not-always-important" class="hash-link" aria-label="Direct link to 5) What feels urgent is not always important" title="Direct link to 5) What feels urgent is not always important" translate="no">​</a></h3>
 <p>This lesson keeps coming back forever.</p>
 <p>Inbox urgency is seductive.
 Reaction feels productive.</p>
 <p>But a lot of meaningful progress still comes from fewer, deeper, more deliberate moves.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-strong-people-also-get-tired-in-invisible-ways">6) Strong people also get tired in invisible ways<a href="https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget#6-strong-people-also-get-tired-in-invisible-ways" class="hash-link" aria-label="Direct link to 6) Strong people also get tired in invisible ways" title="Direct link to 6) Strong people also get tired in invisible ways" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-strong-people-also-get-tired-in-invisible-ways">6) Strong people also get tired in invisible ways<a href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget#6-strong-people-also-get-tired-in-invisible-ways" class="hash-link" aria-label="Direct link to 6) Strong people also get tired in invisible ways" title="Direct link to 6) Strong people also get tired in invisible ways" translate="no">​</a></h3>
 <p>This one is important.</p>
 <p>A person can keep delivering and still be draining internally.</p>
 <p>So not all burnout announces itself loudly.
 Sometimes it shows up as reduced joy, reduced sharpness, reduced care.</p>
 <p>That needs attention too.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="7-a-good-reputation-is-built-in-repeated-ordinary-moments">7) A good reputation is built in repeated ordinary moments<a href="https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget#7-a-good-reputation-is-built-in-repeated-ordinary-moments" class="hash-link" aria-label="Direct link to 7) A good reputation is built in repeated ordinary moments" title="Direct link to 7) A good reputation is built in repeated ordinary moments" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="7-a-good-reputation-is-built-in-repeated-ordinary-moments">7) A good reputation is built in repeated ordinary moments<a href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget#7-a-good-reputation-is-built-in-repeated-ordinary-moments" class="hash-link" aria-label="Direct link to 7) A good reputation is built in repeated ordinary moments" title="Direct link to 7) A good reputation is built in repeated ordinary moments" translate="no">​</a></h3>
 <p>Not only big wins.</p>
 <p>It is built in:</p>
 <ul>
@@ -70,7 +70,7 @@ Sometimes it shows up as reduced joy, reduced sharpness, reduced care.</p>
 </ul>
 <p>These ordinary moments compound.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/lessons-i-am-trying-not-to-forget#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>I like big frameworks.
 But sometimes what helps most is a smaller list you can return to when life gets noisy.</p>
 <p>This is one of those lists for me.</p>
@@ -85,47 +85,47 @@ But sometimes what helps most is a smaller list you can return to when life gets
     </entry>
     <entry>
         <title type="html"><![CDATA[Reclaiming 50GB+ Mac Storage Safely: A Journey from 'Disk Full' to AI-Powered Deduping]]></title>
-        <id>https://yesarpit.github.io/blog/safe-media-migration-ai</id>
-        <link href="https://yesarpit.github.io/blog/safe-media-migration-ai"/>
+        <id>https://www.arpitsharma.me/blog/safe-media-migration-ai</id>
+        <link href="https://www.arpitsharma.me/blog/safe-media-migration-ai"/>
         <updated>2026-04-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We've all been there: the dreaded "Your disk is almost full" notification on macOS. This week, I hit the wall. A 52GB folder of mobile backups, photos, and videos was choking my internal SSD.]]></summary>
         <content type="html"><![CDATA[<p>We've all been there: the dreaded <strong>"Your disk is almost full"</strong> notification on macOS. This week, I hit the wall. A 52GB folder of mobile backups, photos, and videos was choking my internal SSD.</p>
 <p>But as an engineer, the thought of manually dragging-and-dropping thousands of files—or worse, manually deleting duplicates—felt like a recipe for disaster. One wrong click and a decade of memories could be gone.</p>
 <p>Here is how I solved it using a "Safety-First" framework and a custom Python deduplication engine.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-problem-data-hoarding--the-ntfs-wall">The Problem: Data Hoarding &amp; The NTFS Wall<a href="https://yesarpit.github.io/blog/safe-media-migration-ai#the-problem-data-hoarding--the-ntfs-wall" class="hash-link" aria-label="Direct link to The Problem: Data Hoarding &amp; The NTFS Wall" title="Direct link to The Problem: Data Hoarding &amp; The NTFS Wall" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-problem-data-hoarding--the-ntfs-wall">The Problem: Data Hoarding &amp; The NTFS Wall<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-problem-data-hoarding--the-ntfs-wall" class="hash-link" aria-label="Direct link to The Problem: Data Hoarding &amp; The NTFS Wall" title="Direct link to The Problem: Data Hoarding &amp; The NTFS Wall" translate="no">​</a></h2>
 <p>I had a massive archive of media to move to my reliable <strong>Seagate Backup Plus</strong>. But I faced three major hurdles:</p>
 <ol>
 <li class=""><strong>The Risk of Loss</strong>: Drag-and-drop in Finder is "silent." If it fails halfway, you don't know what's copied and what's not.</li>
 <li class=""><strong>The NTFS Wall</strong>: My Seagate drive was formatted in NTFS (Windows standard), making it <strong>Read-Only</strong> on my Mac. I couldn't write a single byte to it.</li>
 <li class=""><strong>The Duplicate Nightmare</strong>: Over years of backups, I had hundreds of duplicate files with different names (e.g., <code>IMG_123.jpg</code> vs <code>IMG_123_copy.jpg</code>).</li>
 </ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="attempt-1-the-manual-way-and-why-i-didnt-do-it">Attempt 1: The Manual Way (and why I didn't do it)<a href="https://yesarpit.github.io/blog/safe-media-migration-ai#attempt-1-the-manual-way-and-why-i-didnt-do-it" class="hash-link" aria-label="Direct link to Attempt 1: The Manual Way (and why I didn't do it)" title="Direct link to Attempt 1: The Manual Way (and why I didn't do it)" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="attempt-1-the-manual-way-and-why-i-didnt-do-it">Attempt 1: The Manual Way (and why I didn't do it)<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#attempt-1-the-manual-way-and-why-i-didnt-do-it" class="hash-link" aria-label="Direct link to Attempt 1: The Manual Way (and why I didn't do it)" title="Direct link to Attempt 1: The Manual Way (and why I didn't do it)" translate="no">​</a></h2>
 <p>Manual deletion is the enemy of accuracy. I considered online "Duplicate Finder" tools, but I didn't want to grant a random app access to my entire photo library, nor did I want to pay $20 for a one-time cleanup.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-solution-ai-guided-safety-first-migration">The Solution: AI-Guided "Safety-First" Migration<a href="https://yesarpit.github.io/blog/safe-media-migration-ai#the-solution-ai-guided-safety-first-migration" class="hash-link" aria-label="Direct link to The Solution: AI-Guided &quot;Safety-First&quot; Migration" title="Direct link to The Solution: AI-Guided &quot;Safety-First&quot; Migration" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-solution-ai-guided-safety-first-migration">The Solution: AI-Guided "Safety-First" Migration<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-solution-ai-guided-safety-first-migration" class="hash-link" aria-label="Direct link to The Solution: AI-Guided &quot;Safety-First&quot; Migration" title="Direct link to The Solution: AI-Guided &quot;Safety-First&quot; Migration" translate="no">​</a></h2>
 <p>I decided to pair-program the solution with my AI coding agent. We broke the process into 100% safe checkpoints.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-1-overcoming-the-ntfs-barrier">Phase 1: Overcoming the NTFS Barrier<a href="https://yesarpit.github.io/blog/safe-media-migration-ai#phase-1-overcoming-the-ntfs-barrier" class="hash-link" aria-label="Direct link to Phase 1: Overcoming the NTFS Barrier" title="Direct link to Phase 1: Overcoming the NTFS Barrier" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-1-overcoming-the-ntfs-barrier">Phase 1: Overcoming the NTFS Barrier<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#phase-1-overcoming-the-ntfs-barrier" class="hash-link" aria-label="Direct link to Phase 1: Overcoming the NTFS Barrier" title="Direct link to Phase 1: Overcoming the NTFS Barrier" translate="no">​</a></h3>
 <p>Before moving data, I had to fix the "Read-Only" status. Guided by the AI, I installed a professional NTFS driver (Paragon). After a quick reboot and some permission juggling, my Seagate was finally writable.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-2-the-immutable-copy-rsync">Phase 2: The "Immutable" Copy (Rsync)<a href="https://yesarpit.github.io/blog/safe-media-migration-ai#phase-2-the-immutable-copy-rsync" class="hash-link" aria-label="Direct link to Phase 2: The &quot;Immutable&quot; Copy (Rsync)" title="Direct link to Phase 2: The &quot;Immutable&quot; Copy (Rsync)" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-2-the-immutable-copy-rsync">Phase 2: The "Immutable" Copy (Rsync)<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#phase-2-the-immutable-copy-rsync" class="hash-link" aria-label="Direct link to Phase 2: The &quot;Immutable&quot; Copy (Rsync)" title="Direct link to Phase 2: The &quot;Immutable&quot; Copy (Rsync)" translate="no">​</a></h3>
 <p>Instead of a simple copy, we used <code>rsync</code>.</p>
 <div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#F8F8F2"><span class="token plain">rsync -avh --progress --ignore-existing "[Source]" "[Destination]"</span><br></div></code></pre></div></div>
 <p><strong>Why?</strong> Because <code>rsync</code> is resumable. If my Mac crashed during the 52GB transfer, I could just run it again, and it would pick up exactly where it left off, skipping everything already safe on the drive.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-3-the-fingerprinting-logic-the-magic-part">Phase 3: The "Fingerprinting" Logic (The 'Magic' Part)<a href="https://yesarpit.github.io/blog/safe-media-migration-ai#phase-3-the-fingerprinting-logic-the-magic-part" class="hash-link" aria-label="Direct link to Phase 3: The &quot;Fingerprinting&quot; Logic (The 'Magic' Part)" title="Direct link to Phase 3: The &quot;Fingerprinting&quot; Logic (The 'Magic' Part)" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-3-the-fingerprinting-logic-the-magic-part">Phase 3: The "Fingerprinting" Logic (The 'Magic' Part)<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#phase-3-the-fingerprinting-logic-the-magic-part" class="hash-link" aria-label="Direct link to Phase 3: The &quot;Fingerprinting&quot; Logic (The 'Magic' Part)" title="Direct link to Phase 3: The &quot;Fingerprinting&quot; Logic (The 'Magic' Part)" translate="no">​</a></h3>
 <p>Once the data was safely on the Seagate, I wanted to remove duplicates. This is where the AI suggested something far superior to filename checking: <strong>SHA-256 Hashing.</strong></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-logic-behind-the-scenes">The Logic Behind the Scenes:<a href="https://yesarpit.github.io/blog/safe-media-migration-ai#the-logic-behind-the-scenes" class="hash-link" aria-label="Direct link to The Logic Behind the Scenes:" title="Direct link to The Logic Behind the Scenes:" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-logic-behind-the-scenes">The Logic Behind the Scenes:<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-logic-behind-the-scenes" class="hash-link" aria-label="Direct link to The Logic Behind the Scenes:" title="Direct link to The Logic Behind the Scenes:" translate="no">​</a></h4>
 <ol>
 <li class=""><strong>Size Grouping</strong>: The script first groups files by their size. If two files are different sizes, they <em>cannot</em> be the same.</li>
 <li class=""><strong>Cryptographic Fingerprinting</strong>: For files with the same size, the script generates a unique SHA-256 "Hash" (a digital fingerprint).</li>
 <li class=""><strong>O(1) Lookup</strong>: Using a Python dictionary (Hashmap), we can check if we've seen that exact fingerprint before in constant time.</li>
 </ol>
 <p>If the fingerprints match, the data is 100% identical byte-for-byte, regardless of the filename.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-results">The Results<a href="https://yesarpit.github.io/blog/safe-media-migration-ai#the-results" class="hash-link" aria-label="Direct link to The Results" title="Direct link to The Results" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-results">The Results<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-results" class="hash-link" aria-label="Direct link to The Results" title="Direct link to The Results" translate="no">​</a></h2>
 <ul>
 <li class=""><strong>Space Saved</strong>: <strong>52GB</strong> instantly reclaimed on my Mac.</li>
 <li class=""><strong>Accuracy</strong>: 100%. We verified the file counts and total bytes using <code>find</code> and <code>du</code>.</li>
 <li class=""><strong>Time Invested</strong>: About 10 minutes of setup for a process that would have taken hours of manual sorting.</li>
 <li class=""><strong>Cost</strong>: $0 ($20 saved on premium deduplication apps).</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion">Conclusion<a href="https://yesarpit.github.io/blog/safe-media-migration-ai#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion">Conclusion<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" translate="no">​</a></h2>
 <p>This journey reminded me that coding isn't just for building products; it's a productivity superpower for our daily lives. By automating the "boring" and "risky" parts of file management with AI, I moved from a panicked "Disk Full" state to a perfectly organized, deduplicated archive in a single afternoon.</p>
 <p><strong>Safe moving, safe coding!</strong></p>]]></content>
         <author>
@@ -140,11 +140,11 @@ But sometimes what helps most is a smaller list you can return to when life gets
     </entry>
     <entry>
         <title type="html"><![CDATA[Memos I Wish More Leaders Wrote]]></title>
-        <id>https://yesarpit.github.io/blog/memos-i-wish-more-leaders-wrote</id>
-        <link href="https://yesarpit.github.io/blog/memos-i-wish-more-leaders-wrote"/>
+        <id>https://www.arpitsharma.me/blog/memos-i-wish-more-leaders-wrote</id>
+        <link href="https://www.arpitsharma.me/blog/memos-i-wish-more-leaders-wrote"/>
         <updated>2026-02-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/memos-i-wish-more-leaders-wrote#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/memos-i-wish-more-leaders-wrote#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>I think many teams would become healthier if leaders wrote more honest memos.</p>
 <p>Not longer memos.
 Not more polished memos.</p>
@@ -152,32 +152,32 @@ Not more polished memos.</p>
 <p>So this post is in that spirit.</p>
 <p>Below are 5 memos I wish more leaders wrote, or at least communicated this clearly.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="memo-1">Memo 1<a href="https://yesarpit.github.io/blog/memos-i-wish-more-leaders-wrote#memo-1" class="hash-link" aria-label="Direct link to Memo 1" title="Direct link to Memo 1" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="memo-1">Memo 1<a href="https://www.arpitsharma.me/blog/memos-i-wish-more-leaders-wrote#memo-1" class="hash-link" aria-label="Direct link to Memo 1" title="Direct link to Memo 1" translate="no">​</a></h3>
 <p>We are doing too many things.</p>
 <p>So even though everyone is busy, progress feels thinner than it should.</p>
 <p>This is not a motivation problem.
 It is a focus problem.</p>
 <p>We need to choose fewer priorities and defend them harder.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="memo-2">Memo 2<a href="https://yesarpit.github.io/blog/memos-i-wish-more-leaders-wrote#memo-2" class="hash-link" aria-label="Direct link to Memo 2" title="Direct link to Memo 2" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="memo-2">Memo 2<a href="https://www.arpitsharma.me/blog/memos-i-wish-more-leaders-wrote#memo-2" class="hash-link" aria-label="Direct link to Memo 2" title="Direct link to Memo 2" translate="no">​</a></h3>
 <p>Some of our delays are not execution delays.
 They are decision delays.</p>
 <p>We are waiting too long to clarify ownership, trade-offs, and direction.</p>
 <p>That makes teams look slower than they really are.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="memo-3">Memo 3<a href="https://yesarpit.github.io/blog/memos-i-wish-more-leaders-wrote#memo-3" class="hash-link" aria-label="Direct link to Memo 3" title="Direct link to Memo 3" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="memo-3">Memo 3<a href="https://www.arpitsharma.me/blog/memos-i-wish-more-leaders-wrote#memo-3" class="hash-link" aria-label="Direct link to Memo 3" title="Direct link to Memo 3" translate="no">​</a></h3>
 <p>We say we want ownership, but sometimes we still punish people for acting without too much permission.</p>
 <p>That contradiction confuses teams.</p>
 <p>If we want ownership, then we also need to tolerate thoughtful initiative.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="memo-4">Memo 4<a href="https://yesarpit.github.io/blog/memos-i-wish-more-leaders-wrote#memo-4" class="hash-link" aria-label="Direct link to Memo 4" title="Direct link to Memo 4" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="memo-4">Memo 4<a href="https://www.arpitsharma.me/blog/memos-i-wish-more-leaders-wrote#memo-4" class="hash-link" aria-label="Direct link to Memo 4" title="Direct link to Memo 4" translate="no">​</a></h3>
 <p>Some meetings exist because trust is low.</p>
 <p>That is uncomfortable, but true.</p>
 <p>When leaders do not trust teams, they create extra layers of reviews, updates, and approvals.</p>
 <p>Then everybody complains about bureaucracy.</p>
 <p>Sometimes bureaucracy is just mistrust with calendar invites.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="memo-5">Memo 5<a href="https://yesarpit.github.io/blog/memos-i-wish-more-leaders-wrote#memo-5" class="hash-link" aria-label="Direct link to Memo 5" title="Direct link to Memo 5" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="memo-5">Memo 5<a href="https://www.arpitsharma.me/blog/memos-i-wish-more-leaders-wrote#memo-5" class="hash-link" aria-label="Direct link to Memo 5" title="Direct link to Memo 5" translate="no">​</a></h3>
 <p>A lot of what we call “leadership communication” is too abstract.</p>
 <p>Teams do not only need inspiration.
 They also need plain clarity:</p>
@@ -189,7 +189,7 @@ They also need plain clarity:</p>
 </ul>
 <p>That kind of clarity is respect.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-i-like-memo-style-thinking">Why I like memo-style thinking<a href="https://yesarpit.github.io/blog/memos-i-wish-more-leaders-wrote#why-i-like-memo-style-thinking" class="hash-link" aria-label="Direct link to Why I like memo-style thinking" title="Direct link to Why I like memo-style thinking" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-i-like-memo-style-thinking">Why I like memo-style thinking<a href="https://www.arpitsharma.me/blog/memos-i-wish-more-leaders-wrote#why-i-like-memo-style-thinking" class="hash-link" aria-label="Direct link to Why I like memo-style thinking" title="Direct link to Why I like memo-style thinking" translate="no">​</a></h3>
 <p>Because memos remove some theatre.</p>
 <p>They force sharper thought.</p>
 <p>You cannot hide weak thinking as easily when you have to write it clearly.</p>
@@ -197,7 +197,7 @@ They also need plain clarity:</p>
 <p>Not to sound important.
 To reduce confusion.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/memos-i-wish-more-leaders-wrote#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/memos-i-wish-more-leaders-wrote#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>If more leadership communication felt like a useful internal memo and less like a polished announcement, teams would probably trust it more.</p>
 <p>And honestly, they would probably understand it better too.</p>]]></content>
         <author>
@@ -210,11 +210,11 @@ To reduce confusion.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Career Decisions Compound Quietly]]></title>
-        <id>https://yesarpit.github.io/blog/career-decisions-compound-quietly</id>
-        <link href="https://yesarpit.github.io/blog/career-decisions-compound-quietly"/>
+        <id>https://www.arpitsharma.me/blog/career-decisions-compound-quietly</id>
+        <link href="https://www.arpitsharma.me/blog/career-decisions-compound-quietly"/>
         <updated>2025-12-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/career-decisions-compound-quietly#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/career-decisions-compound-quietly#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Most people notice career growth only when something visible happens.</p>
 <p>Promotion.
 Big title.
@@ -225,7 +225,7 @@ Comp jump.</p>
 <p>That is why I think career decisions compound quietly.</p>
 <p>And because they compound, small repeated choices matter more than people think.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-kind-of-choices-am-i-talking-about">What kind of choices am I talking about?<a href="https://yesarpit.github.io/blog/career-decisions-compound-quietly#what-kind-of-choices-am-i-talking-about" class="hash-link" aria-label="Direct link to What kind of choices am I talking about?" title="Direct link to What kind of choices am I talking about?" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-kind-of-choices-am-i-talking-about">What kind of choices am I talking about?<a href="https://www.arpitsharma.me/blog/career-decisions-compound-quietly#what-kind-of-choices-am-i-talking-about" class="hash-link" aria-label="Direct link to What kind of choices am I talking about?" title="Direct link to What kind of choices am I talking about?" translate="no">​</a></h3>
 <p>Things like:</p>
 <ul>
 <li class="">what kind of problems you choose</li>
@@ -237,7 +237,7 @@ Comp jump.</p>
 <p>These choices dont always give instant reward.</p>
 <p>But over years, they stack.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="compounding-in-career-is-strange">Compounding in career is strange<a href="https://yesarpit.github.io/blog/career-decisions-compound-quietly#compounding-in-career-is-strange" class="hash-link" aria-label="Direct link to Compounding in career is strange" title="Direct link to Compounding in career is strange" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="compounding-in-career-is-strange">Compounding in career is strange<a href="https://www.arpitsharma.me/blog/career-decisions-compound-quietly#compounding-in-career-is-strange" class="hash-link" aria-label="Direct link to Compounding in career is strange" title="Direct link to Compounding in career is strange" translate="no">​</a></h3>
 <p>In money, compounding is easier to notice.</p>
 <p>In career, it is slower and less visible.</p>
 <p>You may not see the value immediately when you:</p>
@@ -258,7 +258,7 @@ And judgment compounds.</p>
 <li class="">clearer self-awareness</li>
 </ul>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="short-term-comfort-can-be-expensive">Short-term comfort can be expensive<a href="https://yesarpit.github.io/blog/career-decisions-compound-quietly#short-term-comfort-can-be-expensive" class="hash-link" aria-label="Direct link to Short-term comfort can be expensive" title="Direct link to Short-term comfort can be expensive" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="short-term-comfort-can-be-expensive">Short-term comfort can be expensive<a href="https://www.arpitsharma.me/blog/career-decisions-compound-quietly#short-term-comfort-can-be-expensive" class="hash-link" aria-label="Direct link to Short-term comfort can be expensive" title="Direct link to Short-term comfort can be expensive" translate="no">​</a></h3>
 <p>This is one of the hardest lessons.</p>
 <p>Comfort is not always bad.
 But too much comfort creates hidden stagnation.</p>
@@ -274,7 +274,7 @@ But too much comfort creates hidden stagnation.</p>
 The cost appears later as reduced growth slope.</p>
 <p>That is why some easy decisions become expensive only after years.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-people-around-you-matter-a-lot">The people around you matter a lot<a href="https://yesarpit.github.io/blog/career-decisions-compound-quietly#the-people-around-you-matter-a-lot" class="hash-link" aria-label="Direct link to The people around you matter a lot" title="Direct link to The people around you matter a lot" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-people-around-you-matter-a-lot">The people around you matter a lot<a href="https://www.arpitsharma.me/blog/career-decisions-compound-quietly#the-people-around-you-matter-a-lot" class="hash-link" aria-label="Direct link to The people around you matter a lot" title="Direct link to The people around you matter a lot" translate="no">​</a></h3>
 <p>This one compounds very strongly.</p>
 <p>If you keep working with people who:</p>
 <ul>
@@ -288,7 +288,7 @@ The cost appears later as reduced growth slope.</p>
 <p>People often underestimate this because it does not show up as bullet point on resume.
 But it absolutely shapes the person behind the resume.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="titles-are-useful-but-not-enough">Titles are useful, but not enough<a href="https://yesarpit.github.io/blog/career-decisions-compound-quietly#titles-are-useful-but-not-enough" class="hash-link" aria-label="Direct link to Titles are useful, but not enough" title="Direct link to Titles are useful, but not enough" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="titles-are-useful-but-not-enough">Titles are useful, but not enough<a href="https://www.arpitsharma.me/blog/career-decisions-compound-quietly#titles-are-useful-but-not-enough" class="hash-link" aria-label="Direct link to Titles are useful, but not enough" title="Direct link to Titles are useful, but not enough" translate="no">​</a></h3>
 <p>A lot of people optimize too directly for title.</p>
 <p>I understand why.
 Titles matter.</p>
@@ -307,7 +307,7 @@ Titles matter.</p>
 <p>These are slow assets.
 But they travel well.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://yesarpit.github.io/blog/career-decisions-compound-quietly#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://www.arpitsharma.me/blog/career-decisions-compound-quietly#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
 <p>Practical version:</p>
 <ol>
 <li class="">choose learning slope over short-term comfort more often</li>
@@ -319,7 +319,7 @@ But they travel well.</p>
 <p>You do not need dramatic reinvention every year.
 Sometimes you just need better repeated decisions.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/career-decisions-compound-quietly#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/career-decisions-compound-quietly#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>Career rarely changes only because of one big move.</p>
 <p>Usually it changes because of dozens of smaller choices that looked ordinary when you made them.</p>
 <p>That is what makes compounding so powerful.</p>
@@ -335,11 +335,11 @@ Then one day people call it trajectory.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Executive Presence Without Theater]]></title>
-        <id>https://yesarpit.github.io/blog/executive-presence-without-theater</id>
-        <link href="https://yesarpit.github.io/blog/executive-presence-without-theater"/>
+        <id>https://www.arpitsharma.me/blog/executive-presence-without-theater</id>
+        <link href="https://www.arpitsharma.me/blog/executive-presence-without-theater"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/executive-presence-without-theater#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/executive-presence-without-theater#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Executive presence is one of those phrases that sounds useful and annoying at the same time.</p>
 <p>Useful because it matters.
 Annoying because many people turn it into performance art.</p>
@@ -347,7 +347,7 @@ Annoying because many people turn it into performance art.</p>
 <p><strong>executive presence is not about sounding important, it is about creating confidence under pressure</strong></p>
 <p>That is very different.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-people-usually-get-wrong">What people usually get wrong<a href="https://yesarpit.github.io/blog/executive-presence-without-theater#what-people-usually-get-wrong" class="hash-link" aria-label="Direct link to What people usually get wrong" title="Direct link to What people usually get wrong" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-people-usually-get-wrong">What people usually get wrong<a href="https://www.arpitsharma.me/blog/executive-presence-without-theater#what-people-usually-get-wrong" class="hash-link" aria-label="Direct link to What people usually get wrong" title="Direct link to What people usually get wrong" translate="no">​</a></h3>
 <p>They think executive presence means:</p>
 <ul>
 <li class="">polished words</li>
@@ -368,7 +368,7 @@ It does not hold up when situation becomes hard.</p>
 </ul>
 <p>Then people notice who brings clarity and calm.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="presence-is-really-about-signal-quality">Presence is really about signal quality<a href="https://yesarpit.github.io/blog/executive-presence-without-theater#presence-is-really-about-signal-quality" class="hash-link" aria-label="Direct link to Presence is really about signal quality" title="Direct link to Presence is really about signal quality" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="presence-is-really-about-signal-quality">Presence is really about signal quality<a href="https://www.arpitsharma.me/blog/executive-presence-without-theater#presence-is-really-about-signal-quality" class="hash-link" aria-label="Direct link to Presence is really about signal quality" title="Direct link to Presence is really about signal quality" translate="no">​</a></h3>
 <p>When senior leaders speak, people are not only hearing content.
 They are reading signal.</p>
 <p>Signal like:</p>
@@ -381,7 +381,7 @@ They are reading signal.</p>
 <p>This is why some people sound senior even with simple language.
 And some people sound complicated without sounding trustworthy.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="calm-is-underrated">Calm is underrated<a href="https://yesarpit.github.io/blog/executive-presence-without-theater#calm-is-underrated" class="hash-link" aria-label="Direct link to Calm is underrated" title="Direct link to Calm is underrated" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="calm-is-underrated">Calm is underrated<a href="https://www.arpitsharma.me/blog/executive-presence-without-theater#calm-is-underrated" class="hash-link" aria-label="Direct link to Calm is underrated" title="Direct link to Calm is underrated" translate="no">​</a></h3>
 <p>Not fake calm.
 Real calm.</p>
 <p>There is a big difference.</p>
@@ -392,7 +392,7 @@ Real calm holds uncertainty without spreading panic.</p>
 <p>If leader becomes scattered, urgency spreads badly.
 If leader becomes grounded, thinking improves.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="clarity-matters-more-than-polish">Clarity matters more than polish<a href="https://yesarpit.github.io/blog/executive-presence-without-theater#clarity-matters-more-than-polish" class="hash-link" aria-label="Direct link to Clarity matters more than polish" title="Direct link to Clarity matters more than polish" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="clarity-matters-more-than-polish">Clarity matters more than polish<a href="https://www.arpitsharma.me/blog/executive-presence-without-theater#clarity-matters-more-than-polish" class="hash-link" aria-label="Direct link to Clarity matters more than polish" title="Direct link to Clarity matters more than polish" translate="no">​</a></h3>
 <p>I have seen leaders use sophisticated language and still leave room confused.</p>
 <p>And I have seen others speak very simply and move entire room forward.</p>
 <p>Why?</p>
@@ -407,7 +407,7 @@ If leader becomes grounded, thinking improves.</p>
 <p>That is presence.</p>
 <p>Not vocabulary gymnastics.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="presence-without-substance-collapses-quickly">Presence without substance collapses quickly<a href="https://yesarpit.github.io/blog/executive-presence-without-theater#presence-without-substance-collapses-quickly" class="hash-link" aria-label="Direct link to Presence without substance collapses quickly" title="Direct link to Presence without substance collapses quickly" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="presence-without-substance-collapses-quickly">Presence without substance collapses quickly<a href="https://www.arpitsharma.me/blog/executive-presence-without-theater#presence-without-substance-collapses-quickly" class="hash-link" aria-label="Direct link to Presence without substance collapses quickly" title="Direct link to Presence without substance collapses quickly" translate="no">​</a></h3>
 <p>This is important.</p>
 <p>If someone has style but not judgment, it becomes visible over time.</p>
 <p>Eventually people notice:</p>
@@ -420,7 +420,7 @@ If leader becomes grounded, thinking improves.</p>
 <p>It is not a replacement.
 It is a carrier.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://yesarpit.github.io/blog/executive-presence-without-theater#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://www.arpitsharma.me/blog/executive-presence-without-theater#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
 <p>Practical version:</p>
 <ol>
 <li class="">simplify your message before trying to strengthen your tone</li>
@@ -431,7 +431,7 @@ It is a carrier.</p>
 </ol>
 <p>If that is happening regularly, presence is already improving.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/executive-presence-without-theater#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/executive-presence-without-theater#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>Executive presence becomes powerful when it stops being performance.</p>
 <p>For me, the best version of it is simple:</p>
 <p>people trust your presence because your clarity, judgment, and steadiness make hard situations easier to navigate.</p>
@@ -447,11 +447,11 @@ No theatre needed.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Cost of Being the Smartest Person in the Room]]></title>
-        <id>https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room</id>
-        <link href="https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room"/>
+        <id>https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room</id>
+        <link href="https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room"/>
         <updated>2025-04-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Being smart is useful.</p>
 <p>Building a room where only your intelligence matters is not.</p>
 <p>A lot of leaders do this without realizing it.</p>
@@ -460,7 +460,7 @@ No theatre needed.</p>]]></content>
 <p>From inside, it creates dependency.</p>
 <p>And dependency does not scale.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-happens">Why this happens<a href="https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room#why-this-happens" class="hash-link" aria-label="Direct link to Why this happens" title="Direct link to Why this happens" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-happens">Why this happens<a href="https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room#why-this-happens" class="hash-link" aria-label="Direct link to Why this happens" title="Direct link to Why this happens" translate="no">​</a></h3>
 <p>Usually not because leader is arrogant.</p>
 <p>Often because leader is capable.</p>
 <p>They:</p>
@@ -475,7 +475,7 @@ No theatre needed.</p>]]></content>
 <p>important things wait for one person.</p>
 <p>That is where the trouble starts.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="intelligence-can-become-a-bottleneck">Intelligence can become a bottleneck<a href="https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room#intelligence-can-become-a-bottleneck" class="hash-link" aria-label="Direct link to Intelligence can become a bottleneck" title="Direct link to Intelligence can become a bottleneck" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="intelligence-can-become-a-bottleneck">Intelligence can become a bottleneck<a href="https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room#intelligence-can-become-a-bottleneck" class="hash-link" aria-label="Direct link to Intelligence can become a bottleneck" title="Direct link to Intelligence can become a bottleneck" translate="no">​</a></h3>
 <p>This is the trap.</p>
 <p>If your team cannot make strong decisions without you, then your intelligence is no longer only an asset.
 It has become a structural dependency.</p>
@@ -490,7 +490,7 @@ It has become a structural dependency.</p>
 <p>Not just for speed.
 Also for leadership pipeline.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="strong-leaders-dont-just-solve">Strong leaders dont just solve<a href="https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room#strong-leaders-dont-just-solve" class="hash-link" aria-label="Direct link to Strong leaders dont just solve" title="Direct link to Strong leaders dont just solve" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="strong-leaders-dont-just-solve">Strong leaders dont just solve<a href="https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room#strong-leaders-dont-just-solve" class="hash-link" aria-label="Direct link to Strong leaders dont just solve" title="Direct link to Strong leaders dont just solve" translate="no">​</a></h3>
 <p>They also create more solvers.</p>
 <p>That is the harder job.</p>
 <p>Anyone with enough experience can keep answering.</p>
@@ -498,7 +498,7 @@ Also for leadership pipeline.</p>
 <p>That takes patience.
 And ego control.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-this-shows-up-in-meetings">How this shows up in meetings<a href="https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room#how-this-shows-up-in-meetings" class="hash-link" aria-label="Direct link to How this shows up in meetings" title="Direct link to How this shows up in meetings" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-this-shows-up-in-meetings">How this shows up in meetings<a href="https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room#how-this-shows-up-in-meetings" class="hash-link" aria-label="Direct link to How this shows up in meetings" title="Direct link to How this shows up in meetings" translate="no">​</a></h3>
 <p>You can usually feel it quickly.</p>
 <p>If leader speaks early and strongly, the room narrows.</p>
 <p>People start optimizing for agreement.
@@ -510,7 +510,7 @@ Not for thought.</p>
 <p>That is not alignment.
 That is silent compression of thinking.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-good-leaders-do-differently">What good leaders do differently<a href="https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room#what-good-leaders-do-differently" class="hash-link" aria-label="Direct link to What good leaders do differently" title="Direct link to What good leaders do differently" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-good-leaders-do-differently">What good leaders do differently<a href="https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room#what-good-leaders-do-differently" class="hash-link" aria-label="Direct link to What good leaders do differently" title="Direct link to What good leaders do differently" translate="no">​</a></h3>
 <p>They do not make themselves small.
 They make more space for good thinking.</p>
 <p>That can mean:</p>
@@ -524,7 +524,7 @@ They make more space for good thinking.</p>
 <p>This is subtle work.
 But powerful.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-hidden-cost">The hidden cost<a href="https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room#the-hidden-cost" class="hash-link" aria-label="Direct link to The hidden cost" title="Direct link to The hidden cost" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-hidden-cost">The hidden cost<a href="https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room#the-hidden-cost" class="hash-link" aria-label="Direct link to The hidden cost" title="Direct link to The hidden cost" translate="no">​</a></h3>
 <p>If leader becomes central brain of the team, three things happen:</p>
 <ol>
 <li class="">scale drops</li>
@@ -535,7 +535,7 @@ But powerful.</p>
 <p>Because people dont become strong by standing near strong leaders.
 They become strong by carrying meaningful judgment themselves.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
 <p>Practical version:</p>
 <ol>
 <li class="">speak later in important discussions</li>
@@ -546,7 +546,7 @@ They become strong by carrying meaningful judgment themselves.</p>
 </ol>
 <p>That last one is the real test.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/the-cost-of-being-the-smartest-person-in-the-room#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/the-cost-of-being-the-smartest-person-in-the-room#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>There is no special prize for being the smartest person in the room if the room becomes weaker because of it.</p>
 <p>At senior levels, the real win is different.</p>
 <p>Can you raise the intelligence of the room itself?</p>
@@ -562,11 +562,11 @@ That is also much more valuable.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Decision Making Under Ambiguity]]></title>
-        <id>https://yesarpit.github.io/blog/decision-making-under-ambiguity</id>
-        <link href="https://yesarpit.github.io/blog/decision-making-under-ambiguity"/>
+        <id>https://www.arpitsharma.me/blog/decision-making-under-ambiguity</id>
+        <link href="https://www.arpitsharma.me/blog/decision-making-under-ambiguity"/>
         <updated>2025-01-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/decision-making-under-ambiguity#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/decision-making-under-ambiguity#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>A lot of people think senior leadership means having better answers.</p>
 <p>Not exactly.</p>
 <p>Many times it just means you have to decide <strong>before</strong> the answer becomes obvious.</p>
@@ -576,7 +576,7 @@ Decision making with partial information, limited time, strong opinions, and vis
 <p>That is why I think one of the most important leadership skills is this:</p>
 <p><strong>being able to move with imperfect information without becoming reckless</strong>.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-gets-harder-at-senior-levels">Why this gets harder at senior levels<a href="https://yesarpit.github.io/blog/decision-making-under-ambiguity#why-this-gets-harder-at-senior-levels" class="hash-link" aria-label="Direct link to Why this gets harder at senior levels" title="Direct link to Why this gets harder at senior levels" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-gets-harder-at-senior-levels">Why this gets harder at senior levels<a href="https://www.arpitsharma.me/blog/decision-making-under-ambiguity#why-this-gets-harder-at-senior-levels" class="hash-link" aria-label="Direct link to Why this gets harder at senior levels" title="Direct link to Why this gets harder at senior levels" translate="no">​</a></h3>
 <p>At junior levels, many decisions are local.</p>
 <p>At senior levels, decisions start carrying more weight:</p>
 <ul>
@@ -594,7 +594,7 @@ If you decide too fast, you become dangerous.</p>
 <p>So the real game is not certainty.
 It is judgment.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="most-bad-decisions-dont-come-from-bad-intent">Most bad decisions dont come from bad intent<a href="https://yesarpit.github.io/blog/decision-making-under-ambiguity#most-bad-decisions-dont-come-from-bad-intent" class="hash-link" aria-label="Direct link to Most bad decisions dont come from bad intent" title="Direct link to Most bad decisions dont come from bad intent" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="most-bad-decisions-dont-come-from-bad-intent">Most bad decisions dont come from bad intent<a href="https://www.arpitsharma.me/blog/decision-making-under-ambiguity#most-bad-decisions-dont-come-from-bad-intent" class="hash-link" aria-label="Direct link to Most bad decisions dont come from bad intent" title="Direct link to Most bad decisions dont come from bad intent" translate="no">​</a></h3>
 <p>They usually come from one of these:</p>
 <ul>
 <li class="">false urgency</li>
@@ -608,7 +608,7 @@ It is judgment.</p>
 <p>Actually the opposite is true.</p>
 <p>Fake certainty is much more damaging than visible thoughtful uncertainty.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="good-leaders-ask-better-questions">Good leaders ask better questions<a href="https://yesarpit.github.io/blog/decision-making-under-ambiguity#good-leaders-ask-better-questions" class="hash-link" aria-label="Direct link to Good leaders ask better questions" title="Direct link to Good leaders ask better questions" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="good-leaders-ask-better-questions">Good leaders ask better questions<a href="https://www.arpitsharma.me/blog/decision-making-under-ambiguity#good-leaders-ask-better-questions" class="hash-link" aria-label="Direct link to Good leaders ask better questions" title="Direct link to Good leaders ask better questions" translate="no">​</a></h3>
 <p>When things are ambiguous, I think these questions matter:</p>
 <ul>
 <li class="">what do we know for sure?</li>
@@ -620,7 +620,7 @@ It is judgment.</p>
 <p>That last one matters a lot.</p>
 <p>Because sometimes delay looks safe, but is actually decision by avoidance.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="reversible-vs-irreversible-decisions">Reversible vs irreversible decisions<a href="https://yesarpit.github.io/blog/decision-making-under-ambiguity#reversible-vs-irreversible-decisions" class="hash-link" aria-label="Direct link to Reversible vs irreversible decisions" title="Direct link to Reversible vs irreversible decisions" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="reversible-vs-irreversible-decisions">Reversible vs irreversible decisions<a href="https://www.arpitsharma.me/blog/decision-making-under-ambiguity#reversible-vs-irreversible-decisions" class="hash-link" aria-label="Direct link to Reversible vs irreversible decisions" title="Direct link to Reversible vs irreversible decisions" translate="no">​</a></h3>
 <p>This is one of the cleanest frameworks.</p>
 <p>Some decisions are reversible.
 You can adjust later.</p>
@@ -634,7 +634,7 @@ Those need more thought.</p>
 </ul>
 <p>Both are expensive.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="ambiguity-is-where-leadership-style-gets-exposed">Ambiguity is where leadership style gets exposed<a href="https://yesarpit.github.io/blog/decision-making-under-ambiguity#ambiguity-is-where-leadership-style-gets-exposed" class="hash-link" aria-label="Direct link to Ambiguity is where leadership style gets exposed" title="Direct link to Ambiguity is where leadership style gets exposed" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="ambiguity-is-where-leadership-style-gets-exposed">Ambiguity is where leadership style gets exposed<a href="https://www.arpitsharma.me/blog/decision-making-under-ambiguity#ambiguity-is-where-leadership-style-gets-exposed" class="hash-link" aria-label="Direct link to Ambiguity is where leadership style gets exposed" title="Direct link to Ambiguity is where leadership style gets exposed" translate="no">​</a></h3>
 <p>When path is clear, almost anyone can sound decisive.</p>
 <p>But when:</p>
 <ul>
@@ -651,7 +651,7 @@ Do you perform confidence?
 Or do you create enough clarity for people to move?</p>
 <p>That is what people actually remember.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-helps-in-real-life">What helps in real life<a href="https://yesarpit.github.io/blog/decision-making-under-ambiguity#what-helps-in-real-life" class="hash-link" aria-label="Direct link to What helps in real life" title="Direct link to What helps in real life" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-helps-in-real-life">What helps in real life<a href="https://www.arpitsharma.me/blog/decision-making-under-ambiguity#what-helps-in-real-life" class="hash-link" aria-label="Direct link to What helps in real life" title="Direct link to What helps in real life" translate="no">​</a></h3>
 <p>Practical version:</p>
 <ol>
 <li class="">separate facts from assumptions</li>
@@ -664,7 +664,7 @@ Or do you create enough clarity for people to move?</p>
 <p>Changing your mind after new evidence is not weak leadership.
 It is healthy leadership.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/decision-making-under-ambiguity#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/decision-making-under-ambiguity#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>Leadership is not tested most when things are obvious.</p>
 <p>It is tested when things are unclear and people still need direction.</p>
 <p>That is why decision making under ambiguity matters so much.</p>
@@ -680,11 +680,11 @@ But because teams need someone who can move thoughtfully even when the fog has n
     </entry>
     <entry>
         <title type="html"><![CDATA[What The Hard Thing About Hard Things Taught Me About Leading Through Pressure]]></title>
-        <id>https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering</id>
-        <link href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering"/>
+        <id>https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering</id>
+        <link href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering"/>
         <updated>2024-11-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Some leadership books are clean.</p>
 <p>This one is not.</p>
 <p>That is exactly why <strong>The Hard Thing About Hard Things</strong> works.</p>
@@ -702,7 +702,7 @@ But because teams need someone who can move thoughtfully even when the fog has n
 <p>That is real leadership.
 Not the LinkedIn version of it.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-biggest-value-of-this-book">The biggest value of this book<a href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering#the-biggest-value-of-this-book" class="hash-link" aria-label="Direct link to The biggest value of this book" title="Direct link to The biggest value of this book" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-biggest-value-of-this-book">The biggest value of this book<a href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering#the-biggest-value-of-this-book" class="hash-link" aria-label="Direct link to The biggest value of this book" title="Direct link to The biggest value of this book" translate="no">​</a></h3>
 <p>It normalizes something important:</p>
 <p><strong>sometimes there is no clean answer</strong></p>
 <p>Only hard trade-offs.</p>
@@ -718,8 +718,8 @@ Not the LinkedIn version of it.</p>
 <p>Not because leadership is glamorous.
 Because reality is messy.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-stood-out-to-me-most">What stood out to me most<a href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering#what-stood-out-to-me-most" class="hash-link" aria-label="Direct link to What stood out to me most" title="Direct link to What stood out to me most" translate="no">​</a></h3>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-there-are-times-when-things-are-just-hard">1) There are times when things are just hard<a href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering#1-there-are-times-when-things-are-just-hard" class="hash-link" aria-label="Direct link to 1) There are times when things are just hard" title="Direct link to 1) There are times when things are just hard" translate="no">​</a></h4>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-stood-out-to-me-most">What stood out to me most<a href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering#what-stood-out-to-me-most" class="hash-link" aria-label="Direct link to What stood out to me most" title="Direct link to What stood out to me most" translate="no">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-there-are-times-when-things-are-just-hard">1) There are times when things are just hard<a href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering#1-there-are-times-when-things-are-just-hard" class="hash-link" aria-label="Direct link to 1) There are times when things are just hard" title="Direct link to 1) There are times when things are just hard" translate="no">​</a></h4>
 <p>This sounds trivial.
 But it is actually powerful.</p>
 <p>Many leaders waste energy asking:</p>
@@ -730,7 +730,7 @@ That is why leadership is being tested.</p>
 <p>It is:</p>
 <p>“what must I do clearly now?”</p>
 <hr>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-you-cannot-outsource-hard-conversations">2) You cannot outsource hard conversations<a href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering#2-you-cannot-outsource-hard-conversations" class="hash-link" aria-label="Direct link to 2) You cannot outsource hard conversations" title="Direct link to 2) You cannot outsource hard conversations" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-you-cannot-outsource-hard-conversations">2) You cannot outsource hard conversations<a href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering#2-you-cannot-outsource-hard-conversations" class="hash-link" aria-label="Direct link to 2) You cannot outsource hard conversations" title="Direct link to 2) You cannot outsource hard conversations" translate="no">​</a></h4>
 <p>Underperformance.
 Misalignment.
 Broken trust.
@@ -741,7 +741,7 @@ Sometimes it is just avoidance wearing polite clothes.</p>
 <p>This book is good at reminding you:</p>
 <p>delayed truth usually becomes more expensive truth.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-peacetime-leadership-and-wartime-leadership-are-different">3) Peacetime leadership and wartime leadership are different<a href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering#3-peacetime-leadership-and-wartime-leadership-are-different" class="hash-link" aria-label="Direct link to 3) Peacetime leadership and wartime leadership are different" title="Direct link to 3) Peacetime leadership and wartime leadership are different" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-peacetime-leadership-and-wartime-leadership-are-different">3) Peacetime leadership and wartime leadership are different<a href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering#3-peacetime-leadership-and-wartime-leadership-are-different" class="hash-link" aria-label="Direct link to 3) Peacetime leadership and wartime leadership are different" title="Direct link to 3) Peacetime leadership and wartime leadership are different" translate="no">​</a></h3>
 <p>I like this idea because it is practical.</p>
 <p>Not every season needs same leadership style.</p>
 <p>Sometimes the right move is:</p>
@@ -760,7 +760,7 @@ Sometimes it is just avoidance wearing polite clothes.</p>
 </ul>
 <p>The mistake is using one mode for every situation.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-culture-is-tested-under-pressure-not-on-posters">4) Culture is tested under pressure, not on posters<a href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering#4-culture-is-tested-under-pressure-not-on-posters" class="hash-link" aria-label="Direct link to 4) Culture is tested under pressure, not on posters" title="Direct link to 4) Culture is tested under pressure, not on posters" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-culture-is-tested-under-pressure-not-on-posters">4) Culture is tested under pressure, not on posters<a href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering#4-culture-is-tested-under-pressure-not-on-posters" class="hash-link" aria-label="Direct link to 4) Culture is tested under pressure, not on posters" title="Direct link to 4) Culture is tested under pressure, not on posters" translate="no">​</a></h3>
 <p>Every company says it values transparency.</p>
 <p>But what happens when:</p>
 <ul>
@@ -772,7 +772,7 @@ Sometimes it is just avoidance wearing polite clothes.</p>
 <p>That is when culture becomes real.</p>
 <p>Pressure reveals whether leadership values are actual operating principles or just decoration.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-this-means-for-engineering-leaders">What this means for engineering leaders<a href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering#what-this-means-for-engineering-leaders" class="hash-link" aria-label="Direct link to What this means for engineering leaders" title="Direct link to What this means for engineering leaders" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-this-means-for-engineering-leaders">What this means for engineering leaders<a href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering#what-this-means-for-engineering-leaders" class="hash-link" aria-label="Direct link to What this means for engineering leaders" title="Direct link to What this means for engineering leaders" translate="no">​</a></h3>
 <p>In engineering, especially in financial systems and platform teams, hard moments are unavoidable.</p>
 <p>You will get:</p>
 <ul>
@@ -789,7 +789,7 @@ Can you stay honest without becoming destructive?
 Can you make hard decisions without becoming ego-driven?</p>
 <p>That is serious leadership work.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
 <p>Practical version:</p>
 <ol>
 <li class="">do not delay hard conversations unnecessarily</li>
@@ -801,7 +801,7 @@ Can you make hard decisions without becoming ego-driven?</p>
 <p>None of this feels pleasant.
 But useful leadership is not always pleasant.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/the-hard-thing-about-hard-things-in-engineering#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/the-hard-thing-about-hard-things-in-engineering#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>What I like about this book is that it respects reality.</p>
 <p>It does not sell leadership as neat wisdom.
 It presents it as judgment under pressure.</p>
@@ -818,11 +818,11 @@ But being willing to face the hard thing without pretending it is easy.</p>]]></
     </entry>
     <entry>
         <title type="html"><![CDATA[Team Topologies for Modern Financial and Platform Teams]]></title>
-        <id>https://yesarpit.github.io/blog/team-topologies-for-modern-platforms</id>
-        <link href="https://yesarpit.github.io/blog/team-topologies-for-modern-platforms"/>
+        <id>https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms</id>
+        <link href="https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms"/>
         <updated>2024-08-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/team-topologies-for-modern-platforms#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>A lot of engineering problems are not really architecture problems.</p>
 <p>They look like architecture problems.
 They sound like architecture problems.
@@ -833,7 +833,7 @@ They even get discussed in architecture meetings.</p>
 <p>It helps you see something many engineering leaders learn the hard way:</p>
 <p>bad org design creates bad software behavior.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-book-matters">Why this book matters<a href="https://yesarpit.github.io/blog/team-topologies-for-modern-platforms#why-this-book-matters" class="hash-link" aria-label="Direct link to Why this book matters" title="Direct link to Why this book matters" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-book-matters">Why this book matters<a href="https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms#why-this-book-matters" class="hash-link" aria-label="Direct link to Why this book matters" title="Direct link to Why this book matters" translate="no">​</a></h3>
 <p>When systems get bigger, complexity doesnt only live in code.
 It also lives in:</p>
 <ul>
@@ -846,7 +846,7 @@ It also lives in:</p>
 <p>And if you dont design around these, adding more people does not make system better.
 It just makes confusion scale faster.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-idea-i-like-most-cognitive-load-is-real">The idea I like most: cognitive load is real<a href="https://yesarpit.github.io/blog/team-topologies-for-modern-platforms#the-idea-i-like-most-cognitive-load-is-real" class="hash-link" aria-label="Direct link to The idea I like most: cognitive load is real" title="Direct link to The idea I like most: cognitive load is real" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-idea-i-like-most-cognitive-load-is-real">The idea I like most: cognitive load is real<a href="https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms#the-idea-i-like-most-cognitive-load-is-real" class="hash-link" aria-label="Direct link to The idea I like most: cognitive load is real" title="Direct link to The idea I like most: cognitive load is real" translate="no">​</a></h3>
 <p>This is the part many leaders ignore.</p>
 <p>A team can only hold so much in its head:</p>
 <ul>
@@ -870,7 +870,7 @@ The team is overloaded.</p>
 <p>Are they weak?
 Or are they carrying too much?</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-4-team-types-are-useful-because-they-force-clarity">The 4 team types are useful because they force clarity<a href="https://yesarpit.github.io/blog/team-topologies-for-modern-platforms#the-4-team-types-are-useful-because-they-force-clarity" class="hash-link" aria-label="Direct link to The 4 team types are useful because they force clarity" title="Direct link to The 4 team types are useful because they force clarity" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-4-team-types-are-useful-because-they-force-clarity">The 4 team types are useful because they force clarity<a href="https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms#the-4-team-types-are-useful-because-they-force-clarity" class="hash-link" aria-label="Direct link to The 4 team types are useful because they force clarity" title="Direct link to The 4 team types are useful because they force clarity" translate="no">​</a></h3>
 <p>The book talks about clear team patterns.</p>
 <p>I wont repeat whole framework here.
 But the practical value is this:</p>
@@ -885,7 +885,7 @@ But many companies build teams like this instead:</p>
 <p>That is not empowerment.
 That is chaos with Jira access.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="platform-teams-are-often-misunderstood">Platform teams are often misunderstood<a href="https://yesarpit.github.io/blog/team-topologies-for-modern-platforms#platform-teams-are-often-misunderstood" class="hash-link" aria-label="Direct link to Platform teams are often misunderstood" title="Direct link to Platform teams are often misunderstood" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="platform-teams-are-often-misunderstood">Platform teams are often misunderstood<a href="https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms#platform-teams-are-often-misunderstood" class="hash-link" aria-label="Direct link to Platform teams are often misunderstood" title="Direct link to Platform teams are often misunderstood" translate="no">​</a></h3>
 <p>A platform team is not valuable because it exists.</p>
 <p>It is valuable only if it reduces friction for other teams.</p>
 <p>If platform team creates:</p>
@@ -902,7 +902,7 @@ That is chaos with Jira access.</p>
 <p>not</p>
 <p>“great, one more internal system to fight with”</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="team-interaction-is-where-things-get-interesting">Team interaction is where things get interesting<a href="https://yesarpit.github.io/blog/team-topologies-for-modern-platforms#team-interaction-is-where-things-get-interesting" class="hash-link" aria-label="Direct link to Team interaction is where things get interesting" title="Direct link to Team interaction is where things get interesting" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="team-interaction-is-where-things-get-interesting">Team interaction is where things get interesting<a href="https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms#team-interaction-is-where-things-get-interesting" class="hash-link" aria-label="Direct link to Team interaction is where things get interesting" title="Direct link to Team interaction is where things get interesting" translate="no">​</a></h3>
 <p>This is another strong point in the book.</p>
 <p>Leaders often focus only on team structure.
 But interaction model matters just as much.</p>
@@ -915,7 +915,7 @@ But interaction model matters just as much.</p>
 </ul>
 <p>Because if interaction mode is messy, structure alone wont save you.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-this-means-in-financial-systems-and-enterprise-platforms">What this means in financial systems and enterprise platforms<a href="https://yesarpit.github.io/blog/team-topologies-for-modern-platforms#what-this-means-in-financial-systems-and-enterprise-platforms" class="hash-link" aria-label="Direct link to What this means in financial systems and enterprise platforms" title="Direct link to What this means in financial systems and enterprise platforms" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-this-means-in-financial-systems-and-enterprise-platforms">What this means in financial systems and enterprise platforms<a href="https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms#what-this-means-in-financial-systems-and-enterprise-platforms" class="hash-link" aria-label="Direct link to What this means in financial systems and enterprise platforms" title="Direct link to What this means in financial systems and enterprise platforms" translate="no">​</a></h3>
 <p>In banks, fintechs, and enterprise engineering, this becomes even more important.</p>
 <p>Because now you also have:</p>
 <ul>
@@ -931,7 +931,7 @@ But interaction model matters just as much.</p>
 <p>Sometimes yes.
 But sometimes org design is just poor.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://yesarpit.github.io/blog/team-topologies-for-modern-platforms#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
 <p>Practical version:</p>
 <ol>
 <li class="">check if teams own clear outcomes, not vague components</li>
@@ -943,7 +943,7 @@ But sometimes org design is just poor.</p>
 <p>This is not HR work.
 This is system design.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/team-topologies-for-modern-platforms#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/team-topologies-for-modern-platforms#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>Software architecture and org architecture keep leaking into each other.</p>
 <p>You cannot fix one forever while ignoring the other.</p>
 <p>That is why I like Team Topologies.</p>
@@ -960,11 +960,11 @@ This is system design.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why the Best Engineering Leaders Act Like Multipliers, Not Bottlenecks]]></title>
-        <id>https://yesarpit.github.io/blog/multipliers-for-engineering-leaders</id>
-        <link href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders"/>
+        <id>https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders</id>
+        <link href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders"/>
         <updated>2024-03-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Some leaders enter a room and make everyone sharper.</p>
 <p>Some leaders enter a room and make everyone quieter.</p>
 <p>That is the simplest summary of <strong>Multipliers</strong>.</p>
@@ -974,7 +974,7 @@ Or are you making them wait for your answer?</p>
 <p>This sounds simple.
 But in engineering leadership it is a huge difference.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-leadership-trap">The leadership trap<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#the-leadership-trap" class="hash-link" aria-label="Direct link to The leadership trap" title="Direct link to The leadership trap" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-leadership-trap">The leadership trap<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#the-leadership-trap" class="hash-link" aria-label="Direct link to The leadership trap" title="Direct link to The leadership trap" translate="no">​</a></h3>
 <p>A lot of capable leaders become accidental diminishers.</p>
 <p>Not because they are bad.
 Because they are smart, fast, experienced, and used to solving hard problems.</p>
@@ -992,7 +992,7 @@ Because they are smart, fast, experienced, and used to solving hard problems.</p
 <p>“why should I think deeply if final answer is already decided?”</p>
 <p>That is how strong teams become passive.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-matters-in-engineering">Why this matters in engineering<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#why-this-matters-in-engineering" class="hash-link" aria-label="Direct link to Why this matters in engineering" title="Direct link to Why this matters in engineering" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-matters-in-engineering">Why this matters in engineering<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#why-this-matters-in-engineering" class="hash-link" aria-label="Direct link to Why this matters in engineering" title="Direct link to Why this matters in engineering" translate="no">​</a></h3>
 <p>Good engineering orgs need local decision quality.</p>
 <p>They cannot depend on one smart person for:</p>
 <ul>
@@ -1005,8 +1005,8 @@ Because they are smart, fast, experienced, and used to solving hard problems.</p
 <p>That model breaks at scale.</p>
 <p>And to be honest, it becomes exhausting too.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-a-multiplier-does-differently">What a multiplier does differently<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#what-a-multiplier-does-differently" class="hash-link" aria-label="Direct link to What a multiplier does differently" title="Direct link to What a multiplier does differently" translate="no">​</a></h3>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-gives-ownership-not-just-tasks">1) Gives ownership, not just tasks<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#1-gives-ownership-not-just-tasks" class="hash-link" aria-label="Direct link to 1) Gives ownership, not just tasks" title="Direct link to 1) Gives ownership, not just tasks" translate="no">​</a></h4>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-a-multiplier-does-differently">What a multiplier does differently<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#what-a-multiplier-does-differently" class="hash-link" aria-label="Direct link to What a multiplier does differently" title="Direct link to What a multiplier does differently" translate="no">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-gives-ownership-not-just-tasks">1) Gives ownership, not just tasks<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#1-gives-ownership-not-just-tasks" class="hash-link" aria-label="Direct link to 1) Gives ownership, not just tasks" title="Direct link to 1) Gives ownership, not just tasks" translate="no">​</a></h4>
 <p>Task is:
 “go implement this”</p>
 <p>Ownership is:
@@ -1015,7 +1015,7 @@ Because they are smart, fast, experienced, and used to solving hard problems.</p
 <p>The first creates executors.
 The second creates leaders.</p>
 <hr>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-uses-questions-well">2) Uses questions well<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#2-uses-questions-well" class="hash-link" aria-label="Direct link to 2) Uses questions well" title="Direct link to 2) Uses questions well" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-uses-questions-well">2) Uses questions well<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#2-uses-questions-well" class="hash-link" aria-label="Direct link to 2) Uses questions well" title="Direct link to 2) Uses questions well" translate="no">​</a></h4>
 <p>Not fake questions.
 Not interrogation.</p>
 <p>Real questions like:</p>
@@ -1028,7 +1028,7 @@ Not interrogation.</p>
 <p>Good questions dont slow the team.
 They improve thinking.</p>
 <hr>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-creates-safe-intellectual-pressure">3) Creates safe intellectual pressure<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#3-creates-safe-intellectual-pressure" class="hash-link" aria-label="Direct link to 3) Creates safe intellectual pressure" title="Direct link to 3) Creates safe intellectual pressure" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-creates-safe-intellectual-pressure">3) Creates safe intellectual pressure<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#3-creates-safe-intellectual-pressure" class="hash-link" aria-label="Direct link to 3) Creates safe intellectual pressure" title="Direct link to 3) Creates safe intellectual pressure" translate="no">​</a></h4>
 <p>I like this idea a lot.</p>
 <p>Best teams are not relaxed because nobody cares.
 They are sharp because standards are high and thinking is expected.</p>
@@ -1041,7 +1041,7 @@ They are sharp because standards are high and thinking is expected.</p>
 </ul>
 <p>That combination is rare.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-engineering-leaders-should-watch-out-for">What engineering leaders should watch out for<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#what-engineering-leaders-should-watch-out-for" class="hash-link" aria-label="Direct link to What engineering leaders should watch out for" title="Direct link to What engineering leaders should watch out for" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-engineering-leaders-should-watch-out-for">What engineering leaders should watch out for<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#what-engineering-leaders-should-watch-out-for" class="hash-link" aria-label="Direct link to What engineering leaders should watch out for" title="Direct link to What engineering leaders should watch out for" translate="no">​</a></h3>
 <p>There are some signs that you may be becoming bottleneck:</p>
 <ol>
 <li class="">important decisions keep waiting for you</li>
@@ -1053,7 +1053,7 @@ They are sharp because standards are high and thinking is expected.</p>
 <p>These are not random signals.
 They usually mean leverage is weak.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="my-biggest-takeaway">My biggest takeaway<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#my-biggest-takeaway" class="hash-link" aria-label="Direct link to My biggest takeaway" title="Direct link to My biggest takeaway" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="my-biggest-takeaway">My biggest takeaway<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#my-biggest-takeaway" class="hash-link" aria-label="Direct link to My biggest takeaway" title="Direct link to My biggest takeaway" translate="no">​</a></h3>
 <p>As leaders grow, temptation grows too.</p>
 <p>Because you know more.
 You have seen failures.
@@ -1063,7 +1063,7 @@ You can often predict the answer.</p>
 <p>Sometimes the job is not to be the smartest voice in the room.</p>
 <p>Sometimes the job is to make the room smarter.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-apply">What I would apply<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#what-i-would-apply" class="hash-link" aria-label="Direct link to What I would apply" title="Direct link to What I would apply" translate="no">​</a></h3>
 <p>Practical version:</p>
 <ul>
 <li class="">ask one more good question before giving answer</li>
@@ -1074,7 +1074,7 @@ You can often predict the answer.</p>
 </ul>
 <p>That last one is painful but useful.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/multipliers-for-engineering-leaders#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/multipliers-for-engineering-leaders#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>The best engineering leaders are not only good problem solvers.</p>
 <p>They are force multipliers for judgment, clarity, and confidence across the team.</p>
 <p>If team can only be strong when leader is fully involved, leader is not scaling yet.</p>]]></content>
@@ -1088,11 +1088,11 @@ You can often predict the answer.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Note on Trust]]></title>
-        <id>https://yesarpit.github.io/blog/a-note-on-trust</id>
-        <link href="https://yesarpit.github.io/blog/a-note-on-trust"/>
+        <id>https://www.arpitsharma.me/blog/a-note-on-trust</id>
+        <link href="https://www.arpitsharma.me/blog/a-note-on-trust"/>
         <updated>2023-10-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/a-note-on-trust#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/a-note-on-trust#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>This one is not a framework post.</p>
 <p>Just a note.</p>
 <p>The longer I work with people and teams, the more I feel this:</p>
@@ -1100,7 +1100,7 @@ You can often predict the answer.</p>
 <p>It is part of execution.</p>
 <p>Maybe the most invisible part.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-trust-changes">What trust changes<a href="https://yesarpit.github.io/blog/a-note-on-trust#what-trust-changes" class="hash-link" aria-label="Direct link to What trust changes" title="Direct link to What trust changes" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-trust-changes">What trust changes<a href="https://www.arpitsharma.me/blog/a-note-on-trust#what-trust-changes" class="hash-link" aria-label="Direct link to What trust changes" title="Direct link to What trust changes" translate="no">​</a></h3>
 <p>When trust is high:</p>
 <p>people speak earlier<br>
 issues surface faster<br>
@@ -1114,7 +1114,7 @@ meetings become performance</p>
 <p>Same org chart.
 Very different energy.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="trust-is-built-in-small-moments">Trust is built in small moments<a href="https://yesarpit.github.io/blog/a-note-on-trust#trust-is-built-in-small-moments" class="hash-link" aria-label="Direct link to Trust is built in small moments" title="Direct link to Trust is built in small moments" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="trust-is-built-in-small-moments">Trust is built in small moments<a href="https://www.arpitsharma.me/blog/a-note-on-trust#trust-is-built-in-small-moments" class="hash-link" aria-label="Direct link to Trust is built in small moments" title="Direct link to Trust is built in small moments" translate="no">​</a></h3>
 <p>Not big speeches.</p>
 <p>Small moments like:</p>
 <ul>
@@ -1127,7 +1127,7 @@ Very different energy.</p>
 <p>This is where trust grows.
 Or quietly dies.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="one-thing-i-keep-noticing">One thing I keep noticing<a href="https://yesarpit.github.io/blog/a-note-on-trust#one-thing-i-keep-noticing" class="hash-link" aria-label="Direct link to One thing I keep noticing" title="Direct link to One thing I keep noticing" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="one-thing-i-keep-noticing">One thing I keep noticing<a href="https://www.arpitsharma.me/blog/a-note-on-trust#one-thing-i-keep-noticing" class="hash-link" aria-label="Direct link to One thing I keep noticing" title="Direct link to One thing I keep noticing" translate="no">​</a></h3>
 <p>People say they want honesty.</p>
 <p>But many environments punish honesty indirectly.</p>
 <p>The person who raises risk gets labeled difficult.
@@ -1137,7 +1137,7 @@ The person who surfaces problem early feels exposed.</p>
 <p>why didnt anybody say this before?</p>
 <p>Usually because system trained them not to.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="trust-and-speed-are-connected">Trust and speed are connected<a href="https://yesarpit.github.io/blog/a-note-on-trust#trust-and-speed-are-connected" class="hash-link" aria-label="Direct link to Trust and speed are connected" title="Direct link to Trust and speed are connected" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="trust-and-speed-are-connected">Trust and speed are connected<a href="https://www.arpitsharma.me/blog/a-note-on-trust#trust-and-speed-are-connected" class="hash-link" aria-label="Direct link to Trust and speed are connected" title="Direct link to Trust and speed are connected" translate="no">​</a></h3>
 <p>This is why I dont see trust as separate from performance.</p>
 <p>High trust teams move faster because:</p>
 <ul>
@@ -1150,7 +1150,7 @@ The person who surfaces problem early feels exposed.</p>
 <p>Not rushed motion.
 Cleaner motion.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-small-personal-view">A small personal view<a href="https://yesarpit.github.io/blog/a-note-on-trust#a-small-personal-view" class="hash-link" aria-label="Direct link to A small personal view" title="Direct link to A small personal view" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-small-personal-view">A small personal view<a href="https://www.arpitsharma.me/blog/a-note-on-trust#a-small-personal-view" class="hash-link" aria-label="Direct link to A small personal view" title="Direct link to A small personal view" translate="no">​</a></h3>
 <p>I think trust is one of those things people notice more in absence than in presence.</p>
 <p>When it is there, work feels smoother.
 When it is missing, everything becomes heavier than it should be.</p>
@@ -1158,7 +1158,7 @@ When it is missing, everything becomes heavier than it should be.</p>
 Energy becomes fragmented.
 Even good people start operating below their best.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/a-note-on-trust#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/a-note-on-trust#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>A lot of leadership advice talks about strategy, output, visibility, influence.</p>
 <p>All useful.</p>
 <p>But under many of those things, trust is quietly doing the real work.</p>
@@ -1173,11 +1173,11 @@ Even good people start operating below their best.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Accelerate Means for Leaders Building High-Trust Engineering Teams]]></title>
-        <id>https://yesarpit.github.io/blog/accelerate-for-engineering-leaders</id>
-        <link href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders"/>
+        <id>https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders</id>
+        <link href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders"/>
         <updated>2023-09-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Many teams say:</p>
 <p>we want speed<br>
 we want quality<br>
@@ -1189,7 +1189,7 @@ we want stability</p>
 <p>Bad systems make them enemies.
 Good systems improve both together.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-like-about-this-book">What I like about this book<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#what-i-like-about-this-book" class="hash-link" aria-label="Direct link to What I like about this book" title="Direct link to What I like about this book" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-like-about-this-book">What I like about this book<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#what-i-like-about-this-book" class="hash-link" aria-label="Direct link to What I like about this book" title="Direct link to What I like about this book" translate="no">​</a></h3>
 <p>It is not based on “my experience says”.</p>
 <p>It is based on patterns observed across many teams.</p>
 <p>That matters.</p>
@@ -1202,8 +1202,8 @@ Good systems improve both together.</p>
 <p>All of these can sound smart in meetings.
 But in practice, many times they create slow and fragile systems.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-ideas-that-matter-a-lot">4 ideas that matter a lot<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#4-ideas-that-matter-a-lot" class="hash-link" aria-label="Direct link to 4 ideas that matter a lot" title="Direct link to 4 ideas that matter a lot" translate="no">​</a></h3>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-deployment-frequency-matters">1) Deployment frequency matters<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#1-deployment-frequency-matters" class="hash-link" aria-label="Direct link to 1) Deployment frequency matters" title="Direct link to 1) Deployment frequency matters" translate="no">​</a></h4>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-ideas-that-matter-a-lot">4 ideas that matter a lot<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#4-ideas-that-matter-a-lot" class="hash-link" aria-label="Direct link to 4 ideas that matter a lot" title="Direct link to 4 ideas that matter a lot" translate="no">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-deployment-frequency-matters">1) Deployment frequency matters<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#1-deployment-frequency-matters" class="hash-link" aria-label="Direct link to 1) Deployment frequency matters" title="Direct link to 1) Deployment frequency matters" translate="no">​</a></h4>
 <p>If releasing is painful, risky, political, and rare, your team is already paying tax.</p>
 <p>Why?</p>
 <p>Because rare releases create:</p>
@@ -1218,7 +1218,7 @@ But in practice, many times they create slow and fragile systems.</p>
 <p>shipping more often is not chaos<br>
 shipping unpredictably is chaos</p>
 <hr>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-lead-time-is-a-truth-teller">2) Lead time is a truth-teller<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#2-lead-time-is-a-truth-teller" class="hash-link" aria-label="Direct link to 2) Lead time is a truth-teller" title="Direct link to 2) Lead time is a truth-teller" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-lead-time-is-a-truth-teller">2) Lead time is a truth-teller<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#2-lead-time-is-a-truth-teller" class="hash-link" aria-label="Direct link to 2) Lead time is a truth-teller" title="Direct link to 2) Lead time is a truth-teller" translate="no">​</a></h4>
 <p>How long does it take for an idea or code change to reach production?</p>
 <p>That number exposes many hidden problems:</p>
 <ul>
@@ -1231,7 +1231,7 @@ shipping unpredictably is chaos</p>
 <p>When lead time is bad, culture is usually not the only issue.
 System design and process design are also shouting.</p>
 <hr>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-reliability-is-not-achieved-by-fear">3) Reliability is not achieved by fear<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#3-reliability-is-not-achieved-by-fear" class="hash-link" aria-label="Direct link to 3) Reliability is not achieved by fear" title="Direct link to 3) Reliability is not achieved by fear" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-reliability-is-not-achieved-by-fear">3) Reliability is not achieved by fear<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#3-reliability-is-not-achieved-by-fear" class="hash-link" aria-label="Direct link to 3) Reliability is not achieved by fear" title="Direct link to 3) Reliability is not achieved by fear" translate="no">​</a></h4>
 <p>Some orgs try to achieve stability by making everyone scared of change.</p>
 <p>That creates:</p>
 <ul>
@@ -1244,7 +1244,7 @@ System design and process design are also shouting.</p>
 They are teams that can make change safely.</p>
 <p>Big difference.</p>
 <hr>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-culture-is-not-soft">4) Culture is not “soft”<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#4-culture-is-not-soft" class="hash-link" aria-label="Direct link to 4) Culture is not “soft”" title="Direct link to 4) Culture is not “soft”" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-culture-is-not-soft">4) Culture is not “soft”<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#4-culture-is-not-soft" class="hash-link" aria-label="Direct link to 4) Culture is not “soft”" title="Direct link to 4) Culture is not “soft”" translate="no">​</a></h4>
 <p>This is where I strongly agree with the book.</p>
 <p>When teams have trust:</p>
 <ul>
@@ -1256,7 +1256,7 @@ They are teams that can make change safely.</p>
 <p>So yes, culture is a delivery topic.
 Not HR wallpaper.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-this-means-for-engineering-leaders">What this means for engineering leaders<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#what-this-means-for-engineering-leaders" class="hash-link" aria-label="Direct link to What this means for engineering leaders" title="Direct link to What this means for engineering leaders" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-this-means-for-engineering-leaders">What this means for engineering leaders<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#what-this-means-for-engineering-leaders" class="hash-link" aria-label="Direct link to What this means for engineering leaders" title="Direct link to What this means for engineering leaders" translate="no">​</a></h3>
 <p>If you are leading a fintech, bank platform, or any serious engineering org, you cannot just ask:</p>
 <p>“Why is delivery slow?”</p>
 <p>You should ask:</p>
@@ -1268,7 +1268,7 @@ Not HR wallpaper.</p>
 </ul>
 <p>Because output problems are often system problems.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="things-i-would-actually-do">Things I would actually do<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#things-i-would-actually-do" class="hash-link" aria-label="Direct link to Things I would actually do" title="Direct link to Things I would actually do" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="things-i-would-actually-do">Things I would actually do<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#things-i-would-actually-do" class="hash-link" aria-label="Direct link to Things I would actually do" title="Direct link to Things I would actually do" translate="no">​</a></h3>
 <p>After reading Accelerate, practical actions become clearer:</p>
 <ol>
 <li class="">reduce batch sizes</li>
@@ -1281,7 +1281,7 @@ Not HR wallpaper.</p>
 But only if they lead to structural improvement.</p>
 <p>Vanity metrics are still vanity metrics.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="one-mistake-leaders-make">One mistake leaders make<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#one-mistake-leaders-make" class="hash-link" aria-label="Direct link to One mistake leaders make" title="Direct link to One mistake leaders make" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="one-mistake-leaders-make">One mistake leaders make<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#one-mistake-leaders-make" class="hash-link" aria-label="Direct link to One mistake leaders make" title="Direct link to One mistake leaders make" translate="no">​</a></h3>
 <p>They hear “move fast” and translate it into:</p>
 <p>do more work<br>
 push harder<br>
@@ -1289,7 +1289,7 @@ reduce discussion</p>
 <p>That is not what high performance means.</p>
 <p>High performance means reducing friction in the system so good work moves faster with less drama.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/accelerate-for-engineering-leaders#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/accelerate-for-engineering-leaders#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>For me, Accelerate is really about this:</p>
 <p><strong>trust, engineering discipline, and delivery performance are deeply connected</strong></p>
 <p>If a team has to choose between speed and stability all the time, that is usually not a people problem.</p>
@@ -1305,11 +1305,11 @@ reduce discussion</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Good Leaders Repeat]]></title>
-        <id>https://yesarpit.github.io/blog/what-good-leaders-repeat</id>
-        <link href="https://yesarpit.github.io/blog/what-good-leaders-repeat"/>
+        <id>https://www.arpitsharma.me/blog/what-good-leaders-repeat</id>
+        <link href="https://www.arpitsharma.me/blog/what-good-leaders-repeat"/>
         <updated>2023-03-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/what-good-leaders-repeat#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/what-good-leaders-repeat#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Some leaders love saying new things.</p>
 <p>Good for conferences.
 Not always good for teams.</p>
@@ -1317,7 +1317,7 @@ Not always good for teams.</p>
 <p>It is <strong>useful repetition</strong>.</p>
 <p>The best leaders I have seen repeat the right things so consistently that people stop feeling confused even when work is hard.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-repetition-matters">Why repetition matters<a href="https://yesarpit.github.io/blog/what-good-leaders-repeat#why-repetition-matters" class="hash-link" aria-label="Direct link to Why repetition matters" title="Direct link to Why repetition matters" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-repetition-matters">Why repetition matters<a href="https://www.arpitsharma.me/blog/what-good-leaders-repeat#why-repetition-matters" class="hash-link" aria-label="Direct link to Why repetition matters" title="Direct link to Why repetition matters" translate="no">​</a></h3>
 <p>Teams forget.</p>
 <p>Not because they are careless.
 Because they are busy.</p>
@@ -1332,7 +1332,7 @@ Because they are busy.</p>
 <p>So if a leader says something important once and assumes everyone “got it”, that is usually fantasy.</p>
 <p>Good leadership often sounds repetitive from the speaker side and clarifying from the team side.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-should-be-repeated">What should be repeated?<a href="https://yesarpit.github.io/blog/what-good-leaders-repeat#what-should-be-repeated" class="hash-link" aria-label="Direct link to What should be repeated?" title="Direct link to What should be repeated?" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-should-be-repeated">What should be repeated?<a href="https://www.arpitsharma.me/blog/what-good-leaders-repeat#what-should-be-repeated" class="hash-link" aria-label="Direct link to What should be repeated?" title="Direct link to What should be repeated?" translate="no">​</a></h3>
 <p>Not everything.</p>
 <p>Only the few things that create stability.</p>
 <p>Like:</p>
@@ -1347,7 +1347,7 @@ Because they are busy.</p>
 <p>Without it, teams start making up their own story.
 And that is where misalignment quietly begins.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="repetition-is-not-lack-of-depth">Repetition is not lack of depth<a href="https://yesarpit.github.io/blog/what-good-leaders-repeat#repetition-is-not-lack-of-depth" class="hash-link" aria-label="Direct link to Repetition is not lack of depth" title="Direct link to Repetition is not lack of depth" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="repetition-is-not-lack-of-depth">Repetition is not lack of depth<a href="https://www.arpitsharma.me/blog/what-good-leaders-repeat#repetition-is-not-lack-of-depth" class="hash-link" aria-label="Direct link to Repetition is not lack of depth" title="Direct link to Repetition is not lack of depth" translate="no">​</a></h3>
 <p>Actually it is usually the opposite.</p>
 <p>If something is truly important, it deserves repeated attention.</p>
 <p>Vision needs repetition.
@@ -1356,7 +1356,7 @@ Values under pressure definitely need repetition.</p>
 <p>People do not remember what leader said once in a perfect offsite slide.</p>
 <p>They remember what leader kept reinforcing when reality got messy.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-test-is-simple">The test is simple<a href="https://yesarpit.github.io/blog/what-good-leaders-repeat#the-test-is-simple" class="hash-link" aria-label="Direct link to The test is simple" title="Direct link to The test is simple" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-test-is-simple">The test is simple<a href="https://www.arpitsharma.me/blog/what-good-leaders-repeat#the-test-is-simple" class="hash-link" aria-label="Direct link to The test is simple" title="Direct link to The test is simple" translate="no">​</a></h3>
 <p>If I ask 5 people in a team:</p>
 <ul>
 <li class="">what matters most this quarter?</li>
@@ -1367,7 +1367,7 @@ Values under pressure definitely need repetition.</p>
 then leader has not communicated enough.</p>
 <p>Or not clearly enough.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="repetition-also-creates-trust">Repetition also creates trust<a href="https://yesarpit.github.io/blog/what-good-leaders-repeat#repetition-also-creates-trust" class="hash-link" aria-label="Direct link to Repetition also creates trust" title="Direct link to Repetition also creates trust" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="repetition-also-creates-trust">Repetition also creates trust<a href="https://www.arpitsharma.me/blog/what-good-leaders-repeat#repetition-also-creates-trust" class="hash-link" aria-label="Direct link to Repetition also creates trust" title="Direct link to Repetition also creates trust" translate="no">​</a></h3>
 <p>When a leader keeps changing tone, priorities, and message every week, teams become cautious.</p>
 <p>Not because they are resistant.
 Because uncertainty increases.</p>
@@ -1378,7 +1378,7 @@ I know what will not randomly change tomorrow</p>
 <p>That predictability is calming.
 And calm teams think better.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="things-worth-repeating-in-leadership">Things worth repeating in leadership<a href="https://yesarpit.github.io/blog/what-good-leaders-repeat#things-worth-repeating-in-leadership" class="hash-link" aria-label="Direct link to Things worth repeating in leadership" title="Direct link to Things worth repeating in leadership" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="things-worth-repeating-in-leadership">Things worth repeating in leadership<a href="https://www.arpitsharma.me/blog/what-good-leaders-repeat#things-worth-repeating-in-leadership" class="hash-link" aria-label="Direct link to Things worth repeating in leadership" title="Direct link to Things worth repeating in leadership" translate="no">​</a></h3>
 <p>If I had to pick a few:</p>
 <ol>
 <li class="">what problem we are actually solving</li>
@@ -1390,7 +1390,7 @@ And calm teams think better.</p>
 <p>This sounds basic.
 It is also where a lot of leadership strength lives.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/what-good-leaders-repeat#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/what-good-leaders-repeat#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>A lot of leaders try too hard to sound fresh.</p>
 <p>I think a better question is:</p>
 <p>what is so important that it deserves to be heard again?</p>
@@ -1405,11 +1405,11 @@ It is also where a lot of leadership strength lives.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[What High Output Management Still Gets Right for Engineering Leaders]]></title>
-        <id>https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders</id>
-        <link href="https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders"/>
+        <id>https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders</id>
+        <link href="https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders"/>
         <updated>2023-02-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read This]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Most people think leadership means:</p>
 <p>more meetings<br>
 more escalations<br>
@@ -1425,8 +1425,8 @@ But old doesnt mean outdated.</p>
 This one teaches operating system.</p>
 <p>And if you are leading engineering teams in fintech, banking, or any high pressure setup, operating system matters a lot more than motivational quotes.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-the-book-gets-very-right">What the book gets very right<a href="https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders#what-the-book-gets-very-right" class="hash-link" aria-label="Direct link to What the book gets very right" title="Direct link to What the book gets very right" translate="no">​</a></h3>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-manager-output-is-not-just-your-output">1) Manager output is not just your output<a href="https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders#1-manager-output-is-not-just-your-output" class="hash-link" aria-label="Direct link to 1) Manager output is not just your output" title="Direct link to 1) Manager output is not just your output" translate="no">​</a></h4>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-the-book-gets-very-right">What the book gets very right<a href="https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders#what-the-book-gets-very-right" class="hash-link" aria-label="Direct link to What the book gets very right" title="Direct link to What the book gets very right" translate="no">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-manager-output-is-not-just-your-output">1) Manager output is not just your output<a href="https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders#1-manager-output-is-not-just-your-output" class="hash-link" aria-label="Direct link to 1) Manager output is not just your output" title="Direct link to 1) Manager output is not just your output" translate="no">​</a></h4>
 <p>This is the biggest thing.</p>
 <p>As a manager, your output is:</p>
 <ul>
@@ -1446,7 +1446,7 @@ Then the team slows down.</p>
 <p>Why?</p>
 <p>Because leader became middleware.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-meetings-are-not-automatically-waste">2) Meetings are not automatically waste<a href="https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders#2-meetings-are-not-automatically-waste" class="hash-link" aria-label="Direct link to 2) Meetings are not automatically waste" title="Direct link to 2) Meetings are not automatically waste" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-meetings-are-not-automatically-waste">2) Meetings are not automatically waste<a href="https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders#2-meetings-are-not-automatically-waste" class="hash-link" aria-label="Direct link to 2) Meetings are not automatically waste" title="Direct link to 2) Meetings are not automatically waste" translate="no">​</a></h3>
 <p>People love saying:</p>
 <blockquote>
 <p>this meeting should have been an email</p>
@@ -1464,7 +1464,7 @@ But all meetings are not waste.</p>
 Good meeting = decision acceleration</p>
 <p>In high-scale engineering orgs, confusion is more expensive than meetings.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-task-relevant-maturity-is-real">3) Task relevant maturity is real<a href="https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders#3-task-relevant-maturity-is-real" class="hash-link" aria-label="Direct link to 3) Task relevant maturity is real" title="Direct link to 3) Task relevant maturity is real" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-task-relevant-maturity-is-real">3) Task relevant maturity is real<a href="https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders#3-task-relevant-maturity-is-real" class="hash-link" aria-label="Direct link to 3) Task relevant maturity is real" title="Direct link to 3) Task relevant maturity is real" translate="no">​</a></h3>
 <p>This idea is underrated.</p>
 <p>Same person can be:</p>
 <ul>
@@ -1481,7 +1481,7 @@ Some just need you to stop interfering.</p>
 <p>Not treating everyone same.
 But treating everyone fairly based on what helps them grow and deliver.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-leverage-is-the-real-game">4) Leverage is the real game<a href="https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders#4-leverage-is-the-real-game" class="hash-link" aria-label="Direct link to 4) Leverage is the real game" title="Direct link to 4) Leverage is the real game" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-leverage-is-the-real-game">4) Leverage is the real game<a href="https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders#4-leverage-is-the-real-game" class="hash-link" aria-label="Direct link to 4) Leverage is the real game" title="Direct link to 4) Leverage is the real game" translate="no">​</a></h3>
 <p>Good leaders create leverage through:</p>
 <ul>
 <li class="">hiring well</li>
@@ -1496,7 +1496,7 @@ But treating everyone fairly based on what helps them grow and deliver.</p>
 <p>If you create stronger engineering managers who can do that without you, even better.</p>
 <p>This is how senior leadership starts looking different from just “working hard”.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-take-from-it-as-an-engineering-leader">What I take from it as an engineering leader<a href="https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders#what-i-take-from-it-as-an-engineering-leader" class="hash-link" aria-label="Direct link to What I take from it as an engineering leader" title="Direct link to What I take from it as an engineering leader" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-take-from-it-as-an-engineering-leader">What I take from it as an engineering leader<a href="https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders#what-i-take-from-it-as-an-engineering-leader" class="hash-link" aria-label="Direct link to What I take from it as an engineering leader" title="Direct link to What I take from it as an engineering leader" translate="no">​</a></h3>
 <p>For me this book is not about “how to manage”.</p>
 <p>It is about how to avoid becoming accidental bottleneck while thinking you are helping.</p>
 <p>Especially in financial systems, payments, platform teams, or enterprise engineering:</p>
@@ -1509,7 +1509,7 @@ But treating everyone fairly based on what helps them grow and deliver.</p>
 <p>So leadership cannot just be inspiration.
 It has to be operational.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-actually-apply">What I would actually apply<a href="https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders#what-i-would-actually-apply" class="hash-link" aria-label="Direct link to What I would actually apply" title="Direct link to What I would actually apply" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-i-would-actually-apply">What I would actually apply<a href="https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders#what-i-would-actually-apply" class="hash-link" aria-label="Direct link to What I would actually apply" title="Direct link to What I would actually apply" translate="no">​</a></h3>
 <p>If I reduce the whole book into practical points:</p>
 <ol>
 <li class="">define output clearly</li>
@@ -1520,7 +1520,7 @@ It has to be operational.</p>
 </ol>
 <p>If that last one is not happening, something is wrong.</p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://yesarpit.github.io/blog/high-output-management-for-engineering-leaders#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="final-thought">Final thought<a href="https://www.arpitsharma.me/blog/high-output-management-for-engineering-leaders#final-thought" class="hash-link" aria-label="Direct link to Final thought" title="Direct link to Final thought" translate="no">​</a></h3>
 <p>High Output Management is still relevant because engineering leadership is still same in one important way:</p>
 <p>the higher you go, the less your value comes from doing the work yourself.</p>
 <p>Your real value comes from building a system where good work keeps happening.</p>
@@ -1536,8 +1536,8 @@ That is also the job.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Laws Of Human Nature]]></title>
-        <id>https://yesarpit.github.io/blog/2022/09/23/Laws-of-human-nature-Summary</id>
-        <link href="https://yesarpit.github.io/blog/2022/09/23/Laws-of-human-nature-Summary"/>
+        <id>https://www.arpitsharma.me/blog/2022/09/23/Laws-of-human-nature-Summary</id>
+        <link href="https://www.arpitsharma.me/blog/2022/09/23/Laws-of-human-nature-Summary"/>
         <updated>2022-09-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[1. LAW OF IRRATIONALITY: Master Your Emotional Self]]></summary>
         <content type="html"><![CDATA[<ol>
@@ -1618,13 +1618,13 @@ Aim to (i) recognize deep narcissism to avoid being sucked into toxic relationsh
     </entry>
     <entry>
         <title type="html"><![CDATA[Chakras]]></title>
-        <id>https://yesarpit.github.io/blog/2022/07/28/Our-Chakras</id>
-        <link href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras"/>
+        <id>https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras</id>
+        <link href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras"/>
         <updated>2022-07-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[1) Root chakra ( Muladhar Chakra)]]></summary>
         <content type="html"><![CDATA[<h1>Know your chakras - ( session from Intellectual Indies youtube)</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-root-chakra--muladhar-chakra">1) Root chakra ( Muladhar Chakra)<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#1-root-chakra--muladhar-chakra" class="hash-link" aria-label="Direct link to 1) Root chakra ( Muladhar Chakra)" title="Direct link to 1) Root chakra ( Muladhar Chakra)" translate="no">​</a></h2>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="base-of-spine--red-energy-emmision">Base of spine , red energy emmision<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#base-of-spine--red-energy-emmision" class="hash-link" aria-label="Direct link to Base of spine , red energy emmision" title="Direct link to Base of spine , red energy emmision" translate="no">​</a></h4>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-root-chakra--muladhar-chakra">1) Root chakra ( Muladhar Chakra)<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#1-root-chakra--muladhar-chakra" class="hash-link" aria-label="Direct link to 1) Root chakra ( Muladhar Chakra)" title="Direct link to 1) Root chakra ( Muladhar Chakra)" translate="no">​</a></h2>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="base-of-spine--red-energy-emmision">Base of spine , red energy emmision<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#base-of-spine--red-energy-emmision" class="hash-link" aria-label="Direct link to Base of spine , red energy emmision" title="Direct link to Base of spine , red energy emmision" translate="no">​</a></h4>
 <ul>
 <li class="">sceintific explanation - it is adrenaline gland</li>
 <li class="">people who are low on energy and who doesnt feel like doing anything or getting up in the morning have less adrenaline hormones</li>
@@ -1632,8 +1632,8 @@ Aim to (i) recognize deep narcissism to avoid being sucked into toxic relationsh
 <li class="">emits engery and attracts people</li>
 <li class="">make your frnd circle full of engery to enhance this chakra</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-sakral-chakra--swadishtan-chakra">2) Sakral chakra ( Swadishtan Chakra)<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#2-sakral-chakra--swadishtan-chakra" class="hash-link" aria-label="Direct link to 2) Sakral chakra ( Swadishtan Chakra)" title="Direct link to 2) Sakral chakra ( Swadishtan Chakra)" translate="no">​</a></h2>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="above-root-chakra--orange-in-color">Above root chakra , orange in color<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#above-root-chakra--orange-in-color" class="hash-link" aria-label="Direct link to Above root chakra , orange in color" title="Direct link to Above root chakra , orange in color" translate="no">​</a></h4>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-sakral-chakra--swadishtan-chakra">2) Sakral chakra ( Swadishtan Chakra)<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#2-sakral-chakra--swadishtan-chakra" class="hash-link" aria-label="Direct link to 2) Sakral chakra ( Swadishtan Chakra)" title="Direct link to 2) Sakral chakra ( Swadishtan Chakra)" translate="no">​</a></h2>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="above-root-chakra--orange-in-color">Above root chakra , orange in color<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#above-root-chakra--orange-in-color" class="hash-link" aria-label="Direct link to Above root chakra , orange in color" title="Direct link to Above root chakra , orange in color" translate="no">​</a></h4>
 <ul>
 <li class="">it controls emotions when to get angry, happy etc</li>
 <li class="">sceintific explanation - endocrine glands</li>
@@ -1644,15 +1644,15 @@ If this chakra is:</li>
 way to open this:</li>
 <li class="">make happiness a priority</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-solar-plexus-chakra--manipur-chakra">3) Solar Plexus chakra ( Manipur Chakra)<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#3-solar-plexus-chakra--manipur-chakra" class="hash-link" aria-label="Direct link to 3) Solar Plexus chakra ( Manipur Chakra)" title="Direct link to 3) Solar Plexus chakra ( Manipur Chakra)" translate="no">​</a></h2>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="around-navel-in-abdomen-yellow-color">Around navel in abdomen, yellow color<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#around-navel-in-abdomen-yellow-color" class="hash-link" aria-label="Direct link to Around navel in abdomen, yellow color" title="Direct link to Around navel in abdomen, yellow color" translate="no">​</a></h4>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-solar-plexus-chakra--manipur-chakra">3) Solar Plexus chakra ( Manipur Chakra)<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#3-solar-plexus-chakra--manipur-chakra" class="hash-link" aria-label="Direct link to 3) Solar Plexus chakra ( Manipur Chakra)" title="Direct link to 3) Solar Plexus chakra ( Manipur Chakra)" translate="no">​</a></h2>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="around-navel-in-abdomen-yellow-color">Around navel in abdomen, yellow color<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#around-navel-in-abdomen-yellow-color" class="hash-link" aria-label="Direct link to Around navel in abdomen, yellow color" title="Direct link to Around navel in abdomen, yellow color" translate="no">​</a></h4>
 <ul>
 <li class="">will power, successful</li>
 <li class="">we need to increase will power to enhance this chakra</li>
 <li class="">keep small tasks and complete them to increase will power</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-heart-chakra--hridaya-chakra">4) Heart Chakra ( Hridaya Chakra)<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#4-heart-chakra--hridaya-chakra" class="hash-link" aria-label="Direct link to 4) Heart Chakra ( Hridaya Chakra)" title="Direct link to 4) Heart Chakra ( Hridaya Chakra)" translate="no">​</a></h2>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="center-of-chest-green-color">Center of chest, green color<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#center-of-chest-green-color" class="hash-link" aria-label="Direct link to Center of chest, green color" title="Direct link to Center of chest, green color" translate="no">​</a></h4>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-heart-chakra--hridaya-chakra">4) Heart Chakra ( Hridaya Chakra)<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#4-heart-chakra--hridaya-chakra" class="hash-link" aria-label="Direct link to 4) Heart Chakra ( Hridaya Chakra)" title="Direct link to 4) Heart Chakra ( Hridaya Chakra)" translate="no">​</a></h2>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="center-of-chest-green-color">Center of chest, green color<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#center-of-chest-green-color" class="hash-link" aria-label="Direct link to Center of chest, green color" title="Direct link to Center of chest, green color" translate="no">​</a></h4>
 <ul>
 <li class="">thymus gland</li>
 <li class="">close body indicates that this chakra is closed</li>
@@ -1663,23 +1663,23 @@ way to open this:</li>
 <li class="">gratitude practice, write 3 reasons why you are happy</li>
 <li class="">when you gratitude, you attract success</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-throat-chakra--vishuddhi-chakra">5) Throat Chakra ( Vishuddhi Chakra)<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#5-throat-chakra--vishuddhi-chakra" class="hash-link" aria-label="Direct link to 5) Throat Chakra ( Vishuddhi Chakra)" title="Direct link to 5) Throat Chakra ( Vishuddhi Chakra)" translate="no">​</a></h2>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="throat-blue-color-thyroid-gland-element--ether">Throat, blue color, thyroid gland, element- ether<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#throat-blue-color-thyroid-gland-element--ether" class="hash-link" aria-label="Direct link to Throat, blue color, thyroid gland, element- ether" title="Direct link to Throat, blue color, thyroid gland, element- ether" translate="no">​</a></h4>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-throat-chakra--vishuddhi-chakra">5) Throat Chakra ( Vishuddhi Chakra)<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#5-throat-chakra--vishuddhi-chakra" class="hash-link" aria-label="Direct link to 5) Throat Chakra ( Vishuddhi Chakra)" title="Direct link to 5) Throat Chakra ( Vishuddhi Chakra)" translate="no">​</a></h2>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="throat-blue-color-thyroid-gland-element--ether">Throat, blue color, thyroid gland, element- ether<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#throat-blue-color-thyroid-gland-element--ether" class="hash-link" aria-label="Direct link to Throat, blue color, thyroid gland, element- ether" title="Direct link to Throat, blue color, thyroid gland, element- ether" translate="no">​</a></h4>
 <ul>
 <li class="">excessive speaking - extra open</li>
 <li class="">share knowledge - helps to strengthen chkra</li>
 <li class="">write journal - say truth, write truth to enhance this</li>
 <li class="">low volume - means this chakra is close</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-third-eye-chakra--agya-chakra">6) Third eye chakra ( Agya Chakra)<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#6-third-eye-chakra--agya-chakra" class="hash-link" aria-label="Direct link to 6) Third eye chakra ( Agya Chakra)" title="Direct link to 6) Third eye chakra ( Agya Chakra)" translate="no">​</a></h2>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="forehead-pituatiory-gland-pineal-gland-ivory-color">Forehead, Pituatiory gland, pineal gland, Ivory color<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#forehead-pituatiory-gland-pineal-gland-ivory-color" class="hash-link" aria-label="Direct link to Forehead, Pituatiory gland, pineal gland, Ivory color" title="Direct link to Forehead, Pituatiory gland, pineal gland, Ivory color" translate="no">​</a></h4>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-third-eye-chakra--agya-chakra">6) Third eye chakra ( Agya Chakra)<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#6-third-eye-chakra--agya-chakra" class="hash-link" aria-label="Direct link to 6) Third eye chakra ( Agya Chakra)" title="Direct link to 6) Third eye chakra ( Agya Chakra)" translate="no">​</a></h2>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="forehead-pituatiory-gland-pineal-gland-ivory-color">Forehead, Pituatiory gland, pineal gland, Ivory color<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#forehead-pituatiory-gland-pineal-gland-ivory-color" class="hash-link" aria-label="Direct link to Forehead, Pituatiory gland, pineal gland, Ivory color" title="Direct link to Forehead, Pituatiory gland, pineal gland, Ivory color" translate="no">​</a></h4>
 <ul>
 <li class="">knowledge chakra</li>
 <li class="">education seeker, intuition</li>
 <li class="">observing people, deep thinker</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="7-crown-chakra--sahastrasaar-chakra">7) Crown Chakra ( Sahastrasaar Chakra)<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#7-crown-chakra--sahastrasaar-chakra" class="hash-link" aria-label="Direct link to 7) Crown Chakra ( Sahastrasaar Chakra)" title="Direct link to 7) Crown Chakra ( Sahastrasaar Chakra)" translate="no">​</a></h2>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="top-of-head-violet-royal-blue-color">Top of head, violet royal blue color<a href="https://yesarpit.github.io/blog/2022/07/28/Our-Chakras#top-of-head-violet-royal-blue-color" class="hash-link" aria-label="Direct link to Top of head, violet royal blue color" title="Direct link to Top of head, violet royal blue color" translate="no">​</a></h4>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="7-crown-chakra--sahastrasaar-chakra">7) Crown Chakra ( Sahastrasaar Chakra)<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#7-crown-chakra--sahastrasaar-chakra" class="hash-link" aria-label="Direct link to 7) Crown Chakra ( Sahastrasaar Chakra)" title="Direct link to 7) Crown Chakra ( Sahastrasaar Chakra)" translate="no">​</a></h2>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="top-of-head-violet-royal-blue-color">Top of head, violet royal blue color<a href="https://www.arpitsharma.me/blog/2022/07/28/Our-Chakras#top-of-head-violet-royal-blue-color" class="hash-link" aria-label="Direct link to Top of head, violet royal blue color" title="Direct link to Top of head, violet royal blue color" translate="no">​</a></h4>
 <ul>
 <li class="">Old kings used to wear violet color gowns as they knew it</li>
 <li class="">Penial Gland ( antenna )  center of brain</li>
@@ -1692,19 +1692,19 @@ way to open this:</li>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Backwards Law: Why Trying Harder Doesn't Always Work]]></title>
-        <id>https://yesarpit.github.io/blog/2022/04/16/the-backwater-law</id>
-        <link href="https://yesarpit.github.io/blog/2022/04/16/the-backwater-law"/>
+        <id>https://www.arpitsharma.me/blog/2022/04/16/the-backwater-law</id>
+        <link href="https://www.arpitsharma.me/blog/2022/04/16/the-backwater-law"/>
         <updated>2022-04-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Backwards Law: The Art of Letting Go]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-backwards-law-the-art-of-letting-go">The Backwards Law: The Art of Letting Go<a href="https://yesarpit.github.io/blog/2022/04/16/the-backwater-law#the-backwards-law-the-art-of-letting-go" class="hash-link" aria-label="Direct link to The Backwards Law: The Art of Letting Go" title="Direct link to The Backwards Law: The Art of Letting Go" translate="no">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-backwards-law-the-art-of-letting-go">The Backwards Law: The Art of Letting Go<a href="https://www.arpitsharma.me/blog/2022/04/16/the-backwater-law#the-backwards-law-the-art-of-letting-go" class="hash-link" aria-label="Direct link to The Backwards Law: The Art of Letting Go" title="Direct link to The Backwards Law: The Art of Letting Go" translate="no">​</a></h2>
 <p>The "Backwards Law," a term famously explored by philosopher Alan Watts, posits a counter-intuitive truth: <strong>The harder you try to get a result, the further away it moves.</strong></p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-paradox-of-desire">The Paradox of Desire<a href="https://yesarpit.github.io/blog/2022/04/16/the-backwater-law#the-paradox-of-desire" class="hash-link" aria-label="Direct link to The Paradox of Desire" title="Direct link to The Paradox of Desire" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-paradox-of-desire">The Paradox of Desire<a href="https://www.arpitsharma.me/blog/2022/04/16/the-backwater-law#the-paradox-of-desire" class="hash-link" aria-label="Direct link to The Paradox of Desire" title="Direct link to The Paradox of Desire" translate="no">​</a></h3>
 <p>Alan Watts was a British writer who translated Eastern philosophy for the Western world. He famously wrote:</p>
 <blockquote>
 <p>"Wanting a positive experience is a negative experience; accepting a negative experience is a positive experience."</p>
 </blockquote>
 <p>This is the core of the Backwards Law. When you pursue happiness, you are reinforcing the fact that you <em>lack</em> it in the first place. This constant chase makes you less satisfied.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="real-life-examples">Real-Life Examples:<a href="https://yesarpit.github.io/blog/2022/04/16/the-backwater-law#real-life-examples" class="hash-link" aria-label="Direct link to Real-Life Examples:" title="Direct link to Real-Life Examples:" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="real-life-examples">Real-Life Examples:<a href="https://www.arpitsharma.me/blog/2022/04/16/the-backwater-law#real-life-examples" class="hash-link" aria-label="Direct link to Real-Life Examples:" title="Direct link to Real-Life Examples:" translate="no">​</a></h3>
 <ol>
 <li class=""><strong>Sleep</strong>: The more you worry about falling asleep, the more awake you stay.</li>
 <li class=""><strong>Social Ease</strong>: The harder you try to "look cool" or "act natural," the more awkward you become.</li>
@@ -1725,26 +1725,26 @@ way to open this:</li>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rich Dad's Guide to Investing: Building Lasting Wealth]]></title>
-        <id>https://yesarpit.github.io/blog/2022/04/15/rich-dad-guide-to-investing</id>
-        <link href="https://yesarpit.github.io/blog/2022/04/15/rich-dad-guide-to-investing"/>
+        <id>https://www.arpitsharma.me/blog/2022/04/15/rich-dad-guide-to-investing</id>
+        <link href="https://www.arpitsharma.me/blog/2022/04/15/rich-dad-guide-to-investing"/>
         <updated>2022-04-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Key Principles from Rich Dad's Guide to Investing]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="key-principles-from-rich-dads-guide-to-investing">Key Principles from Rich Dad's Guide to Investing<a href="https://yesarpit.github.io/blog/2022/04/15/rich-dad-guide-to-investing#key-principles-from-rich-dads-guide-to-investing" class="hash-link" aria-label="Direct link to Key Principles from Rich Dad's Guide to Investing" title="Direct link to Key Principles from Rich Dad's Guide to Investing" translate="no">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="key-principles-from-rich-dads-guide-to-investing">Key Principles from Rich Dad's Guide to Investing<a href="https://www.arpitsharma.me/blog/2022/04/15/rich-dad-guide-to-investing#key-principles-from-rich-dads-guide-to-investing" class="hash-link" aria-label="Direct link to Key Principles from Rich Dad's Guide to Investing" title="Direct link to Key Principles from Rich Dad's Guide to Investing" translate="no">​</a></h2>
 <p>Robert Kiyosaki’s guide isn't about particular stocks; it's about the <strong>Mindset</strong> of an investor. Here is the distilled wisdom on building an investment-first lifestyle:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-distinguish-good-vs-bad-investments">1. Distinguish Good vs. Bad "Investments"<a href="https://yesarpit.github.io/blog/2022/04/15/rich-dad-guide-to-investing#1-distinguish-good-vs-bad-investments" class="hash-link" aria-label="Direct link to 1. Distinguish Good vs. Bad &quot;Investments&quot;" title="Direct link to 1. Distinguish Good vs. Bad &quot;Investments&quot;" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-distinguish-good-vs-bad-investments">1. Distinguish Good vs. Bad "Investments"<a href="https://www.arpitsharma.me/blog/2022/04/15/rich-dad-guide-to-investing#1-distinguish-good-vs-bad-investments" class="hash-link" aria-label="Direct link to 1. Distinguish Good vs. Bad &quot;Investments&quot;" title="Direct link to 1. Distinguish Good vs. Bad &quot;Investments&quot;" translate="no">​</a></h3>
 <p>Kiyosaki warns against using your capital for "liabilities" disguised as lifestyle upgrades.</p>
 <ul>
 <li class=""><strong>Bad Moves</strong>: Quitting a steady job for a "world tour" without passive income, or liquidating family stability for shallow desires.</li>
 <li class=""><strong>Asset-First</strong>: Every profit should be reinvested. The goal is to maximize the gap between your income and your living expenses by using that gap to buy more assets.</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-the-3-es-of-an-investor">2. The 3 E's of an Investor<a href="https://yesarpit.github.io/blog/2022/04/15/rich-dad-guide-to-investing#2-the-3-es-of-an-investor" class="hash-link" aria-label="Direct link to 2. The 3 E's of an Investor" title="Direct link to 2. The 3 E's of an Investor" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-the-3-es-of-an-investor">2. The 3 E's of an Investor<a href="https://www.arpitsharma.me/blog/2022/04/15/rich-dad-guide-to-investing#2-the-3-es-of-an-investor" class="hash-link" aria-label="Direct link to 2. The 3 E's of an Investor" title="Direct link to 2. The 3 E's of an Investor" translate="no">​</a></h3>
 <p>To be a successful investor, you must acquire these three "E's":</p>
 <ol>
 <li class=""><strong>Education</strong>: Financial literacy is your #1 asset. Investment without knowledge is just gambling.</li>
 <li class=""><strong>Experience</strong>: Start small. You need the "street smarts" of seeing how numbers move in real-time.</li>
 <li class=""><strong>Excess Cash</strong>: Never let cash sit idle. Use it to acquire more "meaningful work" (like hiring employees for monotonous tasks) so your own time is freed up for high-level strategy.</li>
 </ol>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-investment-as-a-knowledge-compound">3. Investment as a Knowledge Compound<a href="https://yesarpit.github.io/blog/2022/04/15/rich-dad-guide-to-investing#3-investment-as-a-knowledge-compound" class="hash-link" aria-label="Direct link to 3. Investment as a Knowledge Compound" title="Direct link to 3. Investment as a Knowledge Compound" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-investment-as-a-knowledge-compound">3. Investment as a Knowledge Compound<a href="https://www.arpitsharma.me/blog/2022/04/15/rich-dad-guide-to-investing#3-investment-as-a-knowledge-compound" class="hash-link" aria-label="Direct link to 3. Investment as a Knowledge Compound" title="Direct link to 3. Investment as a Knowledge Compound" translate="no">​</a></h3>
 <p>Knowledge is a unique asset because it compounds faster than money. By investing in yourself—through books, seminars, and networking—you become an "Inside Investor."</p>
 <p><strong>The Golden Rule</strong>: Never buy a stock just to sell it. Buy the company because you believe in its value as if it were your own business.</p>
 <p>#learnings</p>]]></content>
@@ -1761,17 +1761,17 @@ way to open this:</li>
     </entry>
     <entry>
         <title type="html"><![CDATA[Own It: What Maturity Actually Means]]></title>
-        <id>https://yesarpit.github.io/blog/2022/04/09/own-it-like-matured</id>
-        <link href="https://yesarpit.github.io/blog/2022/04/09/own-it-like-matured"/>
+        <id>https://www.arpitsharma.me/blog/2022/04/09/own-it-like-matured</id>
+        <link href="https://www.arpitsharma.me/blog/2022/04/09/own-it-like-matured"/>
         <updated>2022-04-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[What Does it Really Mean to be Mature?]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-does-it-really-mean-to-be-mature">What Does it Really Mean to be Mature?<a href="https://yesarpit.github.io/blog/2022/04/09/own-it-like-matured#what-does-it-really-mean-to-be-mature" class="hash-link" aria-label="Direct link to What Does it Really Mean to be Mature?" title="Direct link to What Does it Really Mean to be Mature?" translate="no">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-does-it-really-mean-to-be-mature">What Does it Really Mean to be Mature?<a href="https://www.arpitsharma.me/blog/2022/04/09/own-it-like-matured#what-does-it-really-mean-to-be-mature" class="hash-link" aria-label="Direct link to What Does it Really Mean to be Mature?" title="Direct link to What Does it Really Mean to be Mature?" translate="no">​</a></h2>
 <p>Most people define maturity by age, but real maturity is binary: <strong>It is the ability to own your actions (and even others' mistakes) to find a solution rather than a target for blame.</strong></p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-lesson-of-the-croma-cooler">The Lesson of the Croma Cooler<a href="https://yesarpit.github.io/blog/2022/04/09/own-it-like-matured#the-lesson-of-the-croma-cooler" class="hash-link" aria-label="Direct link to The Lesson of the Croma Cooler" title="Direct link to The Lesson of the Croma Cooler" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-lesson-of-the-croma-cooler">The Lesson of the Croma Cooler<a href="https://www.arpitsharma.me/blog/2022/04/09/own-it-like-matured#the-lesson-of-the-croma-cooler" class="hash-link" aria-label="Direct link to The Lesson of the Croma Cooler" title="Direct link to The Lesson of the Croma Cooler" translate="no">​</a></h3>
 <p>I recently had a frustrating experience with an online order. I needed a replacement for a faulty air cooler. When the pickup agent was rude and refused to take the unboxed unit, I reacted predictably: I matched his tone, defended my stance, and slammed the door.</p>
 <p><strong>Result</strong>: A week passed, and I was still stuck with a broken cooler and a heated mood.</p>
 <p>If I had shown <strong>maturity</strong>—owning the outcome (getting the cooler replaced) instead of the ego-clash—I could have handled it differently, stayed calm, and resolved the issue that same day.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="10-pillars-of-maturity">10 Pillars of Maturity<a href="https://yesarpit.github.io/blog/2022/04/09/own-it-like-matured#10-pillars-of-maturity" class="hash-link" aria-label="Direct link to 10 Pillars of Maturity" title="Direct link to 10 Pillars of Maturity" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="10-pillars-of-maturity">10 Pillars of Maturity<a href="https://www.arpitsharma.me/blog/2022/04/09/own-it-like-matured#10-pillars-of-maturity" class="hash-link" aria-label="Direct link to 10 Pillars of Maturity" title="Direct link to 10 Pillars of Maturity" translate="no">​</a></h3>
 <p>To be mature is to master these habits:</p>
 <ol>
 <li class=""><strong>Take Responsibility</strong>: Don't just own your successes; own your blockers.</li>
@@ -1796,12 +1796,12 @@ way to open this:</li>
     </entry>
     <entry>
         <title type="html"><![CDATA[Primal Learning - How Brain learns]]></title>
-        <id>https://yesarpit.github.io/blog/primal-learning</id>
-        <link href="https://yesarpit.github.io/blog/primal-learning"/>
+        <id>https://www.arpitsharma.me/blog/primal-learning</id>
+        <link href="https://www.arpitsharma.me/blog/primal-learning"/>
         <updated>2021-11-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Mylan coating around brain cells help you retrieve faster]]></summary>
         <content type="html"><![CDATA[<p>Mylan coating around brain cells help you retrieve faster</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="use-it-or-lose-it">Use it or lose it<a href="https://yesarpit.github.io/blog/primal-learning#use-it-or-lose-it" class="hash-link" aria-label="Direct link to Use it or lose it" title="Direct link to Use it or lose it" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="use-it-or-lose-it">Use it or lose it<a href="https://www.arpitsharma.me/blog/primal-learning#use-it-or-lose-it" class="hash-link" aria-label="Direct link to Use it or lose it" title="Direct link to Use it or lose it" translate="no">​</a></h2>
 <p>Implicit:</p>
 <p>You learn more per hour if you space it out</p>
 <p>You become average of the 5 people you spend most time with</p>
