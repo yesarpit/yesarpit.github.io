@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkarpit_blog=globalThis.webpackChunkarpit_blog||[]).push([[1903],{1912(a){a.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Engineering & Leadership Blog","authorsListPath":"/blog/authors"}')}}]);

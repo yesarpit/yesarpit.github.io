@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.arpitsharma.me/blog</id>
-    <title>Learnings Blog</title>
+    <title>Arpit Sharma | Engineering Executive &amp; Fintech Leader Blog</title>
     <updated>2026-09-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.arpitsharma.me/blog"/>
-    <subtitle>Learnings Blog</subtitle>
+    <subtitle>Arpit Sharma | Engineering Executive &amp; Fintech Leader Blog</subtitle>
     <icon>https://www.arpitsharma.me/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Lessons I Am Trying Not to Forget]]></title>
