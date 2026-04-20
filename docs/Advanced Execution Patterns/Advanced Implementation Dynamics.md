@@ -1,5 +1,4 @@
-
-
+# Advanced Implementation Dynamics
 
 ### Function Expression vs Function statement vs IIFE
 ![](https://i.ibb.co/sHfgNL4/image.png)

@@ -2,6 +2,8 @@
 sidebar_position: 0
 ---
 
+# Language Ecosystem & Definition
+
 ### Read This
 
 Computers doesnt understand english :astonished: (surprised ?)

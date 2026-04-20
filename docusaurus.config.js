@@ -7,7 +7,7 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Learnings',
+  title: 'Arpit Sharma | Engineering Executive & Fintech Leader',
   tagline: 'Life is a learning spree',
   url: 'https://www.arpitsharma.me',
   baseUrl: '/',
@@ -41,7 +41,8 @@ const config = {
         blog: {
           showReadingTime: true,
           blogSidebarCount: "ALL",
-          blogSidebarTitle: 'Book Summaries',
+          blogTitle: 'Engineering & Leadership Blog',
+          blogDescription: 'Deep dives into engineering leadership, fintech architecture, and scaling technical organisations.',
           // Please change this to your repo.
           editUrl:
             'https://github.com/yesarpit/yesarpit.github.io/edit/main/',
@@ -75,10 +76,10 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Technical',
+            label: 'Technical Docs',
           },
           // {to: '/gallery', label: 'Photoactive', position: 'right'},
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: 'Engineering Blog', position: 'left' },
           {
             href: 'https://github.com/yesarpit',
             label: 'GitHub',

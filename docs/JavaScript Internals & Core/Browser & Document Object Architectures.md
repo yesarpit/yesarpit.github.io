@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Browser & Document Object Architectures
+
 Anyways this entire thing is about JS , so lets give a min to essentials when running JS in browser i.e DOM & BOM 
 
 Reading them is not necessary but it will help , just saying :man_shrugging: 

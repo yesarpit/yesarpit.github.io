@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Intro
+# Technical Deep Dives & System Design
 
 I haven't met anyone to date whose childhood dream was to become a software developer. But as we grow up, we realize that it pays well.
 

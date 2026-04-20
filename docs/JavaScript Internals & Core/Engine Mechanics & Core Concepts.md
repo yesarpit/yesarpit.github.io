@@ -1,3 +1,5 @@
+# Engine Mechanics & Core Concepts
+
 I think no one should ever start any language with learning data types.
 They sound so silly and scarry , why the hell would I bore someone with JS data types.
 
