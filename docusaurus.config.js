@@ -9,7 +9,7 @@ const darkCodeTheme = themes.dracula;
 const config = {
   title: 'Learnings',
   tagline: 'Life is a learning spree',
-  url: 'https://yesarpit.github.io',
+  url: 'https://www.arpitsharma.me',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
