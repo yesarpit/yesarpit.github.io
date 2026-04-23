@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import recentPosts from '../data/recentPosts.json';
 
 export default function Home() {
   // We use a raw HTML string to ensure 100% fidelity with your original design
@@ -37,8 +38,8 @@ export default function Home() {
     background: var(--bg);
     color: var(--white);
     font-family: 'Outfit', sans-serif;
-    font-weight: 300;
-    line-height: 1.6;
+    font-weight: 400;
+    line-height: 1.7;
     overflow-x: hidden;
   }
   a { color: inherit; text-decoration: none; }
@@ -145,7 +146,7 @@ export default function Home() {
   }
   .hero-name em { font-style: italic; color: var(--gold); }
   .hero-tagline {
-    font-size: 1rem;
+    font-size: 1.15rem;
     font-weight: 300;
     color: var(--muted);
     max-width: 44ch;
@@ -215,7 +216,7 @@ export default function Home() {
   }
   .stat-label {
     font-family: 'DM Mono', monospace;
-    font-size: 0.68rem;
+    font-size: 0.78rem;
     letter-spacing: 0.2em;
     text-transform: uppercase;
     color: var(--muted);
@@ -248,10 +249,17 @@ export default function Home() {
     letter-spacing: 0.05em;
     padding: 0.25rem 0.75rem;
     border: 1px solid var(--border);
-    transition: color 0.2s, border-color 0.2s;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+    background: transparent;
   }
-  .company-name:hover { color: var(--white); border-color: rgba(255,255,255,0.2); }
-  .company-name.current { color: var(--gold); border-color: rgba(201,168,76,0.3); }
+  .company-name:hover { color: var(--white); border-color: rgba(255,255,255,0.2); background: rgba(255,255,255,0.02); }
+  .company-name.current { 
+    color: var(--gold); 
+    border-color: var(--gold); 
+    background: var(--gold-glow);
+    box-shadow: 0 0 15px rgba(201,168,76,0.1);
+  }
 
   section {
     padding: 6rem 3rem;
@@ -319,7 +327,7 @@ export default function Home() {
     color: var(--gold);
     margin-bottom: 1rem;
   }
-  .rare-card p { font-size: 0.88rem; color: var(--muted); line-height: 1.75; }
+  .rare-card p { font-size: 1.05rem; color: var(--muted); line-height: 1.8; }
   .rare-card p strong { color: var(--white); font-weight: 500; }
 
   .moments-list {
@@ -362,7 +370,7 @@ export default function Home() {
     margin-bottom: 0.75rem;
     line-height: 1.3;
   }
-  .moment-body { font-size: 0.9rem; color: var(--muted); line-height: 1.8; max-width: 72ch; }
+  .moment-body { font-size: 1.05rem; color: var(--muted); line-height: 1.8; max-width: 72ch; }
   .moment-body strong { color: var(--white); font-weight: 500; }
   .moment-tag {
     display: inline-flex;
@@ -478,7 +486,7 @@ export default function Home() {
     line-height: 1.2;
     margin-bottom: 0.75rem;
   }
-  .thought-body { font-size: 0.88rem; color: var(--muted); line-height: 1.75; }
+  .thought-body { font-size: 1.05rem; color: var(--muted); line-height: 1.8; }
   .thought-book-cover {
     background: linear-gradient(135deg, #1a1410 0%, #0d0b08 100%);
     border: 1px solid rgba(201,168,76,0.2);
@@ -518,7 +526,7 @@ export default function Home() {
     padding: 0.2rem 0.6rem;
   }
   .cert-list { list-style: none; display: flex; flex-direction: column; gap: 1rem; }
-  .cert-list li { display: flex; align-items: flex-start; gap: 1rem; font-size: 0.88rem; color: var(--muted); }
+  .cert-list li { display: flex; align-items: flex-start; gap: 1rem; font-size: 1rem; color: var(--muted); }
   .cert-list li::before { content: '—'; color: var(--gold); font-family: 'DM Mono', monospace; flex-shrink: 0; }
   .cert-list strong { color: var(--white); font-weight: 500; display: block; margin-bottom: 0.1rem; }
 
@@ -567,7 +575,7 @@ export default function Home() {
     line-height: 1.2;
     margin-bottom: 1rem;
   }
-  .connect-sub { font-size: 0.88rem; color: var(--muted); line-height: 1.75; margin-bottom: 2rem; }
+  .connect-sub { font-size: 1.05rem; color: var(--muted); line-height: 1.8; margin-bottom: 2rem; }
   .connect-links { display: flex; flex-direction: column; gap: 0.75rem; }
   .connect-link {
     font-family: 'DM Mono', monospace;
@@ -644,6 +652,19 @@ export default function Home() {
     .thought-card.featured { grid-template-columns: 1fr; }
     .connect-section { grid-template-columns: 1fr; }
     footer { flex-direction: column; gap: 1rem; text-align: center; }
+    .footer-blog-link:hover .footer-blog-title { transform: translateX(5px); color: #000 !important; }
+    .footer-blog-link { position: relative; }
+  }
+  
+  /* OVERRIDE FOR FOOTER BLOG LINKS */
+  .footer-blog-link:hover .footer-blog-title {
+    color: #000 !important;
+    text-decoration: underline !important;
+    text-decoration-thickness: 1px !important;
+    text-underline-offset: 3px !important;
+  }
+  .footer-blog-link:hover {
+    opacity: 0.8;
   }
 </style>
 </head>
@@ -672,9 +693,10 @@ export default function Home() {
     <p class="hero-eyebrow">Engineering Executive · Fintech · AI Infrastructure</p>
     <h1 class="hero-name">Arpit<br><em>Sharma</em></h1>
     <p class="hero-tagline">
-      I build the systems that move money for <strong>hundreds of millions of people</strong> —
-      and the engineering organisations that keep them running at five-nines.
-      16 years. Three continents. Zero tolerance for downtime.
+      17 years building financial systems and the teams behind them —
+      across <strong>payments, FX trading, and AI infrastructure</strong>.
+      The work tends to be complex, the standards high,
+      and the margin for error thin.
     </p>
     <div class="hero-actions">
       <a href="#moments" class="btn-primary">See My Work</a>
@@ -684,36 +706,36 @@ export default function Home() {
 
   <div class="hero-right">
     <div class="stat-row">
-      <div class="stat-cell">
-        <div class="stat-number">16</div>
+      <div class="stat-cell" id="stat-0">
+        <div class="stat-number">17</div>
         <div class="stat-label">Years</div>
         <div class="stat-sub">PayPal · Citi · Lloyds · BT · Samsung</div>
       </div>
-      <div class="stat-cell">
+      <div class="stat-cell" id="stat-1">
         <div class="stat-number">200+</div>
         <div class="stat-label">Countries</div>
         <div class="stat-sub">PayPal Consumer platform reach</div>
       </div>
     </div>
     <div class="stat-row">
-      <div class="stat-cell">
+      <div class="stat-cell" id="stat-2">
         <div class="stat-number">99.999%</div>
         <div class="stat-label">Availability</div>
         <div class="stat-sub">Five nines · ≈5 min/year downtime</div>
       </div>
-      <div class="stat-cell">
+      <div class="stat-cell" id="stat-3">
         <div class="stat-number">$6M</div>
         <div class="stat-label">Revenue Recovered</div>
         <div class="stat-sub">Via CDN edge-logic redesign</div>
       </div>
     </div>
     <div class="stat-row">
-      <div class="stat-cell">
+      <div class="stat-cell" id="stat-4">
         <div class="stat-number">70%</div>
         <div class="stat-label">Dev Productivity ↑</div>
         <div class="stat-sub">Via GenAI tooling · agentic workflows</div>
       </div>
-      <div class="stat-cell">
+      <div class="stat-cell" id="stat-5">
         <div class="stat-number">30+</div>
         <div class="stat-label">Engineers Scaled</div>
         <div class="stat-sub">Across managers & senior ICs</div>
@@ -721,24 +743,24 @@ export default function Home() {
     </div>
     <div class="company-strip">
       <span class="company-label">Built at</span>
-      <span class="company-name current">PayPal</span>
-      <span class="company-name">Citi</span>
-      <span class="company-name">Lloyds</span>
-      <span class="company-name">BT</span>
-      <span class="company-name">Samsung</span>
+      <span class="company-name current" data-company="PayPal">PayPal</span>
+      <span class="company-name" data-company="Citi">Citi</span>
+      <span class="company-name" data-company="Lloyds">Lloyds</span>
+      <span class="company-name" data-company="BT">BT</span>
+      <span class="company-name" data-company="Samsung">Samsung</span>
     </div>
   </div>
 </section>
 
 <!-- RARE COMBINATION -->
 <section>
-  <div class="section-label">What Makes Me Different</div>
-  <h2 class="section-title">Most engineering leaders are <em>one</em> of these.<br>I operate as all three.</h2>
+  <div class="section-label">How I Tend to Work</div>
+  <h2 class="section-title">The work I find most interesting sits at the <em>intersection</em> of three things:</h2>
 
   <div class="rare-grid">
     <div class="rare-card">
       <span class="rare-icon">⬡</span>
-      <div class="rare-card-title">The Architect</div>
+      <div class="rare-card-title">Systems</div>
       <p>
         Designed PayPal's <strong>autonomous AI Agent platform</strong> powering consumer experiences across 200+ countries.
         Built Citi's algorithmic trading PWA with sub-120ms P99 latency.
@@ -754,7 +776,7 @@ export default function Home() {
     </div>
     <div class="rare-card">
       <span class="rare-icon">◈</span>
-      <div class="rare-card-title">The Operator</div>
+      <div class="rare-card-title">Reliability</div>
       <p>
         Sustained <strong>99.999% platform availability</strong> across PayPal's consumer payment infrastructure.
         Incident command procedures with <strong>RTO under 10 minutes</strong>, RPO under 2 minutes.
@@ -771,7 +793,7 @@ export default function Home() {
     </div>
     <div class="rare-card">
       <span class="rare-icon">◎</span>
-      <div class="rare-card-title">The Builder of Builders</div>
+      <div class="rare-card-title">Teams</div>
       <p>
         Scaled engineering organisations from <strong>12 → 30+ engineers</strong>. Wrote hiring rubrics and competency levelling frameworks adopted across PayPal India's Consumer org.
         Reduced time-to-hire by <strong>35%</strong>. Established succession plans and leadership standards at scale.
@@ -824,7 +846,7 @@ export default function Home() {
     <div class="moment">
       <div class="moment-num"><span>03</span></div>
       <div class="moment-content">
-        <h3 class="moment-title">GenAI in Production Before Most Had a Strategy Doc</h3>
+        <h3 class="moment-title">GenAI in Production — When It Was Still Messy</h3>
         <p class="moment-body">
           Built production-grade <strong>agentic workflow orchestration, LLM evaluations,
           prompt engineering guardrails, and real-time observability pipelines</strong> across
@@ -869,7 +891,7 @@ export default function Home() {
 <!-- CAREER ARC -->
 <section id="career">
   <div class="section-label">Career Arc</div>
-  <h2 class="section-title">16 years. Continuously <em>moving up.</em></h2>
+  <h2 class="section-title">17 years. Fintech, banking, <em>and consumer platforms.</em></h2>
 
   <div class="arc-timeline">
     <div class="arc-line"></div>
@@ -940,7 +962,7 @@ export default function Home() {
         <h3 class="thought-title">"Take Wrong Decisions"</h3>
         <p class="thought-body">
           A leadership framework on counterintuitive decision-making for engineering executives —
-          drawn from 16 years of high-stakes delivery across global financial institutions.
+          drawn from 17 years of high-stakes delivery across global financial institutions.
           The premise: the decisions that feel wrong in the moment are often the ones that build
           the most durable systems, teams, and organisations.
         </p>
@@ -959,15 +981,13 @@ export default function Home() {
     </div>
 
     <div class="thought-card">
-      <div class="thought-type">✍️ Writing</div>
-      <p class="thought-body" style="margin-bottom: 1.25rem;">
-        Engineering leadership frameworks on org design, high-performance team habits,
-        and decision-making under pressure — alongside deep technical writing on
-        JavaScript internals, web security (XSS attack surfaces), and system design.
+      <div class="thought-type">💡 Philosophy</div>
+      <div class="connect-right-text" style="font-size: 1.6rem; color: var(--white); font-style: italic; font-family: 'Cormorant Garamond', serif; line-height: 1.3;">
+        "The decisions that feel wrong<br>are often the ones worth taking."
+      </div>
+      <p class="thought-body" style="margin-top: 1rem; opacity: 0.7;">
+        A core tenet of my leadership approach: the most durable systems and teams are built through counterintuitive choices.
       </p>
-      <a href="https://www.arpitsharma.me/blog" target="_blank" class="connect-link" style="color: var(--gold);">
-        arpitsharma.me/blog ↗
-      </a>
     </div>
   </div>
 </section>
@@ -975,7 +995,7 @@ export default function Home() {
 <!-- AWARDS -->
 <section>
   <div class="section-label">Recognition</div>
-  <h2 class="section-title">Awarded for <em>results</em>, not effort</h2>
+  <h2 class="section-title">Work that got <em>noticed</em></h2>
 
   <div class="awards-row">
     <div class="award-card">
@@ -1020,11 +1040,25 @@ export default function Home() {
         <a href="https://www.credly.com/badges/f49d873f-2763-4bc2-b28b-4dbfd2875180/public_url" target="_blank" class="connect-link">Certifications</a>
       </div>
     </div>
-    <div class="connect-right">
-      <div class="connect-right-text">
-        "The decisions that feel wrong<br>are often the ones worth taking."
+    <div class="connect-right" style="justify-content: flex-start; gap: 1.5rem; background: var(--gold); padding: 2.5rem 2rem;">
+      <div style="background: rgba(7,8,13,0.1); padding: 0.4rem 0.8rem; display: inline-block; width: fit-content; border-radius: 2px;">
+        <div class="thought-type" style="color: #07080d; margin-bottom: 0; font-weight: 600; font-size: 0.75rem; letter-spacing: 0.1em;">✍️ RECENT WRITING</div>
       </div>
-      <a href="mailto:arpitsharma.em@gmail.com" class="connect-email">arpitsharma.em@gmail.com</a>
+      
+      <div class="recent-posts-list" style="display: flex; flex-direction: column; gap: 1.25rem;">
+        ${recentPosts.map(post => `
+          <div class="recent-post-item" style="position: relative;">
+            <a href="/blog/${post.slug}" class="footer-blog-link" style="display: block; text-decoration: none !important; color: inherit !important;">
+              <div style="font-family: 'DM Mono', monospace; font-size: 0.68rem; color: rgba(7,8,13,0.6); margin-bottom: 0.2rem;">${post.date}</div>
+              <div class="footer-blog-title" style="font-family: 'Cormorant Garamond', serif; font-size: 1.3rem; font-style: italic; color: #07080d; line-height: 1.2; font-weight: 600; display: inline-block;">${post.title}</div>
+            </a>
+          </div>
+        `).join('')}
+      </div>
+      
+      <div style="margin-top: auto; padding-top: 1rem; border-top: 1px solid rgba(7,8,13,0.1);">
+        <a href="mailto:arpitsharma.em@gmail.com" class="connect-email" style="color: #07080d; border-color: rgba(7,8,13,0.4); font-weight: 500; font-size: 0.8rem;">arpitsharma.em@gmail.com</a>
+      </div>
     </div>
   </div>
 </section>
@@ -1067,8 +1101,83 @@ export default function Home() {
     document.body.style.margin = "0";
     document.body.style.padding = "0";
     document.body.style.overflowX = "hidden";
+
+    // 5. Company Stats Switcher Logic
+    const statsData = {
+      PayPal: [
+        { n: "17", l: "Years", s: "PayPal · Citi · Lloyds · BT · Samsung" },
+        { n: "200+", l: "Countries", s: "PayPal Consumer platform reach" },
+        { n: "99.999%", l: "Availability", s: "Five nines · ≈5 min/year downtime" },
+        { n: "$6M", l: "Revenue Recovered", s: "Via CDN edge-logic redesign" },
+        { n: "70%", l: "Dev Productivity ↑", s: "Via GenAI tooling · agentic workflows" },
+        { n: "30+", l: "Engineers Scaled", s: "Across managers & senior ICs" }
+      ],
+      Citi: [
+        { n: "$4T+", l: "Daily Flow", s: "Processing volume across Citi Treasury" },
+        { n: "99.95%", l: "Availability", s: "For payment-critical services" },
+        { n: "<120ms", l: "P99 Latency", s: "Sub-120ms execution on AWS" },
+        { n: "100M+", l: "Requests", s: "Annual consumer request volume" },
+        { n: "AWS", l: "Cloud Migration", s: "Monolith to Microservices" },
+        { n: "20+", l: "Engineers Managed", s: "High-performance banking teams" }
+      ],
+      Lloyds: [
+        { n: "Top 10", l: "FX House", s: "Global market standing in FX trading" },
+        { n: "<10ms", l: "Execution", s: "P99 Real-time FX streaming" },
+        { n: "MiFID II", l: "Compliance", s: "Regulated London front-office" },
+        { n: "Kafka", l: "Streaming", s: "Event-driven FX standards" },
+        { n: "API", l: "Standards", s: "Adopted firm-wide across engineering" },
+        { n: "London", l: "Base", s: "Gresham Street · Front Office" }
+      ],
+      BT: [
+        { n: "30M+", l: "UK Customers", s: "Reach of BT's consumer network" },
+        { n: "Global", l: "Standards", s: "Set coding patterns for BT/Samsung" },
+        { n: "Java", l: "Core", s: "Sun Certified Professional v6" },
+        { n: "Full", l: "Stack", s: "Delivering end-to-end telecom apps" },
+        { n: "Lead", l: "Role", s: "Mentoring junior & mid-level ICs" },
+        { n: "Pune", l: "Base", s: "India Development Center" }
+      ],
+      Samsung: [
+        { n: "1.2B+", l: "Devices Shipped", s: "Global scale of Samsung's ecosystem" },
+        { n: "Gold", l: "Award", s: "For Global Coding Standards 2016" },
+        { n: "Android", l: "Kernel", s: "Low-level system optimizations" },
+        { n: "Mobile", l: "Scale", s: "Shipped on millions of devices" },
+        { n: "C++", l: "Perf", s: "High-performance mobile runtimes" },
+        { n: "Innovation", l: "Lab", s: "Research & Development focus" }
+      ]
+    };
+
+    const companyButtons = document.querySelectorAll('.company-name');
+    companyButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const company = btn.getAttribute('data-company');
+        const data = statsData[company];
+        
+        // Update Buttons
+        companyButtons.forEach(b => b.classList.remove('current'));
+        btn.classList.add('current');
+
+        // Update Stats with a small fade animation
+        data.forEach((stat, i) => {
+          const cell = document.getElementById(`stat-${i}`);
+          if (cell) {
+            cell.style.opacity = '0';
+            setTimeout(() => {
+              cell.querySelector('.stat-number').textContent = stat.n;
+              cell.querySelector('.stat-label').textContent = stat.l;
+              cell.querySelector('.stat-sub').textContent = stat.s;
+              cell.style.opacity = '1';
+            }, 150);
+          }
+        });
+      });
+    });
+
+    // Add CSS for fade transition if not present
+    const style = document.createElement('style');
+    style.textContent = '.stat-cell { transition: opacity 0.2s ease-in-out; }';
+    document.head.appendChild(style);
     
-    // Cleanup function if needed (not strictly required for a homepage)
+    // Cleanup function if needed
     return () => {
       // Restore defaults if navigating away
       document.body.style.background = "";
