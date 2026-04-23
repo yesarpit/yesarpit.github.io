@@ -680,7 +680,7 @@ export default function Home() {
     <li><a href="#connect">Connect</a></li>
   </ul>
   <div style="display: flex; gap: 1rem;">
-    <a href="/blog" class="nav-cta">Blog ↗</a>
+    <a href="/blog?ref=nav" class="nav-cta">Blog ↗</a>
     <a href="http://www.linkedin.com/in/yesarpit" target="_blank" class="nav-cta">LinkedIn ↗</a>
   </div>
 </nav>
@@ -1036,7 +1036,7 @@ export default function Home() {
       <div class="connect-links">
         <a href="http://www.linkedin.com/in/yesarpit" target="_blank" class="connect-link">LinkedIn</a>
         <a href="https://github.com/yesarpit" target="_blank" class="connect-link">GitHub</a>
-        <a href="https://www.arpitsharma.me/blog" target="_blank" class="connect-link">Blog</a>
+        <a href="https://www.arpitsharma.me/blog?ref=connect_section" target="_blank" class="connect-link">Blog</a>
         <a href="https://www.credly.com/badges/f49d873f-2763-4bc2-b28b-4dbfd2875180/public_url" target="_blank" class="connect-link">Certifications</a>
       </div>
     </div>
@@ -1048,7 +1048,7 @@ export default function Home() {
       <div class="recent-posts-list" style="display: flex; flex-direction: column; gap: 1.25rem;">
         ${recentPosts.map(post => `
           <div class="recent-post-item" style="position: relative;">
-            <a href="/blog/${post.slug}" class="footer-blog-link" style="display: block; text-decoration: none !important; color: inherit !important;">
+            <a href="/blog/${post.slug}?ref=footer_item" class="footer-blog-link" style="display: block; text-decoration: none !important; color: inherit !important;">
               <div style="font-family: 'DM Mono', monospace; font-size: 0.68rem; color: rgba(7,8,13,0.6); margin-bottom: 0.2rem;">${post.date}</div>
               <div class="footer-blog-title" style="font-family: 'Cormorant Garamond', serif; font-size: 1.3rem; font-style: italic; color: #07080d; line-height: 1.2; font-weight: 600; display: inline-block;">${post.title}</div>
             </a>
@@ -1057,6 +1057,8 @@ export default function Home() {
       </div>
       
       <div style="margin-top: auto; padding-top: 1rem; border-top: 1px solid rgba(7,8,13,0.1);">
+        <a href="/blog?ref=footer_writing" class="connect-link" style="color: #07080d; font-weight: 600; text-decoration: underline; margin-bottom: 1rem; display: inline-block;">View All Posts ↗</a>
+        <br>
         <a href="mailto:arpitsharma.em@gmail.com" class="connect-email" style="color: #07080d; border-color: rgba(7,8,13,0.4); font-weight: 500; font-size: 0.8rem;">arpitsharma.em@gmail.com</a>
       </div>
     </div>
