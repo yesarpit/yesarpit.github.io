@@ -2,16 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.arpitsharma.me/blog</id>
     <title>Arpit Sharma | Engineering Executive &amp; Fintech Leader Blog</title>
-    <updated>2026-09-24T00:00:00.000Z</updated>
+    <updated>2026-04-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.arpitsharma.me/blog"/>
     <subtitle>Arpit Sharma | Engineering Executive &amp; Fintech Leader Blog</subtitle>
     <icon>https://www.arpitsharma.me/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Reclaiming 50GB+ Mac Storage Safely: A Journey from 'Disk Full' to AI-Powered Deduping]]></title>
+        <id>https://www.arpitsharma.me/blog/safe-media-migration-ai</id>
+        <link href="https://www.arpitsharma.me/blog/safe-media-migration-ai"/>
+        <updated>2026-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams.]]></summary>
+        <content type="html"><![CDATA[<p>We've all been there: the dreaded <strong>"Your disk is almost full"</strong> notification on macOS. This week, I hit the wall. A 52GB folder of mobile backups, photos, and videos was choking my internal SSD.</p>
+<p>But as an engineer, the thought of manually dragging-and-dropping thousands of files—or worse, manually deleting duplicates—felt like a recipe for disaster. One wrong click and a decade of memories could be gone.</p>
+<p>Here is how I solved it using a "Safety-First" framework and a custom Python deduplication engine.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-problem-data-hoarding--the-ntfs-wall">The Problem: Data Hoarding &amp; The NTFS Wall<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-problem-data-hoarding--the-ntfs-wall" class="hash-link" aria-label="Direct link to The Problem: Data Hoarding &amp; The NTFS Wall" title="Direct link to The Problem: Data Hoarding &amp; The NTFS Wall" translate="no">​</a></h2>
+<p>I had a massive archive of media to move to my reliable <strong>Seagate Backup Plus</strong>. But I faced three major hurdles:</p>
+<ol>
+<li class=""><strong>The Risk of Loss</strong>: Drag-and-drop in Finder is "silent." If it fails halfway, you don't know what's copied and what's not.</li>
+<li class=""><strong>The NTFS Wall</strong>: My Seagate drive was formatted in NTFS (Windows standard), making it <strong>Read-Only</strong> on my Mac. I couldn't write a single byte to it.</li>
+<li class=""><strong>The Duplicate Nightmare</strong>: Over years of backups, I had hundreds of duplicate files with different names (e.g., <code>IMG_123.jpg</code> vs <code>IMG_123_copy.jpg</code>).</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="attempt-1-the-manual-way-and-why-i-didnt-do-it">Attempt 1: The Manual Way (and why I didn't do it)<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#attempt-1-the-manual-way-and-why-i-didnt-do-it" class="hash-link" aria-label="Direct link to Attempt 1: The Manual Way (and why I didn't do it)" title="Direct link to Attempt 1: The Manual Way (and why I didn't do it)" translate="no">​</a></h2>
+<p>Manual deletion is the enemy of accuracy. I considered online "Duplicate Finder" tools, but I didn't want to grant a random app access to my entire photo library, nor did I want to pay $20 for a one-time cleanup.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-solution-ai-guided-safety-first-migration">The Solution: AI-Guided "Safety-First" Migration<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-solution-ai-guided-safety-first-migration" class="hash-link" aria-label="Direct link to The Solution: AI-Guided &quot;Safety-First&quot; Migration" title="Direct link to The Solution: AI-Guided &quot;Safety-First&quot; Migration" translate="no">​</a></h2>
+<p>I decided to pair-program the solution with my AI coding agent. We broke the process into 100% safe checkpoints.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-1-overcoming-the-ntfs-barrier">Phase 1: Overcoming the NTFS Barrier<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#phase-1-overcoming-the-ntfs-barrier" class="hash-link" aria-label="Direct link to Phase 1: Overcoming the NTFS Barrier" title="Direct link to Phase 1: Overcoming the NTFS Barrier" translate="no">​</a></h3>
+<p>Before moving data, I had to fix the "Read-Only" status. Guided by the AI, I installed a professional NTFS driver (Paragon). After a quick reboot and some permission juggling, my Seagate was finally writable.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-2-the-immutable-copy-rsync">Phase 2: The "Immutable" Copy (Rsync)<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#phase-2-the-immutable-copy-rsync" class="hash-link" aria-label="Direct link to Phase 2: The &quot;Immutable&quot; Copy (Rsync)" title="Direct link to Phase 2: The &quot;Immutable&quot; Copy (Rsync)" translate="no">​</a></h3>
+<p>Instead of a simple copy, we used <code>rsync</code>.</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#F8F8F2"><span class="token plain">rsync -avh --progress --ignore-existing "[Source]" "[Destination]"</span><br></div></code></pre></div></div>
+<p><strong>Why?</strong> Because <code>rsync</code> is resumable. If my Mac crashed during the 52GB transfer, I could just run it again, and it would pick up exactly where it left off, skipping everything already safe on the drive.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-3-the-fingerprinting-logic-the-magic-part">Phase 3: The "Fingerprinting" Logic (The 'Magic' Part)<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#phase-3-the-fingerprinting-logic-the-magic-part" class="hash-link" aria-label="Direct link to Phase 3: The &quot;Fingerprinting&quot; Logic (The 'Magic' Part)" title="Direct link to Phase 3: The &quot;Fingerprinting&quot; Logic (The 'Magic' Part)" translate="no">​</a></h3>
+<p>Once the data was safely on the Seagate, I wanted to remove duplicates. This is where the AI suggested something far superior to filename checking: <strong>SHA-256 Hashing.</strong></p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-logic-behind-the-scenes">The Logic Behind the Scenes:<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-logic-behind-the-scenes" class="hash-link" aria-label="Direct link to The Logic Behind the Scenes:" title="Direct link to The Logic Behind the Scenes:" translate="no">​</a></h4>
+<ol>
+<li class=""><strong>Size Grouping</strong>: The script first groups files by their size. If two files are different sizes, they <em>cannot</em> be the same.</li>
+<li class=""><strong>Cryptographic Fingerprinting</strong>: For files with the same size, the script generates a unique SHA-256 "Hash" (a digital fingerprint).</li>
+<li class=""><strong>O(1) Lookup</strong>: Using a Python dictionary (Hashmap), we can check if we've seen that exact fingerprint before in constant time.</li>
+</ol>
+<p>If the fingerprints match, the data is 100% identical byte-for-byte, regardless of the filename.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-results">The Results<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-results" class="hash-link" aria-label="Direct link to The Results" title="Direct link to The Results" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Space Saved</strong>: <strong>52GB</strong> instantly reclaimed on my Mac.</li>
+<li class=""><strong>Accuracy</strong>: 100%. We verified the file counts and total bytes using <code>find</code> and <code>du</code>.</li>
+<li class=""><strong>Time Invested</strong>: About 10 minutes of setup for a process that would have taken hours of manual sorting.</li>
+<li class=""><strong>Cost</strong>: $0 ($20 saved on premium deduplication apps).</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion">Conclusion<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" translate="no">​</a></h2>
+<p>This journey reminded me that coding isn't just for building products; it's a productivity superpower for our daily lives. By automating the "boring" and "risky" parts of file management with AI, I moved from a panicked "Disk Full" state to a perfectly organized, deduplicated archive in a single afternoon.</p>
+<p><strong>Safe moving, safe coding!</strong></p>]]></content>
+        <author>
+            <name>Arpit Sharma</name>
+            <uri>https://yesarpit.github.io</uri>
+        </author>
+        <category label="productivity" term="productivity"/>
+        <category label="macos" term="macos"/>
+        <category label="ai" term="ai"/>
+        <category label="python" term="python"/>
+        <category label="storage" term="storage"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lessons I Am Trying Not to Forget]]></title>
         <id>https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget</id>
         <link href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget"/>
-        <updated>2026-09-24T00:00:00.000Z</updated>
+        <updated>2026-03-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams.]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/lessons-i-am-trying-not-to-forget#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Not every post needs to be a framework.</p>
@@ -82,61 +137,6 @@ But sometimes what helps most is a smaller list you can return to when life gets
         <category label="life-skills" term="life-skills"/>
         <category label="leadership" term="leadership"/>
         <category label="executive-lessons" term="executive-lessons"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reclaiming 50GB+ Mac Storage Safely: A Journey from 'Disk Full' to AI-Powered Deduping]]></title>
-        <id>https://www.arpitsharma.me/blog/safe-media-migration-ai</id>
-        <link href="https://www.arpitsharma.me/blog/safe-media-migration-ai"/>
-        <updated>2026-04-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams.]]></summary>
-        <content type="html"><![CDATA[<p>We've all been there: the dreaded <strong>"Your disk is almost full"</strong> notification on macOS. This week, I hit the wall. A 52GB folder of mobile backups, photos, and videos was choking my internal SSD.</p>
-<p>But as an engineer, the thought of manually dragging-and-dropping thousands of files—or worse, manually deleting duplicates—felt like a recipe for disaster. One wrong click and a decade of memories could be gone.</p>
-<p>Here is how I solved it using a "Safety-First" framework and a custom Python deduplication engine.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-problem-data-hoarding--the-ntfs-wall">The Problem: Data Hoarding &amp; The NTFS Wall<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-problem-data-hoarding--the-ntfs-wall" class="hash-link" aria-label="Direct link to The Problem: Data Hoarding &amp; The NTFS Wall" title="Direct link to The Problem: Data Hoarding &amp; The NTFS Wall" translate="no">​</a></h2>
-<p>I had a massive archive of media to move to my reliable <strong>Seagate Backup Plus</strong>. But I faced three major hurdles:</p>
-<ol>
-<li class=""><strong>The Risk of Loss</strong>: Drag-and-drop in Finder is "silent." If it fails halfway, you don't know what's copied and what's not.</li>
-<li class=""><strong>The NTFS Wall</strong>: My Seagate drive was formatted in NTFS (Windows standard), making it <strong>Read-Only</strong> on my Mac. I couldn't write a single byte to it.</li>
-<li class=""><strong>The Duplicate Nightmare</strong>: Over years of backups, I had hundreds of duplicate files with different names (e.g., <code>IMG_123.jpg</code> vs <code>IMG_123_copy.jpg</code>).</li>
-</ol>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="attempt-1-the-manual-way-and-why-i-didnt-do-it">Attempt 1: The Manual Way (and why I didn't do it)<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#attempt-1-the-manual-way-and-why-i-didnt-do-it" class="hash-link" aria-label="Direct link to Attempt 1: The Manual Way (and why I didn't do it)" title="Direct link to Attempt 1: The Manual Way (and why I didn't do it)" translate="no">​</a></h2>
-<p>Manual deletion is the enemy of accuracy. I considered online "Duplicate Finder" tools, but I didn't want to grant a random app access to my entire photo library, nor did I want to pay $20 for a one-time cleanup.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-solution-ai-guided-safety-first-migration">The Solution: AI-Guided "Safety-First" Migration<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-solution-ai-guided-safety-first-migration" class="hash-link" aria-label="Direct link to The Solution: AI-Guided &quot;Safety-First&quot; Migration" title="Direct link to The Solution: AI-Guided &quot;Safety-First&quot; Migration" translate="no">​</a></h2>
-<p>I decided to pair-program the solution with my AI coding agent. We broke the process into 100% safe checkpoints.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-1-overcoming-the-ntfs-barrier">Phase 1: Overcoming the NTFS Barrier<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#phase-1-overcoming-the-ntfs-barrier" class="hash-link" aria-label="Direct link to Phase 1: Overcoming the NTFS Barrier" title="Direct link to Phase 1: Overcoming the NTFS Barrier" translate="no">​</a></h3>
-<p>Before moving data, I had to fix the "Read-Only" status. Guided by the AI, I installed a professional NTFS driver (Paragon). After a quick reboot and some permission juggling, my Seagate was finally writable.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-2-the-immutable-copy-rsync">Phase 2: The "Immutable" Copy (Rsync)<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#phase-2-the-immutable-copy-rsync" class="hash-link" aria-label="Direct link to Phase 2: The &quot;Immutable&quot; Copy (Rsync)" title="Direct link to Phase 2: The &quot;Immutable&quot; Copy (Rsync)" translate="no">​</a></h3>
-<p>Instead of a simple copy, we used <code>rsync</code>.</p>
-<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#F8F8F2"><span class="token plain">rsync -avh --progress --ignore-existing "[Source]" "[Destination]"</span><br></div></code></pre></div></div>
-<p><strong>Why?</strong> Because <code>rsync</code> is resumable. If my Mac crashed during the 52GB transfer, I could just run it again, and it would pick up exactly where it left off, skipping everything already safe on the drive.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="phase-3-the-fingerprinting-logic-the-magic-part">Phase 3: The "Fingerprinting" Logic (The 'Magic' Part)<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#phase-3-the-fingerprinting-logic-the-magic-part" class="hash-link" aria-label="Direct link to Phase 3: The &quot;Fingerprinting&quot; Logic (The 'Magic' Part)" title="Direct link to Phase 3: The &quot;Fingerprinting&quot; Logic (The 'Magic' Part)" translate="no">​</a></h3>
-<p>Once the data was safely on the Seagate, I wanted to remove duplicates. This is where the AI suggested something far superior to filename checking: <strong>SHA-256 Hashing.</strong></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-logic-behind-the-scenes">The Logic Behind the Scenes:<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-logic-behind-the-scenes" class="hash-link" aria-label="Direct link to The Logic Behind the Scenes:" title="Direct link to The Logic Behind the Scenes:" translate="no">​</a></h4>
-<ol>
-<li class=""><strong>Size Grouping</strong>: The script first groups files by their size. If two files are different sizes, they <em>cannot</em> be the same.</li>
-<li class=""><strong>Cryptographic Fingerprinting</strong>: For files with the same size, the script generates a unique SHA-256 "Hash" (a digital fingerprint).</li>
-<li class=""><strong>O(1) Lookup</strong>: Using a Python dictionary (Hashmap), we can check if we've seen that exact fingerprint before in constant time.</li>
-</ol>
-<p>If the fingerprints match, the data is 100% identical byte-for-byte, regardless of the filename.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-results">The Results<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#the-results" class="hash-link" aria-label="Direct link to The Results" title="Direct link to The Results" translate="no">​</a></h2>
-<ul>
-<li class=""><strong>Space Saved</strong>: <strong>52GB</strong> instantly reclaimed on my Mac.</li>
-<li class=""><strong>Accuracy</strong>: 100%. We verified the file counts and total bytes using <code>find</code> and <code>du</code>.</li>
-<li class=""><strong>Time Invested</strong>: About 10 minutes of setup for a process that would have taken hours of manual sorting.</li>
-<li class=""><strong>Cost</strong>: $0 ($20 saved on premium deduplication apps).</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion">Conclusion<a href="https://www.arpitsharma.me/blog/safe-media-migration-ai#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" translate="no">​</a></h2>
-<p>This journey reminded me that coding isn't just for building products; it's a productivity superpower for our daily lives. By automating the "boring" and "risky" parts of file management with AI, I moved from a panicked "Disk Full" state to a perfectly organized, deduplicated archive in a single afternoon.</p>
-<p><strong>Safe moving, safe coding!</strong></p>]]></content>
-        <author>
-            <name>Arpit Sharma</name>
-            <uri>https://yesarpit.github.io</uri>
-        </author>
-        <category label="productivity" term="productivity"/>
-        <category label="macos" term="macos"/>
-        <category label="ai" term="ai"/>
-        <category label="python" term="python"/>
-        <category label="storage" term="storage"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Memos I Wish More Leaders Wrote]]></title>
@@ -337,7 +337,7 @@ Then one day people call it trajectory.</p>]]></content>
         <title type="html"><![CDATA[Executive Presence Without Theater]]></title>
         <id>https://www.arpitsharma.me/blog/executive-presence-without-theater</id>
         <link href="https://www.arpitsharma.me/blog/executive-presence-without-theater"/>
-        <updated>2025-08-29T00:00:00.000Z</updated>
+        <updated>2025-07-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Insights on engineering leadership, decision-making under pressure, and scaling high-performance technical teams.]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="read-this">Read This<a href="https://www.arpitsharma.me/blog/executive-presence-without-theater#read-this" class="hash-link" aria-label="Direct link to Read This" title="Direct link to Read This" translate="no">​</a></h3>
 <p>Executive presence is one of those phrases that sounds useful and annoying at the same time.</p>
