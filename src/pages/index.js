@@ -532,7 +532,7 @@ export default function Home() {
 
   .awards-row {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 1px;
     background: var(--border);
     border: 1px solid var(--border);
@@ -999,6 +999,11 @@ export default function Home() {
 
   <div class="awards-row">
     <div class="award-card">
+      <div class="award-org">🚀 Live App</div>
+      <div class="award-name"><a href="https://goaltracker.online/" target="_blank" style="color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;">Goal Tracker ↗</a></div>
+      <div class="award-year">2026 · Frictionless, high-performance web app for goal tracking</div>
+    </div>
+    <div class="award-card">
       <div class="award-org">🏆 PayPal</div>
       <div class="award-name">Highest Availability Award</div>
       <div class="award-year">2024 – 25 · 99.999% Uptime Consumer Platforms</div>
@@ -1069,6 +1074,8 @@ export default function Home() {
 <footer>
   <div class="footer-copy">© 2026 Arpit Sharma</div>
   <div class="footer-handle">
+    <a href="https://goaltracker.online/" target="_blank">Goal Tracker</a>
+    &nbsp;·&nbsp;
     <a href="https://github.com/yesarpit" target="_blank">@yesarpit</a>
     &nbsp;·&nbsp; Pune, India
   </div>

@@ -117,6 +117,10 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'Goal Tracker App',
+                href: 'https://goaltracker.online/',
+              },
+              {
                 label: 'Blog',
                 to: '/blog',
               },

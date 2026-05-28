@@ -1,0 +1,77 @@
+Risks of Running OpenClaw on Your Primary Account
+
+tl;dr: Catastrophic. Don't do it.
+If OpenClaw is compromised on your primary account, you've essentially handed an attacker the keys to your entire digital life. Not "someday maybe," but immediately and permanently.
+
+What Happens When It's Compromised
+OpenClaw runs with your user permissions. If something goes wrong—a malicious skill, a prompt injection attack, an unpatched CVE—the attacker has your permissions. Not root, but your account. Which means:
+Immediate Access (Seconds after compromise)
+
+SSH keys: A security researcher demonstrated how to extract a private key from a computer running OpenClaw by sending an email containing a prompt injection to the linked inbox. The agent handed over the SSH private key from the compromised machine CCB Safeonweb.
+API credentials: OpenClaw stores API keys in ~/.openclaw/openclaw.json and associated credential files. A compromised skill just reads the file and exfiltrates everything Blink.
+Browser cookies: All your logged-in sessions—Gmail, Twitter, your bank, everything stored in ~/Library/Safari or ~/Library/Google/Chrome.
+Password manager: If you use a local keychain or keepass, it's readable.
+
+Permanent Damage (Hours after compromise)
+
+Remote server access: With your SSH keys, attacker can access every server you have deploy rights to.
+Account takeover: Browser cookies give permanent access to email, which then gives access to every other account (password resets).
+Supply chain pivot: GitHub API keys let them commit backdoors to your repos, which then infect anyone who clones them.
+Financial services: AWS keys, Stripe credentials, cloud provider access—all yours to steal.
+
+Why "Separation of Concerns" Matters Here
+If OpenClaw runs on a dedicated non-root account, a compromise is contained. Attacker gets:
+
+Just that account's files (limited)
+Nothing in your home directory
+No SSH keys
+No browser data
+No keychain access
+
+Blast radius: Maybe a few scripts you were tinkering with. Not "your entire digital identity."
+
+How Realistic Is Compromise?
+Very real, and it's happening right now:
+In April 2026, OpenClaw fixed 13 CVEs, with the highest being CVE-2026-35639 (CVSS 8.7) allowing any caller—including unauthenticated callers on instances without auth enabled—to escalate to full operator access. On unauthenticated instances, it is remotely exploitable with zero credentials required Price Per Token.
+CVE-2026-32922 is the most severe vulnerability in OpenClaw's history. A single API call converts a pairing token into full administrative control with RCE capability. With 135,000+ exposed instances, 63% running without any authentication layer Haimaker.
+Between January and February 2026, 341 malicious skills were discovered in ClawHub (over 12% of the registry). A single compromised skill gave attackers persistent access to every service the agent could reach. The campaign, tracked as ClawHavoc, targeted one thing: the plaintext credentials in ~/.openclaw/ TheHackerWire.
+These aren't hypothetical. These are active campaigns with documented proof-of-concept code.
+
+Real Attack Scenarios That Happened
+In one documented test, a user sent an email to themselves with instructions that caused the bot to leak emails from one person to another with neither prompts nor confirmations. In another test, asking the bot to run "find ~" caused it to readily dump the entire home directory contents into a group chat, exposing sensitive information CCB Safeonweb.
+One incident involved API key exposure through overly chatty error messages. An agent tried to access a service, failed, and reported the full error including the API key it attempted to use. That error got logged to a monitoring service with public dashboards DailyCVE.
+These happened to real people. With their real data.
+
+The CVE Situation Is Dire
+CVE-2026-33579 is a privilege escalation vulnerability in OpenClaw before 2026.3.28 that lets any attacker with pairing access silently gain full admin control over the instance. The practical impact is severe: an attacker who already holds operator.pairing scope can approve device pairing requests that ask for operator.admin scope and obtain full administrative access Solvea.
+CVE-2026-41329 is a critical sandbox bypass vulnerability (CVSS 9.9) affecting OpenClaw before version 2026.3.31. Attackers can exploit it to escalate privileges by bypassing sandbox restrictions and execute operations outside their intended sandboxed environment LinkedIn.
+You need to be on the latest patch the day it releases. Missing even one patch leaves you vulnerable to known, exploitable holes. On a primary account, that's unforgivable.
+
+The Credential Problem Is Structural
+OpenClaw stores every API key in one plaintext file. Every skill reads the same file. When ClawHavoc proved what happens next, the fix became clear: there is no scoping. The agent holds one ring of keys and every skill can grab any key on the ring TheHackerWire.
+You can't "hardcode secrets securely" into OpenClaw. The architecture doesn't support it. Every skill has access to everything.
+
+On Your Dedicated Account: Blast Radius Contained
+If OpenClaw is compromised on the openclaw-agent account:
+
+Attacker gets: That one user's files (maybe some scripts, test data)
+Attacker cannot get: Your SSH keys, your API keys, your browser cookies, your password manager
+Damage scope: Limited to what you stored specifically for the agent
+Recovery: Delete the account, create a new one, you're done
+
+On your primary account:
+
+Attacker gets: Everything
+Damage scope: Total compromise
+Recovery: Change every password, rotate every API key, scan for backdoors, hope you catch them all
+
+
+Why Security Experts Are So Loud About This
+The security community has documented trivial compromise vectors. Despite every red flag, OpenClaw has gone viral. Developers are running it on their primary machines with production credentials and default configurations. This is harm reduction Valletta Software.
+The tool is powerful. It's also architecturally risky. The combination of power + risk is why you must isolate it.
+
+Bottom Line
+ScenarioRiskRecovery TimeOn dedicated accountLimited to agent dataMinutes (delete account)On primary accountTotal identity compromiseWeeks (if you catch it)On primary + no isolationPermanent backdoor accessMonths (you may never catch it)
+Running OpenClaw on your primary account is like handing a burglar a key to your house "just in case." The convenience isn't worth the catastrophic downside.
+Use the separate account. Or use Tailscale Serve to manage it remotely. Or don't use OpenClaw at all if you can't isolate it. But do not run it with full access to your SSH keys, browser, and password manager.
+This is not a judgment call. This is risk management.
