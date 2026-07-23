@@ -200,7 +200,6 @@ export default function Home() {
 
 <div class="minimal-page">
 <nav>
-  <div class="mp-nav-logo">Arpit Sharma</div>
   <ul class="mp-nav-links">
     <li><a href="#career">Career</a></li>
     <li><a href="#moments">Work</a></li>
